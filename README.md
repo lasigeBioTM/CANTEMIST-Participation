@@ -2,7 +2,7 @@
 Code relative to the participation of the lasigeBioTM team in the [CANTEMIST-CANcer TExt Mining Shared Task – tumor named entity recognition](https://temu.bsc.es/cantemist/).
 
 ## Preparation
-Get the necessary data to reproduce the experiments from:
+Get the necessary data to reproduce the experiments:
 
 ```
 ./get_data.sh
@@ -14,19 +14,19 @@ To install all the necessary dependencies to run the code:
 pip3 install -r requirements.txt
 ```
 
-## 1.CANTEMIST-NER
+## 1. CANTEMIST-NER
 
 - Train Spanish Biomedical Flair Embeddings: pre-processes Spanish PubMed abstracts and then train the FLAIR embeddings on the raw text.
 
 ```
-python3 src/NER/train_flair_embeddings.py <mesinesp_subset> <direction> 
+python3 src/NER/train_flair_embeddings.py <mesinesp_subset> <direction>
 ```
 
 Args:
-  - <mesinesp_subset> : mesinesp_1, mesinesp_2, mesinesp_3 or mesinesp_4; each subset contains the raw text of ~32500 PubMed abstracts 
-  - <direction> : is 'fwd' if training foward language model and 'bwd' if training backward language model
+  - <mesinesp_subset> : mesinesp_1, mesinesp_2, mesinesp_3 or mesinesp_4; each subset contains the raw text of ~32500 PubMed abstracts.
+  - \<direction> : is 'fwd' if training foward language model and 'bwd' if training backward language model.
 
-The output will be in '/trained\_embeddings/<mesinesp_subset>/<direction>/' directory.
+The output will be in '/trained\_embeddings/<mesinesp_subset>/\<direction>/' directory.
 
 
 - Train Spanish Biomedical NER tagger: converts the CANTEMIST dataset to IOB2 schema and then train a NER tagger with the Spanish Biomedical Flair embeddings.
@@ -43,7 +43,7 @@ The output will be in '/resources/taggers/medium' directory
 python3 src/NER/predict_ner.py
 ```
 
-The annotation files will be in './evaluation/NER/test/' directory
+The annotation files will be in './evaluation/NER/' directory
 
 
 ## 2. CANTEMIST-NORM
