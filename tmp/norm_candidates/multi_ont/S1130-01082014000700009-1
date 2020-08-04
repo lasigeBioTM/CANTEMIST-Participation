@@ -1,0 +1,23 @@
+ENTITY	text:enfermedad hepática	normalName:enfermedad_hepática	predictedType:MOR_NEO	q:true	qid:Q1519	docId:S1130-01082014000700009-1	origText:enfermedad hepática	url:NaN
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:5	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:97603	inCount:5	outCount:1	links:	url:9760/3	name:Enfermedad inmunoproliferativa, SAI	normalName:enfermedad_inmunoproliferativa,_sai	normalWikiTitle:enfermedad_inmunoproliferativa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:85406	inCount:0	outCount:1	links:	url:8540/6	name:Enfermedad de Paget, mamaria, metástasis	normalName:enfermedad_de_paget,_mamaria,_metástasis	normalWikiTitle:enfermedad_de_paget,_mamaria,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97681	inCount:0	outCount:1	links:	url:9768/1	name:Enfermedad linfoproliferativa T-gamma	normalName:enfermedad_linfoproliferativa_t-gamma	normalWikiTitle:enfermedad_linfoproliferativa_t-gamma	predictedType:MOR_NEO
+CANDIDATE	id:91843	inCount:5	outCount:1	links:	url:9184/3	name:Osteosarcoma en enfermedad ósea de Paget	normalName:osteosarcoma_en_enfermedad_ósea_de_paget	normalWikiTitle:osteosarcoma_en_enfermedad_ósea_de_paget	predictedType:MOR_NEO
+CANDIDATE	id:82130	inCount:0	outCount:1	links:	url:8213/0	name:Adenoma dentado	normalName:adenoma_dentado	normalWikiTitle:adenoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad, Sézary	normalName:enfermedad,_sézary	normalWikiTitle:enfermedad,_sézary	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad, Paget extramamaria	normalName:enfermedad,_paget_extramamaria	normalWikiTitle:enfermedad,_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:8401	inCount:10	outCount:1	links:	url:C84.1	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:4701	inCount:0	outCount:1	links:	url:D47.1	name:Enfermedad mieloproliferativa crónica	normalName:enfermedad_mieloproliferativa_crónica	normalWikiTitle:enfermedad_mieloproliferativa_crónica	predictedType:MOR_NEO
+CANDIDATE	id:9406	inCount:0	outCount:1	links:	url:C94.6	name:Enfermedad mielodisplásica, no clasificada	normalName:enfermedad_mielodisplásica,_no_clasificada	normalWikiTitle:enfermedad_mielodisplásica,_no_clasificada	predictedType:MOR_NEO
+CANDIDATE	id:8802	inCount:0	outCount:1	links:	url:C88.2	name:Enfermedad de cadenas pesadas	normalName:enfermedad_de_cadenas_pesadas	normalWikiTitle:enfermedad_de_cadenas_pesadas	predictedType:MOR_NEO
+CANDIDATE	id:47002	inCount:0	outCount:1	links:	url:D47.Z2	name:Enfermedad de Castleman	normalName:enfermedad_de_castleman	normalWikiTitle:enfermedad_de_castleman	predictedType:MOR_NEO
+CANDIDATE	id:8281	inCount:23	outCount:1	links:	url:8281	name:enfermedades hepáticas	normalName:enfermedades_hepáticas	normalWikiTitle:enfermedades_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:14165	inCount:0	outCount:1	links:	url:14165	name:enfermedades talámicas	normalName:enfermedades_talámicas	normalWikiTitle:enfermedades_talámicas	predictedType:MOR_NEO
+CANDIDATE	id:14283	inCount:1	outCount:1	links:	url:14283	name:enfermedades torácicas	normalName:enfermedades_torácicas	normalWikiTitle:enfermedades_torácicas	predictedType:MOR_NEO
+CANDIDATE	id:10370	inCount:7	outCount:1	links:	url:10370	name:enfermedades pancreáticas	normalName:enfermedades_pancreáticas	normalWikiTitle:enfermedades_pancreáticas	predictedType:MOR_NEO
+CANDIDATE	id:8383	inCount:14	outCount:1	links:	url:8383	name:enfermedades linfáticas	normalName:enfermedades_linfáticas	normalWikiTitle:enfermedades_linfáticas	predictedType:MOR_NEO

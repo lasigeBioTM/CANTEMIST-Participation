@@ -1,0 +1,21 @@
+ENTITY	text:tumores	normalName:tumores	predictedType:MOR_NEO	q:true	qid:Q1009	docId:S0716-10182009000200009-1	origText:tumores	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:4	outCount:1	links:	url:D3A.0	name:Tumores carcinoides benignos	normalName:tumores_carcinoides_benignos	normalWikiTitle:tumores_carcinoides_benignos	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:26	inCount:4	outCount:1	links:	url:D26	name:Otros tumores benignos de útero	normalName:otros_tumores_benignos_de_útero	normalWikiTitle:otros_tumores_benignos_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:6	outCount:1	links:	url:C7B.0	name:Tumores carcinoides secundarios	normalName:tumores_carcinoides_secundarios	normalWikiTitle:tumores_carcinoides_secundarios	predictedType:MOR_NEO
+CANDIDATE	id:57324	inCount:0	outCount:1	links:	url:57324	name:fumadores	normalName:fumadores	normalWikiTitle:fumadores	predictedType:MOR_NEO
+CANDIDATE	id:37730	inCount:0	outCount:1	links:	url:37730	name:menores	normalName:menores	normalWikiTitle:menores	predictedType:MOR_NEO
+CANDIDATE	id:2050	inCount:1	outCount:1	links:	url:2050	name:tampones	normalName:tampones	normalWikiTitle:tampones	predictedType:MOR_NEO
+CANDIDATE	id:5043	inCount:7	outCount:1	links:	url:5043	name:éteres	normalName:éteres	normalWikiTitle:éteres	predictedType:MOR_NEO
+CANDIDATE	id:22941	inCount:0	outCount:1	links:	url:22941	name:mentores	normalName:mentores	normalWikiTitle:mentores	predictedType:MOR_NEO

@@ -1,0 +1,11 @@
+ENTITY	text:células malignas	normalName:células_malignas	predictedType:MOR_NEO	q:true	qid:Q325	docId:caso_clinico_radiologia585	origText:células malignas	url:NaN
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:80023	inCount:5	outCount:1	links:	url:8002/3	name:Tumor maligno de células pequeñas	normalName:tumor_maligno_de_células_pequeñas	normalWikiTitle:tumor_maligno_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:959035	inCount:0	outCount:1	links:	url:9590/35	name:Linfoma maligno, SAI - células T	normalName:linfoma_maligno,_sai_-_células_t	normalWikiTitle:linfoma_maligno,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:959036	inCount:0	outCount:1	links:	url:9590/36	name:Linfoma maligno, SAI - células B	normalName:linfoma_maligno,_sai_-_células_b	normalWikiTitle:linfoma_maligno,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:959037	inCount:0	outCount:1	links:	url:9590/37	name:Linfoma maligno, SAI - células nulas	normalName:linfoma_maligno,_sai_-_células_nulas	normalWikiTitle:linfoma_maligno,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:959038	inCount:0	outCount:1	links:	url:9590/38	name:Linfoma maligno, SAI - células NK	normalName:linfoma_maligno,_sai_-_células_nk	normalWikiTitle:linfoma_maligno,_sai_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93103	inCount:5	outCount:1	links:	url:9310/3	name:Ameloblastoma maligno	normalName:ameloblastoma_maligno	normalWikiTitle:ameloblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO

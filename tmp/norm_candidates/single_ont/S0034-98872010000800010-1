@@ -1,0 +1,32 @@
+ENTITY	text:metaplasia	normalName:metaplasia	predictedType:MOR_NEO	q:true	qid:Q2322	docId:S0034-98872010000800010-1	origText:metaplasia	url:NaN
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:80500	inCount:0	outCount:1	links:	url:8050/0	name:Papiloma, SAI	normalName:papiloma,_sai	normalWikiTitle:papiloma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93626	inCount:0	outCount:1	links:	url:9362/6	name:Pineoblastoma, metástasis	normalName:pineoblastoma,_metástasis	normalWikiTitle:pineoblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89030	inCount:0	outCount:1	links:	url:8903/0	name:Rabdomioma fetal	normalName:rabdomioma_fetal	normalWikiTitle:rabdomioma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:85753;857533;857531;857539;857534;857532	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:89820	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+CANDIDATE	id:92720	inCount:0	outCount:1	links:	url:9272/0	name:Cementoma, SAI	normalName:cementoma,_sai	normalWikiTitle:cementoma,_sai	predictedType:MOR_NEO
+ENTITY	text:metaplásico	normalName:metaplásico	predictedType:MOR_NEO	q:true	qid:Q2322	docId:S0034-98872010000800010-1	origText:metaplásico	url:NaN
+CANDIDATE	id:85753	inCount:5	outCount:1	links:85753;857533;857531;857539;857534;857532	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:5	outCount:1	links:	url:8095/3	name:Carcinoma metatípico	normalName:carcinoma_metatípico	normalWikiTitle:carcinoma_metatípico	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89353	inCount:5	outCount:1	links:	url:8935/3	name:Sarcoma estromal, SAI	normalName:sarcoma_estromal,_sai	normalWikiTitle:sarcoma_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:89820	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+CANDIDATE	id:91403	inCount:5	outCount:1	links:	url:9140/3	name:Sarcoma de Kaposi	normalName:sarcoma_de_kaposi	normalWikiTitle:sarcoma_de_kaposi	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:85753;857533;857531;857539;857534;857532	url:8575/3	name:Ca metaplásico, SAI	normalName:ca_metaplásico,_sai	normalWikiTitle:ca_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:5	outCount:1	links:	url:8095/3	name:Ca metatípico	normalName:ca_metatípico	normalWikiTitle:ca_metatípico	predictedType:MOR_NEO
+CANDIDATE	id:857531	inCount:0	outCount:1	links:85753	url:8575/31	name:Ca metaplásico, SAI - G1	normalName:ca_metaplásico,_sai_-_g1	normalWikiTitle:ca_metaplásico,_sai_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:857532	inCount:0	outCount:1	links:85753	url:8575/32	name:Ca metaplásico, SAI - G2	normalName:ca_metaplásico,_sai_-_g2	normalWikiTitle:ca_metaplásico,_sai_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:857533	inCount:0	outCount:1	links:85753	url:8575/33	name:Ca metaplásico, SAI - G3	normalName:ca_metaplásico,_sai_-_g3	normalWikiTitle:ca_metaplásico,_sai_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:857534	inCount:0	outCount:1	links:85753	url:8575/34	name:Ca metaplásico, SAI - G4	normalName:ca_metaplásico,_sai_-_g4	normalWikiTitle:ca_metaplásico,_sai_-_g4	predictedType:MOR_NEO
+CANDIDATE	id:857539	inCount:0	outCount:1	links:85753	url:8575/39	name:Ca metaplásico, SAI - GSD	normalName:ca_metaplásico,_sai_-_gsd	normalWikiTitle:ca_metaplásico,_sai_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:809531	inCount:0	outCount:1	links:	url:8095/31	name:Ca metatípico - G1	normalName:ca_metatípico_-_g1	normalWikiTitle:ca_metatípico_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:809532	inCount:0	outCount:1	links:	url:8095/32	name:Ca metatípico - G2	normalName:ca_metatípico_-_g2	normalWikiTitle:ca_metatípico_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:809533	inCount:0	outCount:1	links:	url:8095/33	name:Ca metatípico - G3	normalName:ca_metatípico_-_g3	normalWikiTitle:ca_metatípico_-_g3	predictedType:MOR_NEO

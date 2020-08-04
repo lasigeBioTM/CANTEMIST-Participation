@@ -1,0 +1,22 @@
+ENTITY	text:benignidad	normalName:benignidad	predictedType:MOR_NEO	q:true	qid:Q2135	docId:S0212-71992005000100006-1	origText:benignidad	url:NaN
+CANDIDATE	id:85800	inCount:0	outCount:1	links:	url:8580/0	name:Timoma benigno	normalName:timoma_benigno	normalWikiTitle:timoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:90400	inCount:0	outCount:1	links:	url:9040/0	name:Sinovioma benigno	normalName:sinovioma_benigno	normalWikiTitle:sinovioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90500	inCount:0	outCount:1	links:	url:9050/0	name:Mesotelioma benigno	normalName:mesotelioma_benigno	normalWikiTitle:mesotelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90800	inCount:0	outCount:1	links:	url:9080/0	name:Teratoma benigno	normalName:teratoma_benigno	normalWikiTitle:teratoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89900	inCount:0	outCount:1	links:	url:8990/0	name:Mesenquimoma benigno	normalName:mesenquimoma_benigno	normalWikiTitle:mesenquimoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:86800	inCount:0	outCount:1	links:	url:8680/0	name:Paraganglioma, benigno	normalName:paraganglioma,_benigno	normalWikiTitle:paraganglioma,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90200	inCount:0	outCount:1	links:	url:9020/0	name:Tumor filodes benigno	normalName:tumor_filodes_benigno	normalWikiTitle:tumor_filodes_benigno	predictedType:MOR_NEO
+CANDIDATE	id:95300	inCount:0	outCount:1	links:	url:9530/0	name:Meningioma, SAI	normalName:meningioma,_sai	normalWikiTitle:meningioma,_sai	predictedType:MOR_NEO
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q2135	docId:S0212-71992005000100006-1	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO

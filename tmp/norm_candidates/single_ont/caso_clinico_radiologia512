@@ -1,0 +1,12 @@
+ENTITY	text:tumor carcinoide	normalName:tumor_carcinoide	predictedType:MOR_NEO	q:true	qid:Q2027	docId:caso_clinico_radiologia512	origText:tumor carcinoide	url:NaN
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82493	inCount:5	outCount:1	links:	url:8249/3	name:Tumor carcinoide atípico	normalName:tumor_carcinoide_atípico	normalWikiTitle:tumor_carcinoide_atípico	predictedType:MOR_NEO
+CANDIDATE	id:82451	inCount:0	outCount:1	links:	url:8245/1	name:Carcinoide tubular	normalName:carcinoide_tubular	normalWikiTitle:carcinoide_tubular	predictedType:MOR_NEO
+CANDIDATE	id:82453	inCount:5	outCount:1	links:	url:8245/3	name:Tumor adenocarcinoide	normalName:tumor_adenocarcinoide	normalWikiTitle:tumor_adenocarcinoide	predictedType:MOR_NEO
+CANDIDATE	id:91003	inCount:5	outCount:1	links:	url:9100/3	name:Coriocarcinoma, SAI	normalName:coriocarcinoma,_sai	normalWikiTitle:coriocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90911	inCount:0	outCount:1	links:	url:9091/1	name:Carcinoide estrumal	normalName:carcinoide_estrumal	normalWikiTitle:carcinoide_estrumal	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:82403	inCount:5	outCount:1	links:	url:8240/3	name:Tumor carcinoide, SAI	normalName:tumor_carcinoide,_sai	normalWikiTitle:tumor_carcinoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82493	inCount:5	outCount:1	links:	url:8249/3	name:Tum carcinoide atípico	normalName:tum_carcinoide_atípico	normalWikiTitle:tum_carcinoide_atípico	predictedType:MOR_NEO

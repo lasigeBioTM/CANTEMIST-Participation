@@ -1,0 +1,22 @@
+ENTITY	text:nevus nevocelular melanocítico	normalName:nevus_nevocelular_melanocítico	predictedType:MOR_NEO	q:true	qid:Q1315	docId:S0365-66912012000400004-1	origText:nevus nevocelular melanocítico	url:NaN
+CANDIDATE	id:87723	inCount:5	outCount:1	links:	url:8772/3	name:Melanoma fusocelular, SAI	normalName:melanoma_fusocelular,_sai	normalWikiTitle:melanoma_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87726	inCount:0	outCount:1	links:	url:8772/6	name:Melanoma fusocelular, SAI, metástasis	normalName:melanoma_fusocelular,_sai,_metástasis	normalWikiTitle:melanoma_fusocelular,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88570	inCount:0	outCount:1	links:	url:8857/0	name:Lipoma fusocelular	normalName:lipoma_fusocelular	normalWikiTitle:lipoma_fusocelular	predictedType:MOR_NEO
+CANDIDATE	id:90413	inCount:5	outCount:1	links:	url:9041/3	name:Sarcoma sinovial, tipo fusocelular	normalName:sarcoma_sinovial,_tipo_fusocelular	normalWikiTitle:sarcoma_sinovial,_tipo_fusocelular	predictedType:MOR_NEO
+CANDIDATE	id:88013	inCount:5	outCount:1	links:	url:8801/3	name:Sarcoma fusocelular, SAI	normalName:sarcoma_fusocelular,_sai	normalWikiTitle:sarcoma_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91833	inCount:5	outCount:1	links:	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
+CANDIDATE	id:87720	inCount:0	outCount:1	links:	url:8772/0	name:Nevus fusocelular, SAI	normalName:nevus_fusocelular,_sai	normalWikiTitle:nevus_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88016	inCount:0	outCount:1	links:	url:8801/6	name:Sarcoma fusocelular, SAI, metástasis	normalName:sarcoma_fusocelular,_sai,_metástasis	normalWikiTitle:sarcoma_fusocelular,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80973	inCount:5	outCount:1	links:	url:8097/3	name:Carcinoma basocelular, tipo nodular	normalName:carcinoma_basocelular,_tipo_nodular	normalWikiTitle:carcinoma_basocelular,_tipo_nodular	predictedType:MOR_NEO
+CANDIDATE	id:87300	inCount:0	outCount:1	links:	url:8730/0	name:Nevus no pigmentado	normalName:nevus_no_pigmentado	normalWikiTitle:nevus_no_pigmentado	predictedType:MOR_NEO
+ENTITY	text:malignidad	normalName:malignidad	predictedType:MOR_NEO	q:true	qid:Q1315	docId:S0365-66912012000400004-1	origText:malignidad	url:NaN
+CANDIDATE	id:81553	inCount:5	outCount:1	links:	url:8155/3	name:Vipoma maligno	normalName:vipoma_maligno	normalWikiTitle:vipoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:86003	inCount:5	outCount:1	links:	url:8600/3	name:Tecoma maligno	normalName:tecoma_maligno	normalWikiTitle:tecoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:85803	inCount:5	outCount:1	links:	url:8580/3	name:Timoma maligno, SAI	normalName:timoma_maligno,_sai	normalWikiTitle:timoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95303	inCount:5	outCount:1	links:	url:9530/3	name:Meningioma maligno	normalName:meningioma_maligno	normalWikiTitle:meningioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95713	inCount:5	outCount:1	links:	url:9571/3	name:Perineuroma maligno	normalName:perineuroma_maligno	normalWikiTitle:perineuroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90803	inCount:5	outCount:1	links:	url:9080/3	name:Teratoma maligno, SAI	normalName:teratoma_maligno,_sai	normalWikiTitle:teratoma_maligno,_sai	predictedType:MOR_NEO

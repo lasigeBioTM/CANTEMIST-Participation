@@ -1,0 +1,11 @@
+ENTITY	text:BCG diseminada	normalName:bcg_diseminada	predictedType:MOR_NEO	q:true	qid:Q2151	docId:S0370-41062017000100010-2	origText:BCG diseminada	url:NaN
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:90613	inCount:5	outCount:1	links:	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:0	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90110	inCount:0	outCount:1	links:	url:9011/0	name:Fibroadenoma intraductal	normalName:fibroadenoma_intraductal	normalWikiTitle:fibroadenoma_intraductal	predictedType:MOR_NEO
+CANDIDATE	id:99503	inCount:1	outCount:1	links:	url:9950/3	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:95133	inCount:5	outCount:1	links:	url:9513/3	name:Retinoblastoma difuso	normalName:retinoblastoma_difuso	normalWikiTitle:retinoblastoma_difuso	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:5	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO

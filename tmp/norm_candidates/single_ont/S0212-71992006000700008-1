@@ -1,0 +1,22 @@
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:MOR_NEO	q:true	qid:Q1791	docId:S0212-71992006000700008-1	origText:neoplasia	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+ENTITY	text:carcinoma epidermoide	normalName:carcinoma_epidermoide	predictedType:MOR_NEO	q:true	qid:Q1791	docId:S0212-71992006000700008-1	origText:carcinoma epidermoide	url:NaN
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:5	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI 	normalName:carcinoma_epidermoide_in_situ,_sai_	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:5	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metástasis	normalName:carcinoma_mucoepidermoide,_metástasis	normalWikiTitle:carcinoma_mucoepidermoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80753	inCount:5	outCount:1	links:	url:8075/3	name:Carcinoma epidermoide seudoglandular 	normalName:carcinoma_epidermoide_seudoglandular_	normalWikiTitle:carcinoma_epidermoide_seudoglandular_	predictedType:MOR_NEO
+CANDIDATE	id:83143	inCount:5	outCount:1	links:	url:8314/3	name:Carcinoma rico en lípidos	normalName:carcinoma_rico_en_lípidos	normalWikiTitle:carcinoma_rico_en_lípidos	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:80223	inCount:5	outCount:1	links:	url:8022/3	name:Carcinoma pleomorfo	normalName:carcinoma_pleomorfo	normalWikiTitle:carcinoma_pleomorfo	predictedType:MOR_NEO
+CANDIDATE	id:80522	inCount:5	outCount:1	links:	url:8052/2	name:Carcinoma papilar epidermoide no invasivo	normalName:carcinoma_papilar_epidermoide_no_invasivo	normalWikiTitle:carcinoma_papilar_epidermoide_no_invasivo	predictedType:MOR_NEO

@@ -1,0 +1,33 @@
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q1492	docId:S0370-41062014000200010-1	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+ENTITY	text:lesiones osteolíticas	normalName:lesiones_osteolíticas	predictedType:MOR_NEO	q:true	qid:Q1492	docId:S0370-41062014000200010-1	origText:lesiones osteolíticas	url:NaN
+CANDIDATE	id:92001	inCount:0	outCount:1	links:	url:9200/1	name:Osteoblastoma agresivo	normalName:osteoblastoma_agresivo	normalWikiTitle:osteoblastoma_agresivo	predictedType:MOR_NEO
+CANDIDATE	id:90500	inCount:0	outCount:1	links:	url:9050/0	name:Mesotelioma benigno	normalName:mesotelioma_benigno	normalWikiTitle:mesotelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:0	outCount:1	links:	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:91301	inCount:0	outCount:1	links:	url:9130/1	name:Hemangioendotelioma, SAI	normalName:hemangioendotelioma,_sai	normalWikiTitle:hemangioendotelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94910	inCount:0	outCount:1	links:	url:9491/0	name:Ganglioneuromatosis	normalName:ganglioneuromatosis	normalWikiTitle:ganglioneuromatosis	predictedType:MOR_NEO
+CANDIDATE	id:95046	inCount:0	outCount:1	links:	url:9504/6	name:Espongioneuroblastoma, metástasis	normalName:espongioneuroblastoma,_metástasis	normalWikiTitle:espongioneuroblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90550	inCount:0	outCount:1	links:	url:9055/0	name:Mesotelioma multiquístico, benigno	normalName:mesotelioma_multiquístico,_benigno	normalWikiTitle:mesotelioma_multiquístico,_benigno	predictedType:MOR_NEO
+ENTITY	text:linfoma	normalName:linfoma	predictedType:MOR_NEO	q:true	qid:Q1492	docId:S0370-41062014000200010-1	origText:linfoma	url:NaN
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:83240	inCount:0	outCount:1	links:	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:91700	inCount:0	outCount:1	links:	url:9170/0	name:Linfangioma, SAI	normalName:linfangioma,_sai	normalWikiTitle:linfangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO

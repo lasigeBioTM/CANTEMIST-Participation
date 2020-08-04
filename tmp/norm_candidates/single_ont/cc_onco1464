@@ -1,0 +1,33 @@
+ENTITY	text:lesiones cavitadas pulmonares	normalName:lesiones_cavitadas_pulmonares	predictedType:MOR_NEO	q:true	qid:Q1113	docId:cc_onco1464	origText:lesiones cavitadas pulmonares	url:NaN
+CANDIDATE	id:89726	inCount:0	outCount:1	links:89726	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82501	inCount:0	outCount:1	links:82501	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:89723	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89736	inCount:0	outCount:1	links:89736	url:8973/6	name:Blastoma pleuropulmonar, metástasis	normalName:blastoma_pleuropulmonar,_metástasis	normalWikiTitle:blastoma_pleuropulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:897234	inCount:0	outCount:1	links:89723	url:8972/34	name:Blastoma pulmonar - grado IV, indiferenciado	normalName:blastoma_pulmonar_-_grado_iv,_indiferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:91101	inCount:0	outCount:1	links:	url:9110/1	name:Tumor mesonéfrico, SAI	normalName:tumor_mesonéfrico,_sai	normalWikiTitle:tumor_mesonéfrico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:80010	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88546	inCount:0	outCount:1	links:	url:8854/6	name:Liposarcoma pleomorfo, metástasis	normalName:liposarcoma_pleomorfo,_metástasis	normalWikiTitle:liposarcoma_pleomorfo,_metástasis	predictedType:MOR_NEO
+ENTITY	text:nódulos subcutáneos	normalName:nódulos_subcutáneos	predictedType:MOR_NEO	q:true	qid:Q1113	docId:cc_onco1464	origText:nódulos subcutáneos	url:NaN
+CANDIDATE	id:97083	inCount:1	outCount:1	links:	url:9708/3	name:Linfoma T subcutáneo tipo paniculitis 	normalName:linfoma_t_subcutáneo_tipo_paniculitis_	normalWikiTitle:linfoma_t_subcutáneo_tipo_paniculitis_	predictedType:MOR_NEO
+CANDIDATE	id:94703	inCount:5	outCount:1	links:	url:9470/3	name:Meduloblastoma, SAI	normalName:meduloblastoma,_sai	normalWikiTitle:meduloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84100	inCount:0	outCount:1	links:	url:8410/0	name:Adenoma sebáceo	normalName:adenoma_sebáceo	normalWikiTitle:adenoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
+CANDIDATE	id:82630	inCount:0	outCount:1	links:	url:8263/0	name:Adenoma tubulovelloso, SAI	normalName:adenoma_tubulovelloso,_sai	normalWikiTitle:adenoma_tubulovelloso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83900	inCount:0	outCount:1	links:	url:8390/0	name:Adenoma de los anexos cutáneos	normalName:adenoma_de_los_anexos_cutáneos	normalWikiTitle:adenoma_de_los_anexos_cutáneos	predictedType:MOR_NEO
+CANDIDATE	id:86100	inCount:0	outCount:1	links:	url:8610/0	name:Luteoma, SAI	normalName:luteoma,_sai	normalWikiTitle:luteoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87280	inCount:0	outCount:1	links:	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+CANDIDATE	id:91800	inCount:0	outCount:1	links:	url:9180/0	name:Osteoma, SAI	normalName:osteoma,_sai	normalWikiTitle:osteoma,_sai	predictedType:MOR_NEO
+ENTITY	text:lesiones pulmonares	normalName:lesiones_pulmonares	predictedType:MOR_NEO	q:true	qid:Q1113	docId:cc_onco1464	origText:lesiones pulmonares	url:NaN
+CANDIDATE	id:89723	inCount:5	outCount:1	links:89723	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:82501	inCount:0	outCount:1	links:82501	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89726	inCount:0	outCount:1	links:89726	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89733	inCount:5	outCount:1	links:	url:8973/3	name:Blastoma pleuropulmonar	normalName:blastoma_pleuropulmonar	normalWikiTitle:blastoma_pleuropulmonar	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:80010	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:88900	inCount:0	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:89736	inCount:0	outCount:1	links:89736	url:8973/6	name:Blastoma pleuropulmonar, metástasis	normalName:blastoma_pleuropulmonar,_metástasis	normalWikiTitle:blastoma_pleuropulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO

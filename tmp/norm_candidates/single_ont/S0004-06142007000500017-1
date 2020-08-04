@@ -1,0 +1,23 @@
+ENTITY	text:nevus azul	normalName:nevus_azul	predictedType:MOR_NEO	q:true	qid:Q1229	docId:S0004-06142007000500017-1	origText:nevus azul	url:NaN
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:87800	inCount:0	outCount:1	links:	url:8780/0	name:Nevus azul, SAI	normalName:nevus_azul,_sai	normalWikiTitle:nevus_azul,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87400	inCount:0	outCount:1	links:	url:8740/0	name:Nevus de la unión, SAI	normalName:nevus_de_la_unión,_sai	normalWikiTitle:nevus_de_la_unión,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87230	inCount:0	outCount:1	links:	url:8723/0	name:Nevus con halo	normalName:nevus_con_halo	normalWikiTitle:nevus_con_halo	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:0	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:87300	inCount:0	outCount:1	links:	url:8730/0	name:Nevus no pigmentado	normalName:nevus_no_pigmentado	normalWikiTitle:nevus_no_pigmentado	predictedType:MOR_NEO
+CANDIDATE	id:87200	inCount:0	outCount:1	links:	url:8720/0	name:Nevus pigmentado, SAI	normalName:nevus_pigmentado,_sai	normalWikiTitle:nevus_pigmentado,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
+CANDIDATE	id:87600	inCount:0	outCount:1	links:	url:8760/0	name:Nevus compuesto	normalName:nevus_compuesto	normalWikiTitle:nevus_compuesto	predictedType:MOR_NEO
+CANDIDATE	id:87400	inCount:0	outCount:1	links:	url:8740/0	name:Nevus, la unión, SAI	normalName:nevus,_la_unión,_sai	normalWikiTitle:nevus,_la_unión,_sai	predictedType:MOR_NEO
+ENTITY	text:malignidad	normalName:malignidad	predictedType:MOR_NEO	q:true	qid:Q1229	docId:S0004-06142007000500017-1	origText:malignidad	url:NaN
+CANDIDATE	id:81553	inCount:5	outCount:1	links:	url:8155/3	name:Vipoma maligno	normalName:vipoma_maligno	normalWikiTitle:vipoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:86003	inCount:5	outCount:1	links:	url:8600/3	name:Tecoma maligno	normalName:tecoma_maligno	normalWikiTitle:tecoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:85803	inCount:5	outCount:1	links:	url:8580/3	name:Timoma maligno, SAI	normalName:timoma_maligno,_sai	normalWikiTitle:timoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95303	inCount:5	outCount:1	links:	url:9530/3	name:Meningioma maligno	normalName:meningioma_maligno	normalWikiTitle:meningioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95713	inCount:5	outCount:1	links:	url:9571/3	name:Perineuroma maligno	normalName:perineuroma_maligno	normalWikiTitle:perineuroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90803	inCount:5	outCount:1	links:	url:9080/3	name:Teratoma maligno, SAI	normalName:teratoma_maligno,_sai	normalWikiTitle:teratoma_maligno,_sai	predictedType:MOR_NEO

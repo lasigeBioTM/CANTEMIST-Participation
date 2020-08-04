@@ -1,0 +1,55 @@
+ENTITY	text:tumores	normalName:tumores	predictedType:MOR_NEO	q:true	qid:Q2054	docId:S1130-01082005001000012-1	origText:tumores	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:4	outCount:1	links:	url:D3A.0	name:Tumores carcinoides benignos	normalName:tumores_carcinoides_benignos	normalWikiTitle:tumores_carcinoides_benignos	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:26	inCount:4	outCount:1	links:	url:D26	name:Otros tumores benignos de útero	normalName:otros_tumores_benignos_de_útero	normalWikiTitle:otros_tumores_benignos_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:6	outCount:1	links:	url:C7B.0	name:Tumores carcinoides secundarios	normalName:tumores_carcinoides_secundarios	normalWikiTitle:tumores_carcinoides_secundarios	predictedType:MOR_NEO
+CANDIDATE	id:57324	inCount:0	outCount:1	links:	url:57324	name:fumadores	normalName:fumadores	normalWikiTitle:fumadores	predictedType:MOR_NEO
+CANDIDATE	id:37730	inCount:0	outCount:1	links:	url:37730	name:menores	normalName:menores	normalWikiTitle:menores	predictedType:MOR_NEO
+CANDIDATE	id:2050	inCount:1	outCount:1	links:	url:2050	name:tampones	normalName:tampones	normalWikiTitle:tampones	predictedType:MOR_NEO
+CANDIDATE	id:5043	inCount:7	outCount:1	links:	url:5043	name:éteres	normalName:éteres	normalWikiTitle:éteres	predictedType:MOR_NEO
+CANDIDATE	id:22941	inCount:0	outCount:1	links:	url:22941	name:mentores	normalName:mentores	normalWikiTitle:mentores	predictedType:MOR_NEO
+ENTITY	text:teratomas	normalName:teratomas	predictedType:MOR_NEO	q:true	qid:Q2054	docId:S1130-01082005001000012-1	origText:teratomas	url:NaN
+CANDIDATE	id:90801	inCount:0	outCount:1	links:	url:9080/1	name:Teratoma, SAI	normalName:teratoma,_sai	normalWikiTitle:teratoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90800	inCount:0	outCount:1	links:	url:9080/0	name:Teratoma benigno	normalName:teratoma_benigno	normalWikiTitle:teratoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:94303	inCount:5	outCount:1	links:	url:9430/3	name:Astroblastoma	normalName:astroblastoma	normalWikiTitle:astroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:91410	inCount:0	outCount:1	links:	url:9141/0	name:Angioqueratoma	normalName:angioqueratoma	normalWikiTitle:angioqueratoma	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:0	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:1800	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:2202	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:45	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:9002	inCount:3	outCount:1	links:9002	url:C90.2	name:Plasmocitoma extramedular	normalName:plasmocitoma_extramedular	normalWikiTitle:plasmocitoma_extramedular	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:9203	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:14102	inCount:2	outCount:1	links:	url:14102	name:teratoma	normalName:teratoma	normalWikiTitle:teratoma	predictedType:MOR_NEO
+ENTITY	text:hamartomas	normalName:hamartomas	predictedType:MOR_NEO	q:true	qid:Q2054	docId:S1130-01082005001000012-1	origText:hamartomas	url:NaN
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89703	inCount:5	outCount:1	links:	url:8970/3	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88003	inCount:5	outCount:1	links:	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:93730	inCount:0	outCount:1	links:	url:9373/0	name:Paracordoma	normalName:paracordoma	normalWikiTitle:paracordoma	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:84040	inCount:0	outCount:1	links:	url:8404/0	name:Hidrocistoma	normalName:hidrocistoma	normalWikiTitle:hidrocistoma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:1800	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:2202	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:45	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:9203	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:9002	inCount:3	outCount:1	links:9002	url:C90.2	name:Plasmocitoma extramedular	normalName:plasmocitoma_extramedular	normalWikiTitle:plasmocitoma_extramedular	predictedType:MOR_NEO
+CANDIDATE	id:6376	inCount:3	outCount:1	links:	url:6376	name:hamartoma	normalName:hamartoma	normalWikiTitle:hamartoma	predictedType:MOR_NEO

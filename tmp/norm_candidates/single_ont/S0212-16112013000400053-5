@@ -1,0 +1,23 @@
+ENTITY	text:carcinoma epidermoide	normalName:carcinoma_epidermoide	predictedType:MOR_NEO	q:true	qid:Q812	docId:S0212-16112013000400053-5	origText:carcinoma epidermoide	url:NaN
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:5	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI 	normalName:carcinoma_epidermoide_in_situ,_sai_	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:5	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metástasis	normalName:carcinoma_mucoepidermoide,_metástasis	normalWikiTitle:carcinoma_mucoepidermoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80753	inCount:5	outCount:1	links:	url:8075/3	name:Carcinoma epidermoide seudoglandular 	normalName:carcinoma_epidermoide_seudoglandular_	normalWikiTitle:carcinoma_epidermoide_seudoglandular_	predictedType:MOR_NEO
+CANDIDATE	id:83143	inCount:5	outCount:1	links:	url:8314/3	name:Carcinoma rico en lípidos	normalName:carcinoma_rico_en_lípidos	normalWikiTitle:carcinoma_rico_en_lípidos	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:80223	inCount:5	outCount:1	links:	url:8022/3	name:Carcinoma pleomorfo	normalName:carcinoma_pleomorfo	normalWikiTitle:carcinoma_pleomorfo	predictedType:MOR_NEO
+CANDIDATE	id:80522	inCount:5	outCount:1	links:	url:8052/2	name:Carcinoma papilar epidermoide no invasivo	normalName:carcinoma_papilar_epidermoide_no_invasivo	normalWikiTitle:carcinoma_papilar_epidermoide_no_invasivo	predictedType:MOR_NEO
+ENTITY	text:enfermedad a nivel cutáneo	normalName:enfermedad_a_nivel_cutáneo	predictedType:MOR_NEO	q:true	qid:Q812	docId:S0212-16112013000400053-5	origText:enfermedad a nivel cutáneo	url:NaN
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:83900	inCount:0	outCount:1	links:	url:8390/0	name:Adenoma de los anexos cutáneos	normalName:adenoma_de_los_anexos_cutáneos	normalWikiTitle:adenoma_de_los_anexos_cutáneos	predictedType:MOR_NEO
+CANDIDATE	id:85406	inCount:0	outCount:1	links:	url:8540/6	name:Enfermedad de Paget, mamaria, metástasis	normalName:enfermedad_de_paget,_mamaria,_metástasis	normalWikiTitle:enfermedad_de_paget,_mamaria,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97681	inCount:0	outCount:1	links:	url:9768/1	name:Enfermedad linfoproliferativa T-gamma	normalName:enfermedad_linfoproliferativa_t-gamma	normalWikiTitle:enfermedad_linfoproliferativa_t-gamma	predictedType:MOR_NEO
+CANDIDATE	id:808124	inCount:0	outCount:1	links:	url:8081/24	name:Enfermedad de Bowen - grado IV, indiferenciado	normalName:enfermedad_de_bowen_-_grado_iv,_indiferenciado	normalWikiTitle:enfermedad_de_bowen_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:97603	inCount:5	outCount:1	links:	url:9760/3	name:Enfermedad inmunoproliferativa, SAI	normalName:enfermedad_inmunoproliferativa,_sai	normalWikiTitle:enfermedad_inmunoproliferativa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:97083	inCount:1	outCount:1	links:	url:9708/3	name:Linfoma T subcutáneo tipo paniculitis 	normalName:linfoma_t_subcutáneo_tipo_paniculitis_	normalWikiTitle:linfoma_t_subcutáneo_tipo_paniculitis_	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:5	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad, Paget, mamaria	normalName:enfermedad,_paget,_mamaria	normalWikiTitle:enfermedad,_paget,_mamaria	predictedType:MOR_NEO

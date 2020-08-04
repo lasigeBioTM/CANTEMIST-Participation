@@ -1,0 +1,8 @@
+ENTITY	text:angiomiolipoma	normalName:angiomiolipoma	predictedType:MOR_NEO	q:true	qid:Q1481	docId:caso_clinico_radiologia130	origText:angiomiolipoma	url:NaN
+CANDIDATE	id:88600	inCount:0	outCount:1	links:	url:8860/0	name:Angiomiolipoma	normalName:angiomiolipoma	normalWikiTitle:angiomiolipoma	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:4300	inCount:0	outCount:1	links:	url:C43.0	name:Melanoma maligno de labio	normalName:melanoma_maligno_de_labio	normalWikiTitle:melanoma_maligno_de_labio	predictedType:MOR_NEO
+CANDIDATE	id:8605	inCount:0	outCount:1	links:	url:C86.5	name:Linfoma angioinmunoblástico de células T	normalName:linfoma_angioinmunoblástico_de_células_t	normalWikiTitle:linfoma_angioinmunoblástico_de_células_t	predictedType:MOR_NEO
+CANDIDATE	id:8400	inCount:10	outCount:1	links:	url:C84.0	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:31654	inCount:0	outCount:2	links:	url:31654	name:angiomiolipoma	normalName:angiomiolipoma	normalWikiTitle:angiomiolipoma	predictedType:MOR_NEO

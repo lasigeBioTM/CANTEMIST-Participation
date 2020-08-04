@@ -1,0 +1,21 @@
+ENTITY	text:neoplasia intraparenquimatosa	normalName:neoplasia_intraparenquimatosa	predictedType:MOR_NEO	q:true	qid:Q1063	docId:caso_clinico_radiologia738	origText:neoplasia intraparenquimatosa	url:NaN
+CANDIDATE	id:81630	inCount:0	outCount:1	links:	url:8163/0	name:Neoplasia pancreatobiliar, no invasiva	normalName:neoplasia_pancreatobiliar,_no_invasiva	normalWikiTitle:neoplasia_pancreatobiliar,_no_invasiva	predictedType:MOR_NEO
+CANDIDATE	id:85043	inCount:5	outCount:1	links:	url:8504/3	name:Carcinoma intraquístico, SAI	normalName:carcinoma_intraquístico,_sai	normalWikiTitle:carcinoma_intraquístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99203	inCount:5	outCount:1	links:	url:9920/3	name:Neoplasia mieloide relacionada con tratamiento	normalName:neoplasia_mieloide_relacionada_con_tratamiento	normalWikiTitle:neoplasia_mieloide_relacionada_con_tratamiento	predictedType:MOR_NEO
+CANDIDATE	id:92406	inCount:0	outCount:1	links:	url:9240/6	name:Condrosarcoma mesenquimal, metástasis	normalName:condrosarcoma_mesenquimal,_metástasis	normalWikiTitle:condrosarcoma_mesenquimal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81030	inCount:0	outCount:1	links:	url:8103/0	name:Tumor proliferante de triquilema	normalName:tumor_proliferante_de_triquilema	normalWikiTitle:tumor_proliferante_de_triquilema	predictedType:MOR_NEO
+CANDIDATE	id:89901	inCount:0	outCount:1	links:	url:8990/1	name:Mesenquimoma, SAI 	normalName:mesenquimoma,_sai_	normalWikiTitle:mesenquimoma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:93923	inCount:5	outCount:1	links:	url:9392/3	name:Ependimoma anaplásico	normalName:ependimoma_anaplásico	normalWikiTitle:ependimoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:85050	inCount:0	outCount:1	links:	url:8505/0	name:Papilomatosis intraductal, SAI	normalName:papilomatosis_intraductal,_sai	normalWikiTitle:papilomatosis_intraductal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86801	inCount:0	outCount:1	links:	url:8680/1	name:Paraganglioma, SAI	normalName:paraganglioma,_sai	normalWikiTitle:paraganglioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:2507	inCount:0	outCount:1	links:	url:C25.7	name:Neoplasia maligna de otras partes de páncreas	normalName:neoplasia_maligna_de_otras_partes_de_páncreas	normalWikiTitle:neoplasia_maligna_de_otras_partes_de_páncreas	predictedType:MOR_NEO
+CANDIDATE	id:58	inCount:0	outCount:1	links:	url:C58	name:Neoplasia maligna de placenta	normalName:neoplasia_maligna_de_placenta	normalWikiTitle:neoplasia_maligna_de_placenta	predictedType:MOR_NEO
+CANDIDATE	id:6000	inCount:0	outCount:1	links:	url:C60.0	name:Neoplasia maligna de prepucio	normalName:neoplasia_maligna_de_prepucio	normalWikiTitle:neoplasia_maligna_de_prepucio	predictedType:MOR_NEO
+CANDIDATE	id:30	inCount:7	outCount:1	links:	url:D30	name:Neoplasia benigna de órganos urinarios	normalName:neoplasia_benigna_de_órganos_urinarios	normalWikiTitle:neoplasia_benigna_de_órganos_urinarios	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:22589	inCount:0	outCount:3	links:	url:22589	name:neoplasias orbitarias	normalName:neoplasias_orbitarias	normalWikiTitle:neoplasias_orbitarias	predictedType:MOR_NEO
+CANDIDATE	id:10378	inCount:4	outCount:3	links:	url:10378	name:neoplasias pancreáticas	normalName:neoplasias_pancreáticas	normalWikiTitle:neoplasias_pancreáticas	predictedType:MOR_NEO
+CANDIDATE	id:782	inCount:0	outCount:1	links:	url:782	name:anestesia intravenosa	normalName:anestesia_intravenosa	normalWikiTitle:anestesia_intravenosa	predictedType:MOR_NEO
+CANDIDATE	id:7855	inCount:3	outCount:2	links:	url:7855	name:neoplasias renales	normalName:neoplasias_renales	normalWikiTitle:neoplasias_renales	predictedType:MOR_NEO
+CANDIDATE	id:9561	inCount:1	outCount:1	links:	url:9561	name:trasplante de neoplasias	normalName:trasplante_de_neoplasias	normalWikiTitle:trasplante_de_neoplasias	predictedType:MOR_NEO

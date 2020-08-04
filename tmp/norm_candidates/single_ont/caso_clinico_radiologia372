@@ -1,0 +1,33 @@
+ENTITY	text:adenocarcinoma de próstata con metástasis	normalName:adenocarcinoma_de_próstata_con_metástasis	predictedType:MOR_NEO	q:true	qid:Q1599	docId:caso_clinico_radiologia372	origText:adenocarcinoma de próstata con metástasis	url:NaN
+CANDIDATE	id:82136	inCount:0	outCount:1	links:	url:8213/6	name:Adenocarcinoma dentado, metástasis	normalName:adenocarcinoma_dentado,_metástasis	normalWikiTitle:adenocarcinoma_dentado,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85766	inCount:0	outCount:1	links:	url:8576/6	name:Adenocarcinoma hepatoide, metástasis	normalName:adenocarcinoma_hepatoide,_metástasis	normalWikiTitle:adenocarcinoma_hepatoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81416	inCount:0	outCount:1	links:	url:8141/6	name:Adenocarcinoma escirro, metástasis	normalName:adenocarcinoma_escirro,_metástasis	normalWikiTitle:adenocarcinoma_escirro,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83336	inCount:0	outCount:1	links:	url:8333/6	name:Adenocarcinoma fetal, metástasis	normalName:adenocarcinoma_fetal,_metástasis	normalWikiTitle:adenocarcinoma_fetal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84136	inCount:0	outCount:1	links:	url:8413/6	name:Adenocarcinoma ecrino, metástasis	normalName:adenocarcinoma_ecrino,_metástasis	normalWikiTitle:adenocarcinoma_ecrino,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84206	inCount:0	outCount:1	links:	url:8420/6	name:Adenocarcinoma ceruminoso, metástasis	normalName:adenocarcinoma_ceruminoso,_metástasis	normalWikiTitle:adenocarcinoma_ceruminoso,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84016	inCount:0	outCount:1	links:	url:8401/6	name:Adenocarcinoma apocrino, metástasis	normalName:adenocarcinoma_apocrino,_metástasis	normalWikiTitle:adenocarcinoma_apocrino,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80956	inCount:0	outCount:1	links:	url:8095/6	name:Carcinoma metatípico, metástasis	normalName:carcinoma_metatípico,_metástasis	normalWikiTitle:carcinoma_metatípico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82106	inCount:0	outCount:1	links:	url:8210/6	name:Adenocarcinoma en pólipo adenomatoso, metástasis	normalName:adenocarcinoma_en_pólipo_adenomatoso,_metástasis	normalWikiTitle:adenocarcinoma_en_pólipo_adenomatoso,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82516	inCount:0	outCount:1	links:	url:8251/6	name:Adenocarcinoma alveolar, metástasis	normalName:adenocarcinoma_alveolar,_metástasis	normalWikiTitle:adenocarcinoma_alveolar,_metástasis	predictedType:MOR_NEO
+ENTITY	text:afectación meníngea	normalName:afectación_meníngea	predictedType:MOR_NEO	q:true	qid:Q1599	docId:caso_clinico_radiologia372	origText:afectación meníngea	url:NaN
+CANDIDATE	id:82133	inCount:5	outCount:1	links:	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:83003	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:84103	inCount:5	outCount:1	links:	url:8410/3	name:Adenocarcinoma sebáceo	normalName:adenocarcinoma_sebáceo	normalWikiTitle:adenocarcinoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:87283	inCount:5	outCount:1	links:	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:95391	inCount:0	outCount:1	links:	url:9539/1	name:Meningioma atípico	normalName:meningioma_atípico	normalWikiTitle:meningioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:5	outCount:1	links:	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
+ENTITY	text:metástasis del carcinoma	normalName:metástasis_del_carcinoma	predictedType:MOR_NEO	q:true	qid:Q1599	docId:caso_clinico_radiologia372	origText:metástasis del carcinoma	url:NaN
+CANDIDATE	id:90816	inCount:0	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81026	inCount:0	outCount:1	links:	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81233	inCount:5	outCount:1	links:	url:8123/3	name:Carcinoma basaloide	normalName:carcinoma_basaloide	normalWikiTitle:carcinoma_basaloide	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:83003	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83416	inCount:0	outCount:1	links:	url:8341/6	name:Microcarcinoma papilar, metástasis	normalName:microcarcinoma_papilar,_metástasis	normalWikiTitle:microcarcinoma_papilar,_metástasis	predictedType:MOR_NEO

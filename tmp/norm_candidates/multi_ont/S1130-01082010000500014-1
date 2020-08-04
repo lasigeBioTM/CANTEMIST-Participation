@@ -1,0 +1,59 @@
+ENTITY	text:leiomioma	normalName:leiomioma	predictedType:MOR_NEO	q:true	qid:Q2066	docId:S1130-01082010000500014-1	origText:leiomioma	url:NaN
+CANDIDATE	id:88900	inCount:0	outCount:1	links:88900	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:89320	inCount:0	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
+CANDIDATE	id:88930	inCount:0	outCount:1	links:	url:8893/0	name:Leiomioma atípico	normalName:leiomioma_atípico	normalWikiTitle:leiomioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:87130	inCount:0	outCount:1	links:	url:8713/0	name:Glomangiomioma	normalName:glomangiomioma	normalWikiTitle:glomangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:88110	inCount:0	outCount:1	links:	url:8811/0	name:Fibromixoma 	normalName:fibromixoma_	normalWikiTitle:fibromixoma_	predictedType:MOR_NEO
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:25	inCount:4	outCount:1	links:25	url:D25	name:Leiomioma de útero	normalName:leiomioma_de_útero	normalWikiTitle:leiomioma_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:2500	inCount:0	outCount:1	links:2500	url:D25.0	name:Leiomioma submucoso de útero	normalName:leiomioma_submucoso_de_útero	normalWikiTitle:leiomioma_submucoso_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:2502	inCount:0	outCount:1	links:2502	url:D25.2	name:Leiomioma subseroso de útero	normalName:leiomioma_subseroso_de_útero	normalWikiTitle:leiomioma_subseroso_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:8069	inCount:3	outCount:1	links:8069	url:8069	name:leiomioma	normalName:leiomioma	normalWikiTitle:leiomioma	predictedType:MOR_NEO
+ENTITY	text:tumor de células granulares	normalName:tumor_de_células_granulares	predictedType:MOR_NEO	q:true	qid:Q2066	docId:S1130-01082010000500014-1	origText:tumor de células granulares	url:NaN
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:95800	inCount:0	outCount:1	links:	url:9580/0	name:Tumor de células granulares, SAI	normalName:tumor_de_células_granulares,_sai	normalWikiTitle:tumor_de_células_granulares,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:95803	inCount:5	outCount:1	links:	url:9580/3	name:Tumor maligno de células granulares	normalName:tumor_maligno_de_células_granulares	normalWikiTitle:tumor_maligno_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:83206	inCount:0	outCount:1	links:	url:8320/6	name:Carcinoma de células granulares, metástasis	normalName:carcinoma_de_células_granulares,_metástasis	normalWikiTitle:carcinoma_de_células_granulares,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87260	inCount:0	outCount:1	links:	url:8726/0	name:Nevus magnocelular	normalName:nevus_magnocelular	normalWikiTitle:nevus_magnocelular	predictedType:MOR_NEO
+CANDIDATE	id:87213	inCount:5	outCount:1	links:	url:8721/3	name:Melanoma nodular	normalName:melanoma_nodular	normalWikiTitle:melanoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:87723	inCount:5	outCount:1	links:	url:8772/3	name:Melanoma fusocelular, SAI	normalName:melanoma_fusocelular,_sai	normalWikiTitle:melanoma_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90642	inCount:5	outCount:1	links:	url:9064/2	name:Células germinales malignas intratubulares	normalName:células_germinales_malignas_intratubulares	normalWikiTitle:células_germinales_malignas_intratubulares	predictedType:MOR_NEO
+CANDIDATE	id:94743	inCount:5	outCount:1	links:	url:9474/3	name:Meduloblastoma de células grandes	normalName:meduloblastoma_de_células_grandes	normalWikiTitle:meduloblastoma_de_células_grandes	predictedType:MOR_NEO
+CANDIDATE	id:5102	inCount:0	outCount:1	links:	url:C51.2	name:Neoplasia maligna de clítoris	normalName:neoplasia_maligna_de_clítoris	normalWikiTitle:neoplasia_maligna_de_clítoris	predictedType:MOR_NEO
+CANDIDATE	id:73	inCount:0	outCount:1	links:	url:C73	name:Neoplasia maligna de glándula tiroides	normalName:neoplasia_maligna_de_glándula_tiroides	normalWikiTitle:neoplasia_maligna_de_glándula_tiroides	predictedType:MOR_NEO
+CANDIDATE	id:6801	inCount:0	outCount:1	links:	url:C68.1	name:Neoplasia maligna de glándulas parauretrales	normalName:neoplasia_maligna_de_glándulas_parauretrales	normalWikiTitle:neoplasia_maligna_de_glándulas_parauretrales	predictedType:MOR_NEO
+CANDIDATE	id:7103	inCount:0	outCount:1	links:	url:C71.3	name:Neoplasia maligna de lóbulo parietal	normalName:neoplasia_maligna_de_lóbulo_parietal	normalWikiTitle:neoplasia_maligna_de_lóbulo_parietal	predictedType:MOR_NEO
+CANDIDATE	id:204	inCount:0	outCount:1	links:	url:C02.4	name:Neoplasia maligna de amígdala lingual	normalName:neoplasia_maligna_de_amígdala_lingual	normalWikiTitle:neoplasia_maligna_de_amígdala_lingual	predictedType:MOR_NEO
+CANDIDATE	id:30067	inCount:0	outCount:1	links:	url:30067	name:tumor de células granulares	normalName:tumor_de_células_granulares	normalWikiTitle:tumor_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:37725	inCount:0	outCount:2	links:	url:37725	name:ordenadores moleculares	normalName:ordenadores_moleculares	normalWikiTitle:ordenadores_moleculares	predictedType:MOR_NEO
+CANDIDATE	id:37772	inCount:0	outCount:1	links:	url:37772	name:cuerpos de inclusión intranucleares	normalName:cuerpos_de_inclusión_intranucleares	normalWikiTitle:cuerpos_de_inclusión_intranucleares	predictedType:MOR_NEO
+CANDIDATE	id:36521	inCount:4	outCount:1	links:	url:36521	name:células musculares	normalName:células_musculares	normalWikiTitle:células_musculares	predictedType:MOR_NEO
+CANDIDATE	id:5872	inCount:0	outCount:1	links:	url:5872	name:estimulantes ganglionares	normalName:estimulantes_ganglionares	normalWikiTitle:estimulantes_ganglionares	predictedType:MOR_NEO
+ENTITY	text:leiomioma submucoso	normalName:leiomioma_submucoso	predictedType:MOR_NEO	q:true	qid:Q2066	docId:S1130-01082010000500014-1	origText:leiomioma submucoso	url:NaN
+CANDIDATE	id:88900	inCount:0	outCount:1	links:88900	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:88901	inCount:0	outCount:1	links:	url:8890/1	name:Leiomiomatosis, SAI	normalName:leiomiomatosis,_sai	normalWikiTitle:leiomiomatosis,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88903	inCount:5	outCount:1	links:	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84800	inCount:0	outCount:1	links:	url:8480/0	name:Adenoma mucinoso	normalName:adenoma_mucinoso	normalWikiTitle:adenoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:5	outCount:1	links:	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:90150	inCount:0	outCount:1	links:	url:9015/0	name:Adenofibroma mucinoso, SAI	normalName:adenofibroma_mucinoso,_sai	normalWikiTitle:adenofibroma_mucinoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90153	inCount:5	outCount:1	links:	url:9015/3	name:Adenocarcinofibroma mucinoso	normalName:adenocarcinofibroma_mucinoso	normalWikiTitle:adenocarcinofibroma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:88963	inCount:5	outCount:1	links:	url:8896/3	name:Leiomiosarcoma mixoide	normalName:leiomiosarcoma_mixoide	normalWikiTitle:leiomiosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:95330	inCount:0	outCount:1	links:	url:9533/0	name:Meningioma psamomatoso	normalName:meningioma_psamomatoso	normalWikiTitle:meningioma_psamomatoso	predictedType:MOR_NEO
+CANDIDATE	id:87463	inCount:5	outCount:1	links:	url:8746/3	name:Melanoma lentiginoso de mucosa	normalName:melanoma_lentiginoso_de_mucosa	normalWikiTitle:melanoma_lentiginoso_de_mucosa	predictedType:MOR_NEO
+CANDIDATE	id:2500	inCount:0	outCount:1	links:2500	url:D25.0	name:Leiomioma submucoso de útero	normalName:leiomioma_submucoso_de_útero	normalWikiTitle:leiomioma_submucoso_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:2502	inCount:0	outCount:1	links:2502	url:D25.2	name:Leiomioma subseroso de útero	normalName:leiomioma_subseroso_de_útero	normalWikiTitle:leiomioma_subseroso_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:25	inCount:4	outCount:1	links:25	url:D25	name:Leiomioma de útero	normalName:leiomioma_de_útero	normalWikiTitle:leiomioma_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:9403	inCount:3	outCount:1	links:	url:C94.3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:9003	inCount:3	outCount:1	links:	url:C90.3	name:Plasmocitoma solitario	normalName:plasmocitoma_solitario	normalWikiTitle:plasmocitoma_solitario	predictedType:MOR_NEO
+CANDIDATE	id:13755	inCount:0	outCount:2	links:	url:13755	name:plexo submucoso	normalName:plexo_submucoso	normalWikiTitle:plexo_submucoso	predictedType:MOR_NEO
+CANDIDATE	id:31364	inCount:0	outCount:1	links:	url:31364	name:leiomiomatosis	normalName:leiomiomatosis	normalWikiTitle:leiomiomatosis	predictedType:MOR_NEO
+CANDIDATE	id:8069	inCount:3	outCount:1	links:8069	url:8069	name:leiomioma	normalName:leiomioma	normalWikiTitle:leiomioma	predictedType:MOR_NEO
+CANDIDATE	id:8070	inCount:0	outCount:2	links:	url:8070	name:leiomiosarcoma	normalName:leiomiosarcoma	normalWikiTitle:leiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:4731	inCount:0	outCount:2	links:	url:4731	name:empiema tuberculoso	normalName:empiema_tuberculoso	normalWikiTitle:empiema_tuberculoso	predictedType:MOR_NEO

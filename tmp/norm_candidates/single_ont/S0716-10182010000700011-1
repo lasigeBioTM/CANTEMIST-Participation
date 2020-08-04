@@ -1,0 +1,33 @@
+ENTITY	text:micosis profunda diseminada	normalName:micosis_profunda_diseminada	predictedType:MOR_NEO	q:true	qid:Q1904	docId:S0716-10182010000700011-1	origText:micosis profunda diseminada	url:NaN
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:99613	inCount:1	outCount:1	links:	url:9961/3	name:Mielofibrosis primaria	normalName:mielofibrosis_primaria	normalWikiTitle:mielofibrosis_primaria	predictedType:MOR_NEO
+CANDIDATE	id:88250	inCount:0	outCount:1	links:	url:8825/0	name:Miofibroblastoma	normalName:miofibroblastoma	normalWikiTitle:miofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90110	inCount:0	outCount:1	links:90110	url:9011/0	name:Fibroadenoma intraductal	normalName:fibroadenoma_intraductal	normalWikiTitle:fibroadenoma_intraductal	predictedType:MOR_NEO
+CANDIDATE	id:90613	inCount:5	outCount:1	links:90613	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:906234	inCount:0	outCount:1	links:	url:9062/34	name:Seminoma anaplásico - grado IV, indiferenciado	normalName:seminoma_anaplásico_-_grado_iv,_indiferenciado	normalWikiTitle:seminoma_anaplásico_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:906334	inCount:0	outCount:1	links:90633	url:9063/34	name:Seminoma espermatocítico - grado IV, indiferenciado	normalName:seminoma_espermatocítico_-_grado_iv,_indiferenciado	normalWikiTitle:seminoma_espermatocítico_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:99893	inCount:1	outCount:1	links:	url:9989/3	name:Síndrome mielodisplásico, SAI	normalName:síndrome_mielodisplásico,_sai	normalWikiTitle:síndrome_mielodisplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90626	inCount:0	outCount:1	links:	url:9062/6	name:Seminoma anaplásico, metástasis	normalName:seminoma_anaplásico,_metástasis	normalWikiTitle:seminoma_anaplásico,_metástasis	predictedType:MOR_NEO
+ENTITY	text:nodulos subcutáneos	normalName:nodulos_subcutáneos	predictedType:MOR_NEO	q:true	qid:Q1904	docId:S0716-10182010000700011-1	origText:nodulos subcutáneos	url:NaN
+CANDIDATE	id:97083	inCount:1	outCount:1	links:	url:9708/3	name:Linfoma T subcutáneo tipo paniculitis 	normalName:linfoma_t_subcutáneo_tipo_paniculitis_	normalWikiTitle:linfoma_t_subcutáneo_tipo_paniculitis_	predictedType:MOR_NEO
+CANDIDATE	id:83900	inCount:0	outCount:1	links:	url:8390/0	name:Adenoma de los anexos cutáneos	normalName:adenoma_de_los_anexos_cutáneos	normalWikiTitle:adenoma_de_los_anexos_cutáneos	predictedType:MOR_NEO
+CANDIDATE	id:84100	inCount:0	outCount:1	links:	url:8410/0	name:Adenoma sebáceo	normalName:adenoma_sebáceo	normalWikiTitle:adenoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:94703	inCount:5	outCount:1	links:	url:9470/3	name:Meduloblastoma, SAI	normalName:meduloblastoma,_sai	normalWikiTitle:meduloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:970835	inCount:0	outCount:1	links:	url:9708/35	name:Linfoma T subcutáneo tipo paniculitis  - células T	normalName:linfoma_t_subcutáneo_tipo_paniculitis__-_células_t	normalWikiTitle:linfoma_t_subcutáneo_tipo_paniculitis__-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:95010	inCount:0	outCount:1	links:	url:9501/0	name:Meduloepitelioma benigno	normalName:meduloepitelioma_benigno	normalWikiTitle:meduloepitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:82630	inCount:0	outCount:1	links:	url:8263/0	name:Adenoma tubulovelloso, SAI	normalName:adenoma_tubulovelloso,_sai	normalWikiTitle:adenoma_tubulovelloso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
+CANDIDATE	id:87280	inCount:0	outCount:1	links:	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+ENTITY	text:TBC diseminada	normalName:tbc_diseminada	predictedType:MOR_NEO	q:true	qid:Q1904	docId:S0716-10182010000700011-1	origText:TBC diseminada	url:NaN
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:90613	inCount:5	outCount:1	links:90613	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:906334	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:0	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90110	inCount:0	outCount:1	links:90110	url:9011/0	name:Fibroadenoma intraductal	normalName:fibroadenoma_intraductal	normalWikiTitle:fibroadenoma_intraductal	predictedType:MOR_NEO
+CANDIDATE	id:99503	inCount:1	outCount:1	links:	url:9950/3	name:Policitemia vera	normalName:policitemia_vera	normalWikiTitle:policitemia_vera	predictedType:MOR_NEO
+CANDIDATE	id:95133	inCount:5	outCount:1	links:	url:9513/3	name:Retinoblastoma difuso	normalName:retinoblastoma_difuso	normalWikiTitle:retinoblastoma_difuso	predictedType:MOR_NEO
+CANDIDATE	id:97503	inCount:5	outCount:1	links:	url:9750/3	name:Histiocitosis maligna	normalName:histiocitosis_maligna	normalWikiTitle:histiocitosis_maligna	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:5	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO

@@ -1,0 +1,55 @@
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q1711	docId:cc_onco1343	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+ENTITY	text:linfoma	normalName:linfoma	predictedType:MOR_NEO	q:true	qid:Q1711	docId:cc_onco1343	origText:linfoma	url:NaN
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:83240	inCount:0	outCount:1	links:	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:91700	inCount:0	outCount:1	links:	url:9170/0	name:Linfangioma, SAI	normalName:linfangioma,_sai	normalWikiTitle:linfangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+ENTITY	text:neoplásico	normalName:neoplásico	predictedType:MOR_NEO	q:true	qid:Q1711	docId:cc_onco1343	origText:neoplásico	url:NaN
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplásico	normalName:fibroma_desmoplásico	normalWikiTitle:fibroma_desmoplásico	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:81401	inCount:0	outCount:1	links:	url:8140/1	name:Adenoma atípico	normalName:adenoma_atípico	normalWikiTitle:adenoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:90623	inCount:1	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+ENTITY	text:astrocitoma granular de grado II	normalName:astrocitoma_granular_de_grado_ii	predictedType:MOR_NEO	q:true	qid:Q1711	docId:cc_onco1343	origText:astrocitoma granular de grado II	url:NaN
+CANDIDATE	id:940034	inCount:0	outCount:1	links:	url:9400/34	name:Astrocitoma, SAI - grado IV, indiferenciado	normalName:astrocitoma,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:940031	inCount:0	outCount:1	links:	url:9400/31	name:Astrocitoma, SAI - grado I, bien diferenciado	normalName:astrocitoma,_sai_-_grado_i,_bien_diferenciado	normalWikiTitle:astrocitoma,_sai_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94203	inCount:5	outCount:1	links:	url:9420/3	name:Astrocitoma fibrilar	normalName:astrocitoma_fibrilar	normalWikiTitle:astrocitoma_fibrilar	predictedType:MOR_NEO
+CANDIDATE	id:942034	inCount:0	outCount:1	links:	url:9420/34	name:Astrocitoma fibrilar - grado IV, indiferenciado	normalName:astrocitoma_fibrilar_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma_fibrilar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94206	inCount:0	outCount:1	links:	url:9420/6	name:Astrocitoma fibrilar, metástasis	normalName:astrocitoma_fibrilar,_metástasis	normalWikiTitle:astrocitoma_fibrilar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:942534	inCount:0	outCount:1	links:	url:9425/34	name:Astrocitoma pilomixoide - grado IV, indiferenciado	normalName:astrocitoma_pilomixoide_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma_pilomixoide_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:943034	inCount:0	outCount:1	links:	url:9430/34	name:Astroblastoma - grado IV, indiferenciado	normalName:astroblastoma_-_grado_iv,_indiferenciado	normalWikiTitle:astroblastoma_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:940134	inCount:0	outCount:1	links:	url:9401/34	name:Astrocitoma anaplásico - grado IV, indiferenciado	normalName:astrocitoma_anaplásico_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma_anaplásico_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:941034	inCount:0	outCount:1	links:	url:9410/34	name:Astrocitoma protoplasmático - grado IV, indiferenciado	normalName:astrocitoma_protoplasmático_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma_protoplasmático_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:942031	inCount:0	outCount:1	links:	url:9420/31	name:Astrocitoma fibrilar - grado I, bien diferenciado	normalName:astrocitoma_fibrilar_-_grado_i,_bien_diferenciado	normalWikiTitle:astrocitoma_fibrilar_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+ENTITY	text:glioblastoma multiforme	normalName:glioblastoma_multiforme	predictedType:MOR_NEO	q:true	qid:Q1711	docId:cc_onco1343	origText:glioblastoma multiforme	url:NaN
+CANDIDATE	id:94403	inCount:5	outCount:1	links:	url:9440/3	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:94406	inCount:0	outCount:1	links:	url:9440/6	name:Glioblastoma, metástasis	normalName:glioblastoma,_metástasis	normalWikiTitle:glioblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88810	inCount:0	outCount:1	links:	url:8881/0	name:Lipoblastomatosis	normalName:lipoblastomatosis	normalWikiTitle:lipoblastomatosis	predictedType:MOR_NEO
+CANDIDATE	id:93103	inCount:5	outCount:1	links:	url:9310/3	name:Ameloblastoma maligno	normalName:ameloblastoma_maligno	normalWikiTitle:ameloblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:86303	inCount:5	outCount:1	links:	url:8630/3	name:Androblastoma maligno	normalName:androblastoma_maligno	normalWikiTitle:androblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93106	inCount:0	outCount:1	links:	url:9310/6	name:Ameloblastoma maligno, metástasis	normalName:ameloblastoma_maligno,_metástasis	normalWikiTitle:ameloblastoma_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:92303	inCount:5	outCount:1	links:	url:9230/3	name:Condroblastoma maligno	normalName:condroblastoma_maligno	normalWikiTitle:condroblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:94233	inCount:5	outCount:1	links:	url:9423/3	name:Espongioblastoma polar	normalName:espongioblastoma_polar	normalWikiTitle:espongioblastoma_polar	predictedType:MOR_NEO
+CANDIDATE	id:94236	inCount:0	outCount:1	links:	url:9423/6	name:Espongioblastoma polar, metástasis	normalName:espongioblastoma_polar,_metástasis	normalWikiTitle:espongioblastoma_polar,_metástasis	predictedType:MOR_NEO

@@ -1,0 +1,22 @@
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:MOR_NEO	q:true	qid:Q1991	docId:S1130-01082015001000014-1	origText:neoplasia	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+ENTITY	text:neoplasia quística mucinosa	normalName:neoplasia_quística_mucinosa	predictedType:MOR_NEO	q:true	qid:Q1991	docId:S1130-01082015001000014-1	origText:neoplasia quística mucinosa	url:NaN
+CANDIDATE	id:90551	inCount:0	outCount:1	links:	url:9055/1	name:Mesotelioma quístico, SAI	normalName:mesotelioma_quístico,_sai	normalWikiTitle:mesotelioma_quístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85043	inCount:5	outCount:1	links:	url:8504/3	name:Carcinoma intraquístico, SAI	normalName:carcinoma_intraquístico,_sai	normalWikiTitle:carcinoma_intraquístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84530	inCount:0	outCount:1	links:	url:8453/0	name:Adenoma intraductal papilar-mucinoso	normalName:adenoma_intraductal_papilar-mucinoso	normalWikiTitle:adenoma_intraductal_papilar-mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:85040	inCount:0	outCount:1	links:	url:8504/0	name:Adenoma papilar intraquístico	normalName:adenoma_papilar_intraquístico	normalWikiTitle:adenoma_papilar_intraquístico	predictedType:MOR_NEO
+CANDIDATE	id:80983	inCount:5	outCount:1	links:	url:8098/3	name:Carcinoma basal adenoideo	normalName:carcinoma_basal_adenoideo	normalWikiTitle:carcinoma_basal_adenoideo	predictedType:MOR_NEO
+CANDIDATE	id:81026	inCount:0	outCount:1	links:	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90816	inCount:0	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94013	inCount:1	outCount:1	links:	url:9401/3	name:Astrocitoma anaplásico	normalName:astrocitoma_anaplásico	normalWikiTitle:astrocitoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:82533	inCount:5	outCount:1	links:	url:8253/3	name:Carcinoma bronquiolo-alveolar, mucinoso	normalName:carcinoma_bronquiolo-alveolar,_mucinoso	normalWikiTitle:carcinoma_bronquiolo-alveolar,_mucinoso	predictedType:MOR_NEO

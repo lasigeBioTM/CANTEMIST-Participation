@@ -1,0 +1,22 @@
+ENTITY	text:Adenocarcinoma	normalName:adenocarcinoma	predictedType:MOR_NEO	q:true	qid:Q1690	docId:S0004-06142007000600010-2	origText:Adenocarcinoma	url:NaN
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:82903	inCount:5	outCount:1	links:	url:8290/3	name:Adenocarcinoma oxífilo	normalName:adenocarcinoma_oxífilo	normalWikiTitle:adenocarcinoma_oxífilo	predictedType:MOR_NEO
+CANDIDATE	id:84103	inCount:5	outCount:1	links:	url:8410/3	name:Adenocarcinoma sebáceo	normalName:adenocarcinoma_sebáceo	normalWikiTitle:adenocarcinoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
+CANDIDATE	id:82113	inCount:5	outCount:1	links:	url:8211/3	name:Adenocarcinoma tubular	normalName:adenocarcinoma_tubular	normalWikiTitle:adenocarcinoma_tubular	predictedType:MOR_NEO
+CANDIDATE	id:82133	inCount:5	outCount:1	links:	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:82623	inCount:5	outCount:1	links:	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
+ENTITY	text:papiloma invertido	normalName:papiloma_invertido	predictedType:MOR_NEO	q:true	qid:Q1690	docId:S0004-06142007000600010-2	origText:papiloma invertido	url:NaN
+CANDIDATE	id:80510	inCount:0	outCount:1	links:	url:8051/0	name:Papiloma verrugoso	normalName:papiloma_verrugoso	normalWikiTitle:papiloma_verrugoso	predictedType:MOR_NEO
+CANDIDATE	id:80500	inCount:0	outCount:1	links:	url:8050/0	name:Papiloma, SAI	normalName:papiloma,_sai	normalWikiTitle:papiloma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81201	inCount:0	outCount:1	links:	url:8120/1	name:Papiloma urotelial, SAI	normalName:papiloma_urotelial,_sai	normalWikiTitle:papiloma_urotelial,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81210	inCount:0	outCount:1	links:	url:8121/0	name:Papiloma de Schneider, SAI	normalName:papiloma_de_schneider,_sai	normalWikiTitle:papiloma_de_schneider,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84060	inCount:0	outCount:1	links:	url:8406/0	name:Siringoadenoma papilar	normalName:siringoadenoma_papilar	normalWikiTitle:siringoadenoma_papilar	predictedType:MOR_NEO
+CANDIDATE	id:80203	inCount:1	outCount:1	links:	url:8020/3	name:Carcinoma indiferenciado, SAI	normalName:carcinoma_indiferenciado,_sai	normalWikiTitle:carcinoma_indiferenciado,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81100	inCount:0	outCount:1	links:	url:8110/0	name:Pilomatrixoma, SAI	normalName:pilomatrixoma,_sai	normalWikiTitle:pilomatrixoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:95391	inCount:0	outCount:1	links:	url:9539/1	name:Meningioma atípico	normalName:meningioma_atípico	normalWikiTitle:meningioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:5	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO

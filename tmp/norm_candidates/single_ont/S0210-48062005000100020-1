@@ -1,0 +1,11 @@
+ENTITY	text:lesión nodular subcutánea	normalName:lesión_nodular_subcutánea	predictedType:MOR_NEO	q:true	qid:Q457	docId:S0210-48062005000100020-1	origText:lesión nodular subcutánea	url:NaN
+CANDIDATE	id:97083	inCount:1	outCount:1	links:	url:9708/3	name:Linfoma T subcutáneo tipo paniculitis 	normalName:linfoma_t_subcutáneo_tipo_paniculitis_	normalWikiTitle:linfoma_t_subcutáneo_tipo_paniculitis_	predictedType:MOR_NEO
+CANDIDATE	id:86321	inCount:0	outCount:1	links:	url:8632/1	name:Ginandroblastoma	normalName:ginandroblastoma	normalWikiTitle:ginandroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:87213	inCount:5	outCount:1	links:	url:8721/3	name:Melanoma nodular	normalName:melanoma_nodular	normalWikiTitle:melanoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:91703	inCount:5	outCount:1	links:	url:9170/3	name:Linfangiosarcoma	normalName:linfangiosarcoma	normalWikiTitle:linfangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:94403	inCount:5	outCount:1	links:	url:9440/3	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:85103	inCount:5	outCount:1	links:	url:8510/3	name:Carcinoma medular, SAI	normalName:carcinoma_medular,_sai	normalWikiTitle:carcinoma_medular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87216	inCount:0	outCount:1	links:	url:8721/6	name:Melanoma nodular, metástasis	normalName:melanoma_nodular,_metástasis	normalWikiTitle:melanoma_nodular,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO

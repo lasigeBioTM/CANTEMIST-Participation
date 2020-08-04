@@ -1,0 +1,13 @@
+ENTITY	text:cáncer de mama metastásico	normalName:cáncer_de_mama_metastásico	predictedType:MOR_NEO	q:true	qid:Q53	docId:cc_onco1442	origText:cáncer de mama metastásico	url:NaN
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81406	inCount:0	outCount:1	links:	url:8140/6	name:Adenocarcinoma metastásico, SAI	normalName:adenocarcinoma_metastásico,_sai	normalWikiTitle:adenocarcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:5	outCount:1	links:	url:8095/3	name:Carcinoma metatípico	normalName:carcinoma_metatípico	normalWikiTitle:carcinoma_metatípico	predictedType:MOR_NEO
+CANDIDATE	id:84036	inCount:0	outCount:1	links:	url:8403/6	name:Espiradenoma ecrino maligno, metástasis	normalName:espiradenoma_ecrino_maligno,_metástasis	normalWikiTitle:espiradenoma_ecrino_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93716	inCount:0	outCount:1	links:	url:9371/6	name:Cordoma condroide, metástasis	normalName:cordoma_condroide,_metástasis	normalWikiTitle:cordoma_condroide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90906	inCount:0	outCount:1	links:	url:9090/6	name:Estruma ovárico maligno, metástasis	normalName:estruma_ovárico_maligno,_metástasis	normalWikiTitle:estruma_ovárico_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80706	inCount:0	outCount:1	links:	url:8070/6	name:Carcinoma metastásico de células escamosas, SAI	normalName:carcinoma_metastásico_de_células_escamosas,_sai	normalWikiTitle:carcinoma_metastásico_de_células_escamosas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83250	inCount:0	outCount:1	links:	url:8325/0	name:Adenoma metanéfrico	normalName:adenoma_metanéfrico	normalWikiTitle:adenoma_metanéfrico	predictedType:MOR_NEO
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Ca metastásico, SAI	normalName:ca_metastásico,_sai	normalWikiTitle:ca_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80706	inCount:0	outCount:1	links:	url:8070/6	name:Ca metastásico, cél escamosas, SAI	normalName:ca_metastásico,_cél_escamosas,_sai	normalWikiTitle:ca_metastásico,_cél_escamosas,_sai	predictedType:MOR_NEO

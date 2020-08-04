@@ -1,0 +1,13 @@
+ENTITY	text:tumor epidermoide	normalName:tumor_epidermoide	predictedType:MOR_NEO	q:true	qid:Q64	docId:S0376-78922006000300009-1	origText:tumor epidermoide	url:NaN
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tumor mucoepidermoide	normalName:tumor_mucoepidermoide	normalWikiTitle:tumor_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80520	inCount:0	outCount:1	links:	url:8052/0	name:Papiloma epidermoide, SAI	normalName:papiloma_epidermoide,_sai	normalWikiTitle:papiloma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metástasis	normalName:carcinoma_mucoepidermoide,_metástasis	normalWikiTitle:carcinoma_mucoepidermoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95023	inCount:5	outCount:1	links:	url:9502/3	name:Meduloepitelioma teratoide	normalName:meduloepitelioma_teratoide	normalWikiTitle:meduloepitelioma_teratoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:5	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI 	normalName:carcinoma_epidermoide_in_situ,_sai_	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:80783	inCount:5	outCount:1	links:	url:8078/3	name:Carcinoma epidermoide con formación cuerno	normalName:carcinoma_epidermoide_con_formación_cuerno	normalWikiTitle:carcinoma_epidermoide_con_formación_cuerno	predictedType:MOR_NEO
+CANDIDATE	id:97003	inCount:1	outCount:1	links:	url:9700/3	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:5	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Ca mucoepidermoide	normalName:ca_mucoepidermoide	normalWikiTitle:ca_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tum mucoepidermoide	normalName:tum_mucoepidermoide	normalWikiTitle:tum_mucoepidermoide	predictedType:MOR_NEO

@@ -1,0 +1,33 @@
+ENTITY	text:carcinomas	normalName:carcinomas	predictedType:MOR_NEO	q:true	qid:Q1402	docId:cc_onco827	origText:carcinomas	url:NaN
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:83373	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:81403	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:5	outCount:1	links:	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO
+ENTITY	text:carcinomas basocelulares	normalName:carcinomas_basocelulares	predictedType:MOR_NEO	q:true	qid:Q1402	docId:cc_onco827	origText:carcinomas basocelulares	url:NaN
+CANDIDATE	id:81473	inCount:5	outCount:1	links:81473	url:8147/3	name:Adenocarcinoma basocelular	normalName:adenocarcinoma_basocelular	normalWikiTitle:adenocarcinoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81703	inCount:5	outCount:1	links:	url:8170/3	name:Carcinoma hepatocelular, SAI	normalName:carcinoma_hepatocelular,_sai	normalWikiTitle:carcinoma_hepatocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81470	inCount:0	outCount:1	links:81470	url:8147/0	name:Adenoma basocelular	normalName:adenoma_basocelular	normalWikiTitle:adenoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81476	inCount:0	outCount:1	links:	url:8147/6	name:Adenocarcinoma basocelular, metástasis	normalName:adenocarcinoma_basocelular,_metástasis	normalWikiTitle:adenocarcinoma_basocelular,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81723	inCount:5	outCount:1	links:	url:8172/3	name:Carcinoma hepatocelular escirro	normalName:carcinoma_hepatocelular_escirro	normalWikiTitle:carcinoma_hepatocelular_escirro	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:83373	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:85103	inCount:5	outCount:1	links:	url:8510/3	name:Carcinoma medular, SAI	normalName:carcinoma_medular,_sai	normalWikiTitle:carcinoma_medular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81706	inCount:0	outCount:1	links:	url:8170/6	name:Carcinoma hepatocelular, SAI, metástasis	normalName:carcinoma_hepatocelular,_sai,_metástasis	normalWikiTitle:carcinoma_hepatocelular,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81726	inCount:0	outCount:1	links:	url:8172/6	name:Carcinoma hepatocelular escirro, metástasis	normalName:carcinoma_hepatocelular_escirro,_metástasis	normalWikiTitle:carcinoma_hepatocelular_escirro,_metástasis	predictedType:MOR_NEO
+ENTITY	text:afectación muscular	normalName:afectación_muscular	predictedType:MOR_NEO	q:true	qid:Q1402	docId:cc_onco827	origText:afectación muscular	url:NaN
+CANDIDATE	id:82113	inCount:5	outCount:1	links:	url:8211/3	name:Adenocarcinoma tubular	normalName:adenocarcinoma_tubular	normalWikiTitle:adenocarcinoma_tubular	predictedType:MOR_NEO
+CANDIDATE	id:81473	inCount:5	outCount:1	links:81473	url:8147/3	name:Adenocarcinoma basocelular	normalName:adenocarcinoma_basocelular	normalWikiTitle:adenocarcinoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:83373	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81903	inCount:5	outCount:1	links:	url:8190/3	name:Adenocarcinoma trabecular	normalName:adenocarcinoma_trabecular	normalWikiTitle:adenocarcinoma_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:83303	inCount:5	outCount:1	links:	url:8330/3	name:Adenocarcinoma folicular, SAI	normalName:adenocarcinoma_folicular,_sai	normalWikiTitle:adenocarcinoma_folicular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91320	inCount:0	outCount:1	links:	url:9132/0	name:Hemangioma intramuscular	normalName:hemangioma_intramuscular	normalWikiTitle:hemangioma_intramuscular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:81403	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82451	inCount:0	outCount:1	links:	url:8245/1	name:Carcinoide tubular	normalName:carcinoide_tubular	normalWikiTitle:carcinoide_tubular	predictedType:MOR_NEO
+CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
+CANDIDATE	id:81470	inCount:0	outCount:1	links:81470	url:8147/0	name:Adenoma basocelular	normalName:adenoma_basocelular	normalWikiTitle:adenoma_basocelular	predictedType:MOR_NEO

@@ -1,0 +1,11 @@
+ENTITY	text:linfoma mediastinico	normalName:linfoma_mediastinico	predictedType:MOR_NEO	q:true	qid:Q2	docId:caso_clinico_radiologia818	origText:linfoma mediastinico	url:NaN
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:5	outCount:1	links:	url:8095/3	name:Carcinoma metatípico	normalName:carcinoma_metatípico	normalWikiTitle:carcinoma_metatípico	predictedType:MOR_NEO
+CANDIDATE	id:91730	inCount:0	outCount:1	links:	url:9173/0	name:Linfangioma quístico	normalName:linfangioma_quístico	normalWikiTitle:linfangioma_quístico	predictedType:MOR_NEO
+CANDIDATE	id:95903	inCount:5	outCount:1	links:	url:9590/3	name:Linfoma maligno, SAI	normalName:linfoma_maligno,_sai	normalWikiTitle:linfoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:93803	inCount:5	outCount:1	links:	url:9380/3	name:Glioma maligno	normalName:glioma_maligno	normalWikiTitle:glioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81513	inCount:5	outCount:1	links:	url:8151/3	name:Insulinoma maligno	normalName:insulinoma_maligno	normalWikiTitle:insulinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:83250	inCount:0	outCount:1	links:	url:8325/0	name:Adenoma metanéfrico	normalName:adenoma_metanéfrico	normalWikiTitle:adenoma_metanéfrico	predictedType:MOR_NEO
+CANDIDATE	id:93826	inCount:0	outCount:1	links:	url:9382/6	name:Glioma mixto, metástasis	normalName:glioma_mixto,_metástasis	normalWikiTitle:glioma_mixto,_metástasis	predictedType:MOR_NEO

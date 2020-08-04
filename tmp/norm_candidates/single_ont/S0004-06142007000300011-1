@@ -1,0 +1,124 @@
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:80401	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:93653	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:80400	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:90900	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:81023	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:93653	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:80401	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:80400	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:83610	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:90900	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:93653	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:88240	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:81023	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+ENTITY	text:tumorales	normalName:tumorales	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:tumorales	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:80401	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:80400	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:83610	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:87803	inCount:5	outCount:1	links:	url:8780/3	name:Nevus azul maligno	normalName:nevus_azul_maligno	normalWikiTitle:nevus_azul_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:90900	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:81023	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:87230	inCount:0	outCount:1	links:	url:8723/0	name:Nevus con halo	normalName:nevus_con_halo	normalWikiTitle:nevus_con_halo	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+ENTITY	text:tumoración	normalName:tumoración	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:tumoración	url:NaN
+CANDIDATE	id:81023	inCount:5	outCount:1	links:81023	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:90900	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:80401	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:90713	inCount:5	outCount:1	links:	url:9071/3	name:Tumor del saco vitelino	normalName:tumor_del_saco_vitelino	normalWikiTitle:tumor_del_saco_vitelino	predictedType:MOR_NEO
+CANDIDATE	id:91003	inCount:5	outCount:1	links:	url:9100/3	name:Coriocarcinoma, SAI	normalName:coriocarcinoma,_sai	normalWikiTitle:coriocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87422	inCount:5	outCount:1	links:	url:8742/2	name:Léntigo maligno	normalName:léntigo_maligno	normalWikiTitle:léntigo_maligno	predictedType:MOR_NEO
+ENTITY	text:neoplásica	normalName:neoplásica	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:neoplásica	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplásico	normalName:fibroma_desmoplásico	normalWikiTitle:fibroma_desmoplásico	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90623	inCount:1	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+ENTITY	text:mixofibrosarcoma G3	normalName:mixofibrosarcoma_g3	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:mixofibrosarcoma G3	url:NaN
+CANDIDATE	id:88403	inCount:5	outCount:1	links:88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88103	inCount:5	outCount:1	links:88103	url:8810/3	name:Fibrosarcoma, SAI	normalName:fibrosarcoma,_sai	normalWikiTitle:fibrosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88113	inCount:5	outCount:1	links:88113	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:88240	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88250	inCount:0	outCount:1	links:88250	url:8825/0	name:Miofibroblastoma	normalName:miofibroblastoma	normalWikiTitle:miofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:93303	inCount:5	outCount:1	links:93303	url:9330/3	name:Fibrosarcoma ameloblástico	normalName:fibrosarcoma_ameloblástico	normalWikiTitle:fibrosarcoma_ameloblástico	predictedType:MOR_NEO
+CANDIDATE	id:88133	inCount:5	outCount:1	links:88133	url:8813/3	name:Fibrosarcoma fascial	normalName:fibrosarcoma_fascial	normalWikiTitle:fibrosarcoma_fascial	predictedType:MOR_NEO
+CANDIDATE	id:88323	inCount:5	outCount:1	links:88323	url:8832/3	name:Dermatofibrosarcoma, SAI	normalName:dermatofibrosarcoma,_sai	normalWikiTitle:dermatofibrosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:881033	inCount:0	outCount:1	links:88103	url:8810/33	name:Fibrosarcoma, SAI - G3	normalName:fibrosarcoma,_sai_-_g3	normalWikiTitle:fibrosarcoma,_sai_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:881133	inCount:0	outCount:1	links:88113	url:8811/33	name:Fibromixosarcoma - G3	normalName:fibromixosarcoma_-_g3	normalWikiTitle:fibromixosarcoma_-_g3	predictedType:MOR_NEO
+ENTITY	text:fibrohistiocitoma maligno	normalName:fibrohistiocitoma_maligno	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:fibrohistiocitoma maligno	url:NaN
+CANDIDATE	id:88303	inCount:5	outCount:1	links:883034;88303;883032;883033	url:8830/3	name:Histiocitoma fibroso maligno	normalName:histiocitoma_fibroso_maligno	normalWikiTitle:histiocitoma_fibroso_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88306	inCount:0	outCount:1	links:88306	url:8830/6	name:Histiocitoma fibroso maligno, metástasis	normalName:histiocitoma_fibroso_maligno,_metástasis	normalWikiTitle:histiocitoma_fibroso_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87003	inCount:5	outCount:1	links:87003	url:8700/3	name:Feocromocitoma maligno	normalName:feocromocitoma_maligno	normalWikiTitle:feocromocitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:97503	inCount:5	outCount:1	links:97503	url:9750/3	name:Histiocitosis maligna	normalName:histiocitosis_maligna	normalWikiTitle:histiocitosis_maligna	predictedType:MOR_NEO
+CANDIDATE	id:88301	inCount:0	outCount:1	links:	url:8830/1	name:Fibrohistiocitoma atípico	normalName:fibrohistiocitoma_atípico	normalWikiTitle:fibrohistiocitoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:88310	inCount:0	outCount:1	links:	url:8831/0	name:Histiocitoma, SAI	normalName:histiocitoma,_sai	normalWikiTitle:histiocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88300	inCount:0	outCount:1	links:	url:8830/0	name:Histiocitoma fibroso benigno	normalName:histiocitoma_fibroso_benigno	normalWikiTitle:histiocitoma_fibroso_benigno	predictedType:MOR_NEO
+CANDIDATE	id:91503	inCount:5	outCount:1	links:	url:9150/3	name:Hemangiopericitoma maligno	normalName:hemangiopericitoma_maligno	normalWikiTitle:hemangiopericitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:883034	inCount:0	outCount:1	links:883034;88303	url:8830/34	name:Histiocitoma fibroso maligno - grado IV, indiferenciado	normalName:histiocitoma_fibroso_maligno_-_grado_iv,_indiferenciado	normalWikiTitle:histiocitoma_fibroso_maligno_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:88361	inCount:0	outCount:1	links:	url:8836/1	name:Fibrohistiocitoma angiomatoide	normalName:fibrohistiocitoma_angiomatoide	normalWikiTitle:fibrohistiocitoma_angiomatoide	predictedType:MOR_NEO
+ENTITY	text:mixoliposarcoma	normalName:mixoliposarcoma	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:mixoliposarcoma	url:NaN
+CANDIDATE	id:88403	inCount:5	outCount:1	links:88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:94423	inCount:5	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88503	inCount:5	outCount:1	links:	url:8850/3	name:Liposarcoma, SAI	normalName:liposarcoma,_sai	normalWikiTitle:liposarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88113	inCount:5	outCount:1	links:88113	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89913	inCount:5	outCount:1	links:	url:8991/3	name:Sarcoma embrionario	normalName:sarcoma_embrionario	normalWikiTitle:sarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:99303	inCount:5	outCount:1	links:	url:9930/3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:88553	inCount:5	outCount:1	links:	url:8855/3	name:Liposarcoma mixto	normalName:liposarcoma_mixto	normalWikiTitle:liposarcoma_mixto	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+ENTITY	text:tumor adiposo	normalName:tumor_adiposo	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:tumor adiposo	url:NaN
+CANDIDATE	id:90900	inCount:0	outCount:1	links:90900	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85811	inCount:0	outCount:1	links:	url:8581/1	name:Timoma tipo A, SAI	normalName:timoma_tipo_a,_sai	normalWikiTitle:timoma_tipo_a,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87500	inCount:0	outCount:1	links:	url:8750/0	name:Nevus intradérmico	normalName:nevus_intradérmico	normalWikiTitle:nevus_intradérmico	predictedType:MOR_NEO
+CANDIDATE	id:89040	inCount:0	outCount:1	links:	url:8904/0	name:Rabdomioma adulto	normalName:rabdomioma_adulto	normalWikiTitle:rabdomioma_adulto	predictedType:MOR_NEO
+CANDIDATE	id:85821	inCount:0	outCount:1	links:	url:8582/1	name:Timoma tipo AB, SAI	normalName:timoma_tipo_ab,_sai	normalWikiTitle:timoma_tipo_ab,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85831	inCount:0	outCount:1	links:	url:8583/1	name:Timoma tipo B1, SAI	normalName:timoma_tipo_b1,_sai	normalWikiTitle:timoma_tipo_b1,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85841	inCount:0	outCount:1	links:	url:8584/1	name:Timoma tipo B2, SAI	normalName:timoma_tipo_b2,_sai	normalWikiTitle:timoma_tipo_b2,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85851	inCount:0	outCount:1	links:	url:8585/1	name:Timoma tipo B3, SAI	normalName:timoma_tipo_b3,_sai	normalWikiTitle:timoma_tipo_b3,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89103	inCount:5	outCount:1	links:	url:8910/3	name:Rabdomiosarcoma embrionario	normalName:rabdomiosarcoma_embrionario	normalWikiTitle:rabdomiosarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:81023	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+ENTITY	text:mixofibrosarcoma	normalName:mixofibrosarcoma	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:mixofibrosarcoma	url:NaN
+CANDIDATE	id:88403	inCount:5	outCount:1	links:88403	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:88240	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:88953	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88103	inCount:5	outCount:1	links:88103	url:8810/3	name:Fibrosarcoma, SAI	normalName:fibrosarcoma,_sai	normalWikiTitle:fibrosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88113	inCount:5	outCount:1	links:88113	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88250	inCount:0	outCount:1	links:88250	url:8825/0	name:Miofibroblastoma	normalName:miofibroblastoma	normalWikiTitle:miofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:93303	inCount:5	outCount:1	links:93303	url:9330/3	name:Fibrosarcoma ameloblástico	normalName:fibrosarcoma_ameloblástico	normalWikiTitle:fibrosarcoma_ameloblástico	predictedType:MOR_NEO
+CANDIDATE	id:88133	inCount:5	outCount:1	links:88133	url:8813/3	name:Fibrosarcoma fascial	normalName:fibrosarcoma_fascial	normalWikiTitle:fibrosarcoma_fascial	predictedType:MOR_NEO
+CANDIDATE	id:88323	inCount:5	outCount:1	links:88323	url:8832/3	name:Dermatofibrosarcoma, SAI	normalName:dermatofibrosarcoma,_sai	normalWikiTitle:dermatofibrosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:88943	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+ENTITY	text:fibrohistiocitoma maligno variante mixoide	normalName:fibrohistiocitoma_maligno_variante_mixoide	predictedType:MOR_NEO	q:true	qid:Q1912	docId:S0004-06142007000300011-1	origText:fibrohistiocitoma maligno variante mixoide	url:NaN
+CANDIDATE	id:88303	inCount:5	outCount:1	links:883034;88303;883032;883033	url:8830/3	name:Histiocitoma fibroso maligno	normalName:histiocitoma_fibroso_maligno	normalWikiTitle:histiocitoma_fibroso_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88306	inCount:0	outCount:1	links:88306	url:8830/6	name:Histiocitoma fibroso maligno, metástasis	normalName:histiocitoma_fibroso_maligno,_metástasis	normalWikiTitle:histiocitoma_fibroso_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88351	inCount:0	outCount:1	links:	url:8835/1	name:Tumor fibrohistiocítico plexiforme	normalName:tumor_fibrohistiocítico_plexiforme	normalWikiTitle:tumor_fibrohistiocítico_plexiforme	predictedType:MOR_NEO
+CANDIDATE	id:88153	inCount:5	outCount:1	links:	url:8815/3	name:Tumor fibroso solitario, maligno	normalName:tumor_fibroso_solitario,_maligno	normalWikiTitle:tumor_fibroso_solitario,_maligno	predictedType:MOR_NEO
+CANDIDATE	id:883032	inCount:0	outCount:1	links:88303	url:8830/32	name:Histiocitoma fibroso maligno - grado II, moderadamente diferenciado	normalName:histiocitoma_fibroso_maligno_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:histiocitoma_fibroso_maligno_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94253	inCount:5	outCount:1	links:	url:9425/3	name:Astrocitoma pilomixoide	normalName:astrocitoma_pilomixoide	normalWikiTitle:astrocitoma_pilomixoide	predictedType:MOR_NEO
+CANDIDATE	id:883033	inCount:0	outCount:1	links:88303	url:8830/33	name:Histiocitoma fibroso maligno - grado III, pobremente diferenciado	normalName:histiocitoma_fibroso_maligno_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:histiocitoma_fibroso_maligno_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:97503	inCount:5	outCount:1	links:97503	url:9750/3	name:Histiocitosis maligna	normalName:histiocitosis_maligna	normalWikiTitle:histiocitosis_maligna	predictedType:MOR_NEO
+CANDIDATE	id:87003	inCount:5	outCount:1	links:87003	url:8700/3	name:Feocromocitoma maligno	normalName:feocromocitoma_maligno	normalWikiTitle:feocromocitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:883034	inCount:0	outCount:1	links:883034;88303	url:8830/34	name:Histiocitoma fibroso maligno - grado IV, indiferenciado	normalName:histiocitoma_fibroso_maligno_-_grado_iv,_indiferenciado	normalWikiTitle:histiocitoma_fibroso_maligno_-_grado_iv,_indiferenciado	predictedType:MOR_NEO

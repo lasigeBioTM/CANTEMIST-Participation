@@ -1,0 +1,23 @@
+ENTITY	text:celularidad neoplásica	normalName:celularidad_neoplásica	predictedType:MOR_NEO	q:true	qid:Q2220	docId:cc_onco1441	origText:celularidad neoplásica	url:NaN
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:88920	inCount:0	outCount:1	links:	url:8892/0	name:Leiomioma celular	normalName:leiomioma_celular	normalWikiTitle:leiomioma_celular	predictedType:MOR_NEO
+CANDIDATE	id:88101	inCount:0	outCount:1	links:	url:8810/1	name:Fibroma celular	normalName:fibroma_celular	normalWikiTitle:fibroma_celular	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87723	inCount:5	outCount:1	links:	url:8772/3	name:Melanoma fusocelular, SAI	normalName:melanoma_fusocelular,_sai	normalWikiTitle:melanoma_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99603	inCount:5	outCount:1	links:	url:9960/3	name:Neoplasia mieloproliferativa, SAI	normalName:neoplasia_mieloproliferativa,_sai	normalWikiTitle:neoplasia_mieloproliferativa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80903	inCount:5	outCount:1	links:	url:8090/3	name:Carcinoma basocelular, SAI	normalName:carcinoma_basocelular,_sai	normalWikiTitle:carcinoma_basocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85143	inCount:5	outCount:1	links:	url:8514/3	name:Carcinoma ductal, tipo desmoplásico	normalName:carcinoma_ductal,_tipo_desmoplásico	normalWikiTitle:carcinoma_ductal,_tipo_desmoplásico	predictedType:MOR_NEO
+ENTITY	text:Linfoma de Hodgkin	normalName:linfoma_de_hodgkin	predictedType:MOR_NEO	q:true	qid:Q2220	docId:cc_onco1441	origText:Linfoma de Hodgkin	url:NaN
+CANDIDATE	id:96613	inCount:5	outCount:1	links:	url:9661/3	name:Granuloma de Hodgkin	normalName:granuloma_de_hodgkin	normalWikiTitle:granuloma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:966135	inCount:0	outCount:1	links:	url:9661/35	name:Granuloma de Hodgkin - células T	normalName:granuloma_de_hodgkin_-_células_t	normalWikiTitle:granuloma_de_hodgkin_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:966136	inCount:0	outCount:1	links:	url:9661/36	name:Granuloma de Hodgkin - células B	normalName:granuloma_de_hodgkin_-_células_b	normalWikiTitle:granuloma_de_hodgkin_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:966138	inCount:0	outCount:1	links:	url:9661/38	name:Granuloma de Hodgkin - células NK	normalName:granuloma_de_hodgkin_-_células_nk	normalWikiTitle:granuloma_de_hodgkin_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:96623	inCount:5	outCount:1	links:	url:9662/3	name:Sarcoma de Hodgkin	normalName:sarcoma_de_hodgkin	normalWikiTitle:sarcoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:91741	inCount:0	outCount:1	links:	url:9174/1	name:Linfangiomiomatosis	normalName:linfangiomiomatosis	normalWikiTitle:linfangiomiomatosis	predictedType:MOR_NEO
+CANDIDATE	id:95903	inCount:5	outCount:1	links:	url:9590/3	name:Linfoma maligno, SAI	normalName:linfoma_maligno,_sai	normalWikiTitle:linfoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:966235	inCount:0	outCount:1	links:	url:9662/35	name:Sarcoma de Hodgkin - células T	normalName:sarcoma_de_hodgkin_-_células_t	normalWikiTitle:sarcoma_de_hodgkin_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:966236	inCount:0	outCount:1	links:	url:9662/36	name:Sarcoma de Hodgkin - células B	normalName:sarcoma_de_hodgkin_-_células_b	normalWikiTitle:sarcoma_de_hodgkin_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma ecrino dérmico	normalName:cilindroma_ecrino_dérmico	normalWikiTitle:cilindroma_ecrino_dérmico	predictedType:MOR_NEO
+CANDIDATE	id:96613	inCount:5	outCount:1	links:	url:9661/3	name:Granuloma, Hodgkin	normalName:granuloma,_hodgkin	normalWikiTitle:granuloma,_hodgkin	predictedType:MOR_NEO

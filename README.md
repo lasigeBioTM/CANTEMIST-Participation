@@ -11,12 +11,12 @@ Get the necessary data to reproduce the experiments:
 To install all the necessary dependencies to run the code:
 
 ```
-pip3 install -r requirements.txt
+./install_requirements.sh
 ```
 
 ## 1. CANTEMIST-NER
 
-- Train Spanish Biomedical Flair Embeddings: pre-processes Spanish PubMed abstracts and then train the FLAIR embeddings on the raw text.
+- Train Spanish Biomedical Flair Embeddings: pre-processes Spanish PubMed abstracts and then trains the FLAIR embeddings on the raw text.
 
 ```
 python3 src/NER/train_flair_embeddings.py <mesinesp_subset> <direction>
@@ -29,21 +29,21 @@ Args:
 The output will be in '/trained\_embeddings/<mesinesp_subset>/\<direction>/' directory.
 
 
-- Train Spanish Biomedical NER tagger: converts the CANTEMIST dataset to IOB2 schema and then train a NER tagger with the Spanish Biomedical Flair embeddings.
+- Train Spanish Biomedical NER tagger: converts the CANTEMIST dataset to IOB2 schema and then trains a NER tagger with the Spanish Biomedical Flair embeddings.
 
 ```
 python3 src/NER/train_ner_model.py medium 
 ```
 
-The output will be in '/resources/taggers/medium' directory 
+The output will be in '/resources/taggers/medium' directory.
 
-- Apply the NER tagger to the test set of CANTEMIST corpus: predicts the entities present in the text, as well their location and build the annotation files.
+- Apply the NER tagger to the test set of CANTEMIST corpus: predicts the entities present in the text, as well their location and builds the annotation files.
 
 ```
 python3 src/NER/predict_ner.py
 ```
 
-The annotation files will be in './evaluation/NER/' directory
+The annotation files will be in './evaluation/NER/' directory.
 
 
 ## 2. CANTEMIST-NORM
@@ -57,6 +57,19 @@ Arg:
   - <ont_number> : 'single_ont', to retrieve only CIE-O-3 candidates, 'multi-ont', to additionally retrieve candidates from the Spanish ICD10-CM and DeCS terminologies, which will improve the disambiguation graph and the application of the PPR algorithm..
 
 The annotation files will be in './evaluation/NORM/<ont_number>' directory
+
+
+- Alternative: use [merpy](https://pypi.org/project/merpy/) to annotate the documents.
+
+```
+python3 src/NER/mer_annotate.py <task> <subset>
+```
+
+Args:
+  - <task> : 'ner' or 'norm'
+  - <subset> : 'train', 'dev1', 'dev2' or 'test'
+
+The annotation files will be in './mer_annotations/<task>/<subset>' directory.
 
 
 ## 3. CANTEMIST-CODING
@@ -92,7 +105,6 @@ python proc_npz_cantemist.py -npz results_X-Transformer/tst.pred.npz -i1 cantemi
 
 ## Evaluation
 To use the official scripts refer to [CANTEMIST EVALUATION LIBRARY](https://github.com/TeMU-BSC/cantemist-evaluation-library).
-
 
 
 

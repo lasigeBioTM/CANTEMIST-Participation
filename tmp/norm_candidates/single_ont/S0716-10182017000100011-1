@@ -1,0 +1,36 @@
+ENTITY	text:linfoma primario de SNC	normalName:linfoma_primario_de_snc	predictedType:MOR_NEO	q:true	qid:Q2277	docId:S0716-10182017000100011-1	origText:linfoma primario de SNC	url:NaN
+CANDIDATE	id:95903	inCount:5	outCount:1	links:	url:9590/3	name:Linfoma maligno, SAI	normalName:linfoma_maligno,_sai	normalWikiTitle:linfoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:96783	inCount:1	outCount:1	links:	url:9678/3	name:Linfoma de efusión primaria	normalName:linfoma_de_efusión_primaria	normalWikiTitle:linfoma_de_efusión_primaria	predictedType:MOR_NEO
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:88963	inCount:5	outCount:1	links:	url:8896/3	name:Leiomiosarcoma mixoide	normalName:leiomiosarcoma_mixoide	normalWikiTitle:leiomiosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:81103	inCount:5	outCount:1	links:	url:8110/3	name:Carcinoma pilomatricial	normalName:carcinoma_pilomatricial	normalWikiTitle:carcinoma_pilomatricial	predictedType:MOR_NEO
+CANDIDATE	id:88523	inCount:5	outCount:1	links:	url:8852/3	name:Liposarcoma mixoide	normalName:liposarcoma_mixoide	normalWikiTitle:liposarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:91741	inCount:0	outCount:1	links:	url:9174/1	name:Linfangiomiomatosis	normalName:linfangiomiomatosis	normalWikiTitle:linfangiomiomatosis	predictedType:MOR_NEO
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma ecrino dérmico	normalName:cilindroma_ecrino_dérmico	normalWikiTitle:cilindroma_ecrino_dérmico	predictedType:MOR_NEO
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82723	inCount:5	outCount:1	links:	url:8272/3	name:Carcinoma hipofisario, SAI	normalName:carcinoma_hipofisario,_sai	normalWikiTitle:carcinoma_hipofisario,_sai	predictedType:MOR_NEO
+CANDIDATE	id:96783	inCount:1	outCount:1	links:	url:9678/3	name:Linfoma, efusión primaria	normalName:linfoma,_efusión_primaria	normalWikiTitle:linfoma,_efusión_primaria	predictedType:MOR_NEO
+ENTITY	text:lesión frontal	normalName:lesión_frontal	predictedType:MOR_NEO	q:true	qid:Q2277	docId:S0716-10182017000100011-1	origText:lesión frontal	url:NaN
+CANDIDATE	id:83920	inCount:0	outCount:1	links:83920	url:8392/0	name:Siringofibroadenoma	normalName:siringofibroadenoma	normalWikiTitle:siringofibroadenoma	predictedType:MOR_NEO
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:91103	inCount:5	outCount:1	links:	url:9110/3	name:Mesonefroma maligno	normalName:mesonefroma_maligno	normalWikiTitle:mesonefroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:91703	inCount:5	outCount:1	links:	url:9170/3	name:Linfangiosarcoma	normalName:linfangiosarcoma	normalWikiTitle:linfangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:95100	inCount:0	outCount:1	links:	url:9510/0	name:Retinocitoma	normalName:retinocitoma	normalWikiTitle:retinocitoma	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:81201	inCount:0	outCount:1	links:	url:8120/1	name:Papiloma urotelial, SAI	normalName:papiloma_urotelial,_sai	normalWikiTitle:papiloma_urotelial,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma ecrino	normalName:poroma_ecrino	normalWikiTitle:poroma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Ca linfoepitelial	normalName:ca_linfoepitelial	normalWikiTitle:ca_linfoepitelial	predictedType:MOR_NEO
+ENTITY	text:lesiones supra e infratentoriales	normalName:lesiones_supra_e_infratentoriales	predictedType:MOR_NEO	q:true	qid:Q2277	docId:S0716-10182017000100011-1	origText:lesiones supra e infratentoriales	url:NaN
+CANDIDATE	id:86710	inCount:0	outCount:1	links:	url:8671/0	name:Tumor de restos suprarrenales	normalName:tumor_de_restos_suprarrenales	normalWikiTitle:tumor_de_restos_suprarrenales	predictedType:MOR_NEO
+CANDIDATE	id:84030	inCount:0	outCount:1	links:	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:88143	inCount:5	outCount:1	links:	url:8814/3	name:Fibrosarcoma infantil	normalName:fibrosarcoma_infantil	normalWikiTitle:fibrosarcoma_infantil	predictedType:MOR_NEO
+CANDIDATE	id:84033	inCount:5	outCount:1	links:	url:8403/3	name:Espiradenoma ecrino maligno	normalName:espiradenoma_ecrino_maligno	normalWikiTitle:espiradenoma_ecrino_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88146	inCount:0	outCount:1	links:	url:8814/6	name:Fibrosarcoma infantil, metástasis	normalName:fibrosarcoma_infantil,_metástasis	normalWikiTitle:fibrosarcoma_infantil,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:0	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:83920	inCount:0	outCount:1	links:83920	url:8392/0	name:Siringofibroadenoma	normalName:siringofibroadenoma	normalWikiTitle:siringofibroadenoma	predictedType:MOR_NEO
+CANDIDATE	id:84036	inCount:0	outCount:1	links:	url:8403/6	name:Espiradenoma ecrino maligno, metástasis	normalName:espiradenoma_ecrino_maligno,_metástasis	normalWikiTitle:espiradenoma_ecrino_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85213	inCount:5	outCount:1	links:	url:8521/3	name:Carcinoma de los conductos terminales, infiltrante	normalName:carcinoma_de_los_conductos_terminales,_infiltrante	normalWikiTitle:carcinoma_de_los_conductos_terminales,_infiltrante	predictedType:MOR_NEO
+CANDIDATE	id:94910	inCount:0	outCount:1	links:	url:9491/0	name:Ganglioneuromatosis	normalName:ganglioneuromatosis	normalWikiTitle:ganglioneuromatosis	predictedType:MOR_NEO
+CANDIDATE	id:86710	inCount:0	outCount:1	links:	url:8671/0	name:Tumor, restos suprarrenales	normalName:tumor,_restos_suprarrenales	normalWikiTitle:tumor,_restos_suprarrenales	predictedType:MOR_NEO

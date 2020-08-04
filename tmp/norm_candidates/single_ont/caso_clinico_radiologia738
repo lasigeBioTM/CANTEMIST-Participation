@@ -1,0 +1,11 @@
+ENTITY	text:neoplasia intraparenquimatosa	normalName:neoplasia_intraparenquimatosa	predictedType:MOR_NEO	q:true	qid:Q1063	docId:caso_clinico_radiologia738	origText:neoplasia intraparenquimatosa	url:NaN
+CANDIDATE	id:81630	inCount:0	outCount:1	links:	url:8163/0	name:Neoplasia pancreatobiliar, no invasiva	normalName:neoplasia_pancreatobiliar,_no_invasiva	normalWikiTitle:neoplasia_pancreatobiliar,_no_invasiva	predictedType:MOR_NEO
+CANDIDATE	id:85043	inCount:5	outCount:1	links:	url:8504/3	name:Carcinoma intraquístico, SAI	normalName:carcinoma_intraquístico,_sai	normalWikiTitle:carcinoma_intraquístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99203	inCount:5	outCount:1	links:	url:9920/3	name:Neoplasia mieloide relacionada con tratamiento	normalName:neoplasia_mieloide_relacionada_con_tratamiento	normalWikiTitle:neoplasia_mieloide_relacionada_con_tratamiento	predictedType:MOR_NEO
+CANDIDATE	id:92406	inCount:0	outCount:1	links:	url:9240/6	name:Condrosarcoma mesenquimal, metástasis	normalName:condrosarcoma_mesenquimal,_metástasis	normalWikiTitle:condrosarcoma_mesenquimal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81030	inCount:0	outCount:1	links:	url:8103/0	name:Tumor proliferante de triquilema	normalName:tumor_proliferante_de_triquilema	normalWikiTitle:tumor_proliferante_de_triquilema	predictedType:MOR_NEO
+CANDIDATE	id:89901	inCount:0	outCount:1	links:	url:8990/1	name:Mesenquimoma, SAI 	normalName:mesenquimoma,_sai_	normalWikiTitle:mesenquimoma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:93923	inCount:5	outCount:1	links:	url:9392/3	name:Ependimoma anaplásico	normalName:ependimoma_anaplásico	normalWikiTitle:ependimoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:85050	inCount:0	outCount:1	links:	url:8505/0	name:Papilomatosis intraductal, SAI	normalName:papilomatosis_intraductal,_sai	normalWikiTitle:papilomatosis_intraductal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86801	inCount:0	outCount:1	links:	url:8680/1	name:Paraganglioma, SAI	normalName:paraganglioma,_sai	normalWikiTitle:paraganglioma,_sai	predictedType:MOR_NEO

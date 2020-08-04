@@ -1,0 +1,23 @@
+ENTITY	text:enfermedad ósea	normalName:enfermedad_ósea	predictedType:MOR_NEO	q:true	qid:Q476	docId:S1889-836X2015000100003-1	origText:enfermedad ósea	url:NaN
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:5	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:970135	inCount:0	outCount:1	links:	url:9701/35	name:Enfermedad de Sézary - células T	normalName:enfermedad_de_sézary_-_células_t	normalWikiTitle:enfermedad_de_sézary_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95710	inCount:0	outCount:1	links:	url:9571/0	name:Perineuroma, SAI	normalName:perineuroma,_sai	normalWikiTitle:perineuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:90130	inCount:0	outCount:1	links:	url:9013/0	name:Adenofibroma, SAI	normalName:adenofibroma,_sai	normalWikiTitle:adenofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:97623	inCount:1	outCount:1	links:	url:9762/3	name:Enfermedad de cadenas pesadas, SAI	normalName:enfermedad_de_cadenas_pesadas,_sai	normalWikiTitle:enfermedad_de_cadenas_pesadas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88053	inCount:1	outCount:1	links:	url:8805/3	name:Sarcoma indiferenciado	normalName:sarcoma_indiferenciado	normalWikiTitle:sarcoma_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad, Sézary	normalName:enfermedad,_sézary	normalWikiTitle:enfermedad,_sézary	predictedType:MOR_NEO
+ENTITY	text:melorreostosis	normalName:melorreostosis	predictedType:MOR_NEO	q:true	qid:Q476	docId:S1889-836X2015000100003-1	origText:melorreostosis	url:NaN
+CANDIDATE	id:88241	inCount:0	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:93100	inCount:0	outCount:1	links:	url:9310/0	name:Ameloblastoma, SAI	normalName:ameloblastoma,_sai	normalWikiTitle:ameloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:0	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:94703	inCount:5	outCount:1	links:	url:9470/3	name:Meduloblastoma, SAI	normalName:meduloblastoma,_sai	normalWikiTitle:meduloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94910	inCount:0	outCount:1	links:	url:9491/0	name:Ganglioneuromatosis	normalName:ganglioneuromatosis	normalWikiTitle:ganglioneuromatosis	predictedType:MOR_NEO
+CANDIDATE	id:90551	inCount:0	outCount:1	links:	url:9055/1	name:Mesotelioma quístico, SAI	normalName:mesotelioma_quístico,_sai	normalWikiTitle:mesotelioma_quístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93813	inCount:5	outCount:1	links:	url:9381/3	name:Gliomatosis del cerebro	normalName:gliomatosis_del_cerebro	normalWikiTitle:gliomatosis_del_cerebro	predictedType:MOR_NEO
+CANDIDATE	id:94726	inCount:0	outCount:1	links:	url:9472/6	name:Medulomioblastoma, metástasis	normalName:medulomioblastoma,_metástasis	normalWikiTitle:medulomioblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87280	inCount:0	outCount:1	links:	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+CANDIDATE	id:91910	inCount:0	outCount:1	links:	url:9191/0	name:Osteoma osteoide, SAI	normalName:osteoma_osteoide,_sai	normalWikiTitle:osteoma_osteoide,_sai	predictedType:MOR_NEO

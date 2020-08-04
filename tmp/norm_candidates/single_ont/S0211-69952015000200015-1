@@ -1,0 +1,68 @@
+ENTITY	text:neoplasias	normalName:neoplasias	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:neoplasias	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO
+ENTITY	text:nódulos hipodensos suprarrenales	normalName:nódulos_hipodensos_suprarrenales	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:nódulos hipodensos suprarrenales	url:NaN
+CANDIDATE	id:86710	inCount:0	outCount:1	links:	url:8671/0	name:Tumor de restos suprarrenales	normalName:tumor_de_restos_suprarrenales	normalWikiTitle:tumor_de_restos_suprarrenales	predictedType:MOR_NEO
+CANDIDATE	id:83700	inCount:0	outCount:1	links:	url:8370/0	name:Adenoma de la corteza suprarrenal, SAI	normalName:adenoma_de_la_corteza_suprarrenal,_sai	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82146	inCount:0	outCount:1	links:	url:8214/6	name:Carcinoma de células parietales, metástasis	normalName:carcinoma_de_células_parietales,_metástasis	normalWikiTitle:carcinoma_de_células_parietales,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83703	inCount:5	outCount:1	links:	url:8370/3	name:Carcinoma de la corteza suprarrenal	normalName:carcinoma_de_la_corteza_suprarrenal	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal	predictedType:MOR_NEO
+CANDIDATE	id:83720	inCount:0	outCount:1	links:	url:8372/0	name:Adenoma de la corteza suprarrenal, pigmentado	normalName:adenoma_de_la_corteza_suprarrenal,_pigmentado	normalWikiTitle:adenoma_de_la_corteza_suprarrenal,_pigmentado	predictedType:MOR_NEO
+CANDIDATE	id:83706	inCount:0	outCount:1	links:	url:8370/6	name:Carcinoma de la corteza suprarrenal, metástasis	normalName:carcinoma_de_la_corteza_suprarrenal,_metástasis	normalWikiTitle:carcinoma_de_la_corteza_suprarrenal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82143	inCount:5	outCount:1	links:	url:8214/3	name:Carcinoma de células parietales	normalName:carcinoma_de_células_parietales	normalWikiTitle:carcinoma_de_células_parietales	predictedType:MOR_NEO
+CANDIDATE	id:88533	inCount:5	outCount:1	links:	url:8853/3	name:Liposarcoma de células redondas	normalName:liposarcoma_de_células_redondas	normalWikiTitle:liposarcoma_de_células_redondas	predictedType:MOR_NEO
+CANDIDATE	id:83710	inCount:0	outCount:1	links:	url:8371/0	name:Adenoma de la corteza suprarrenal de células compactas	normalName:adenoma_de_la_corteza_suprarrenal_de_células_compactas	normalWikiTitle:adenoma_de_la_corteza_suprarrenal_de_células_compactas	predictedType:MOR_NEO
+CANDIDATE	id:81202	inCount:5	outCount:1	links:	url:8120/2	name:Carcinoma in situ de células transicionales	normalName:carcinoma_in_situ_de_células_transicionales	normalWikiTitle:carcinoma_in_situ_de_células_transicionales	predictedType:MOR_NEO
+ENTITY	text:feocromocitoma	normalName:feocromocitoma	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:feocromocitoma	url:NaN
+CANDIDATE	id:87000	inCount:0	outCount:1	links:	url:8700/0	name:Feocromocitoma, SAI	normalName:feocromocitoma,_sai	normalWikiTitle:feocromocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87003	inCount:5	outCount:1	links:	url:8700/3	name:Feocromocitoma maligno	normalName:feocromocitoma_maligno	normalWikiTitle:feocromocitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88110	inCount:0	outCount:1	links:	url:8811/0	name:Fibromixoma 	normalName:fibromixoma_	normalWikiTitle:fibromixoma_	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:84040	inCount:0	outCount:1	links:	url:8404/0	name:Hidrocistoma	normalName:hidrocistoma	normalWikiTitle:hidrocistoma	predictedType:MOR_NEO
+CANDIDATE	id:88520	inCount:0	outCount:1	links:	url:8852/0	name:Fibromixolipoma	normalName:fibromixolipoma	normalWikiTitle:fibromixolipoma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:95100	inCount:0	outCount:1	links:	url:9510/0	name:Retinocitoma	normalName:retinocitoma	normalWikiTitle:retinocitoma	predictedType:MOR_NEO
+CANDIDATE	id:87006	inCount:0	outCount:1	links:	url:8700/6	name:Feocromocitoma maligno, metástasis	normalName:feocromocitoma_maligno,_metástasis	normalWikiTitle:feocromocitoma_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+ENTITY	text:tumor paratiroideo	normalName:tumor_paratiroideo	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:tumor paratiroideo	url:NaN
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tumor mucoepidermoide	normalName:tumor_mucoepidermoide	normalWikiTitle:tumor_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:92313	inCount:5	outCount:1	links:	url:9231/3	name:Condrosarcoma mixoide	normalName:condrosarcoma_mixoide	normalWikiTitle:condrosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:88963	inCount:5	outCount:1	links:	url:8896/3	name:Leiomiosarcoma mixoide	normalName:leiomiosarcoma_mixoide	normalWikiTitle:leiomiosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:95023	inCount:5	outCount:1	links:	url:9502/3	name:Meduloepitelioma teratoide	normalName:meduloepitelioma_teratoide	normalWikiTitle:meduloepitelioma_teratoide	predictedType:MOR_NEO
+CANDIDATE	id:82493	inCount:5	outCount:1	links:	url:8249/3	name:Tumor carcinoide atípico	normalName:tumor_carcinoide_atípico	normalWikiTitle:tumor_carcinoide_atípico	predictedType:MOR_NEO
+CANDIDATE	id:88523	inCount:5	outCount:1	links:	url:8852/3	name:Liposarcoma mixoide	normalName:liposarcoma_mixoide	normalWikiTitle:liposarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:95083	inCount:5	outCount:1	links:	url:9508/3	name:Tumor teratoide / rabdoide atípico	normalName:tumor_teratoide_/_rabdoide_atípico	normalWikiTitle:tumor_teratoide_/_rabdoide_atípico	predictedType:MOR_NEO
+CANDIDATE	id:93730	inCount:0	outCount:1	links:	url:9373/0	name:Paracordoma	normalName:paracordoma	normalWikiTitle:paracordoma	predictedType:MOR_NEO
+CANDIDATE	id:91923	inCount:5	outCount:1	links:	url:9192/3	name:Osteosarcoma paraóseo	normalName:osteosarcoma_paraóseo	normalWikiTitle:osteosarcoma_paraóseo	predictedType:MOR_NEO
+CANDIDATE	id:82453	inCount:5	outCount:1	links:82453	url:8245/3	name:Tumor adenocarcinoide	normalName:tumor_adenocarcinoide	normalWikiTitle:tumor_adenocarcinoide	predictedType:MOR_NEO
+ENTITY	text:adenoma paratiroideo	normalName:adenoma_paratiroideo	predictedType:MOR_NEO	q:true	qid:Q350	docId:S0211-69952015000200015-1	origText:adenoma paratiroideo	url:NaN
+CANDIDATE	id:81401	inCount:0	outCount:1	links:	url:8140/1	name:Adenoma atípico	normalName:adenoma_atípico	normalWikiTitle:adenoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:82453	inCount:5	outCount:1	links:82453	url:8245/3	name:Tumor adenocarcinoide	normalName:tumor_adenocarcinoide	normalWikiTitle:tumor_adenocarcinoide	predictedType:MOR_NEO
+CANDIDATE	id:81910	inCount:0	outCount:1	links:	url:8191/0	name:Adenoma embrionario	normalName:adenoma_embrionario	normalWikiTitle:adenoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:82600	inCount:0	outCount:1	links:	url:8260/0	name:Adenoma papilar, SAI	normalName:adenoma_papilar,_sai	normalWikiTitle:adenoma_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90540	inCount:0	outCount:1	links:	url:9054/0	name:Tumor adenomatoide, SAI	normalName:tumor_adenomatoide,_sai	normalWikiTitle:tumor_adenomatoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82120	inCount:0	outCount:1	links:	url:8212/0	name:Adenoma plano	normalName:adenoma_plano	normalWikiTitle:adenoma_plano	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:82020	inCount:0	outCount:1	links:	url:8202/0	name:Adenoma microquístico	normalName:adenoma_microquístico	normalWikiTitle:adenoma_microquístico	predictedType:MOR_NEO
+CANDIDATE	id:82720	inCount:0	outCount:1	links:	url:8272/0	name:Adenoma hipofisario, SAI	normalName:adenoma_hipofisario,_sai	normalWikiTitle:adenoma_hipofisario,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:AdenoCa hepatoide	normalName:adenoca_hepatoide	normalWikiTitle:adenoca_hepatoide	predictedType:MOR_NEO

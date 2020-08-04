@@ -1,0 +1,25 @@
+ENTITY	text:Enfermedad de Hodgkin	normalName:enfermedad_de_hodgkin	predictedType:MOR_NEO	q:true	qid:Q1121	docId:caso_clinico_radiologia595	origText:Enfermedad de Hodgkin	url:NaN
+CANDIDATE	id:96613	inCount:5	outCount:1	links:	url:9661/3	name:Granuloma de Hodgkin	normalName:granuloma_de_hodgkin	normalWikiTitle:granuloma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:5	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:97623	inCount:1	outCount:1	links:	url:9762/3	name:Enfermedad de cadenas pesadas, SAI	normalName:enfermedad_de_cadenas_pesadas,_sai	normalWikiTitle:enfermedad_de_cadenas_pesadas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:808124	inCount:0	outCount:1	links:	url:8081/24	name:Enfermedad de Bowen - grado IV, indiferenciado	normalName:enfermedad_de_bowen_-_grado_iv,_indiferenciado	normalWikiTitle:enfermedad_de_bowen_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:96523	inCount:5	outCount:1	links:	url:9652/3	name:Linfoma de Hodgkin, celularidad mixta, SAI	normalName:linfoma_de_hodgkin,_celularidad_mixta,_sai	normalWikiTitle:linfoma_de_hodgkin,_celularidad_mixta,_sai	predictedType:MOR_NEO
+CANDIDATE	id:96623	inCount:5	outCount:1	links:	url:9662/3	name:Sarcoma de Hodgkin	normalName:sarcoma_de_hodgkin	normalWikiTitle:sarcoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:89650	inCount:0	outCount:1	links:	url:8965/0	name:Adenofibroma nefrogénico	normalName:adenofibroma_nefrogénico	normalWikiTitle:adenofibroma_nefrogénico	predictedType:MOR_NEO
+CANDIDATE	id:808121	inCount:0	outCount:1	links:	url:8081/21	name:Enfermedad, Bowen - G1	normalName:enfermedad,_bowen_-_g1	normalWikiTitle:enfermedad,_bowen_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:808122	inCount:0	outCount:1	links:	url:8081/22	name:Enfermedad, Bowen - G2	normalName:enfermedad,_bowen_-_g2	normalWikiTitle:enfermedad,_bowen_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:808123	inCount:0	outCount:1	links:	url:8081/23	name:Enfermedad, Bowen - G3	normalName:enfermedad,_bowen_-_g3	normalWikiTitle:enfermedad,_bowen_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:808124	inCount:0	outCount:1	links:	url:8081/24	name:Enfermedad, Bowen - G4	normalName:enfermedad,_bowen_-_g4	normalWikiTitle:enfermedad,_bowen_-_g4	predictedType:MOR_NEO
+CANDIDATE	id:8401	inCount:10	outCount:1	links:	url:C84.1	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:9406	inCount:0	outCount:1	links:	url:C94.6	name:Enfermedad mielodisplásica, no clasificada	normalName:enfermedad_mielodisplásica,_no_clasificada	normalWikiTitle:enfermedad_mielodisplásica,_no_clasificada	predictedType:MOR_NEO
+CANDIDATE	id:8802	inCount:0	outCount:1	links:	url:C88.2	name:Enfermedad de cadenas pesadas	normalName:enfermedad_de_cadenas_pesadas	normalWikiTitle:enfermedad_de_cadenas_pesadas	predictedType:MOR_NEO
+CANDIDATE	id:8102	inCount:10	outCount:1	links:	url:C81.2	name:Linfoma de Hodgkin de celularidad mixta	normalName:linfoma_de_hodgkin_de_celularidad_mixta	normalWikiTitle:linfoma_de_hodgkin_de_celularidad_mixta	predictedType:MOR_NEO
+CANDIDATE	id:81	inCount:7	outCount:1	links:	url:C81	name:Linfoma de Hodgkin	normalName:linfoma_de_hodgkin	normalWikiTitle:linfoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:22497	inCount:0	outCount:1	links:	url:22497	name:enfermedad de Hodgkin	normalName:enfermedad_de_hodgkin	normalWikiTitle:enfermedad_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:0	inCount:0	outCount:0	links:	url:C	name:ENFERMEDADES	normalName:enfermedades	normalWikiTitle:enfermedades	predictedType:MOR_NEO
+CANDIDATE	id:6552	inCount:18	outCount:1	links:	url:6552	name:enfermedades hematológicas	normalName:enfermedades_hematológicas	normalWikiTitle:enfermedades_hematológicas	predictedType:MOR_NEO
+CANDIDATE	id:14970	inCount:7	outCount:2	links:	url:14970	name:enfermedades urológicas	normalName:enfermedades_urológicas	normalWikiTitle:enfermedades_urológicas	predictedType:MOR_NEO
+CANDIDATE	id:15025	inCount:7	outCount:1	links:	url:15025	name:enfermedades vaginales	normalName:enfermedades_vaginales	normalWikiTitle:enfermedades_vaginales	predictedType:MOR_NEO

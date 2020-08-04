@@ -1,0 +1,22 @@
+ENTITY	text:leucemia aguda promielocítica	normalName:leucemia_aguda_promielocítica	predictedType:MOR_NEO	q:true	qid:Q2107	docId:caso_clinico_radiologia579	origText:leucemia aguda promielocítica	url:NaN
+CANDIDATE	id:98323	inCount:5	outCount:1	links:	url:9832/3	name:Leucemia prolinfocítica, SAI	normalName:leucemia_prolinfocítica,_sai	normalWikiTitle:leucemia_prolinfocítica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98673	inCount:5	outCount:1	links:	url:9867/3	name:Leucemia mielomonocítica aguda	normalName:leucemia_mielomonocítica_aguda	normalWikiTitle:leucemia_mielomonocítica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99463	inCount:1	outCount:1	links:	url:9946/3	name:Leucemia mielomonocítica juvenil	normalName:leucemia_mielomonocítica_juvenil	normalWikiTitle:leucemia_mielomonocítica_juvenil	predictedType:MOR_NEO
+CANDIDATE	id:983237	inCount:0	outCount:1	links:	url:9832/37	name:Leucemia prolinfocítica, SAI - células nulas	normalName:leucemia_prolinfocítica,_sai_-_células_nulas	normalWikiTitle:leucemia_prolinfocítica,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:98913	inCount:5	outCount:1	links:	url:9891/3	name:Leucemia monocítica aguda	normalName:leucemia_monocítica_aguda	normalWikiTitle:leucemia_monocítica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:99103	inCount:5	outCount:1	links:	url:9910/3	name:Leucemia megacarioblástica aguda	normalName:leucemia_megacarioblástica_aguda	normalWikiTitle:leucemia_megacarioblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:99453	inCount:1	outCount:1	links:	url:9945/3	name:Leucemia mielomonocítica crónica, SAI	normalName:leucemia_mielomonocítica_crónica,_sai	normalWikiTitle:leucemia_mielomonocítica_crónica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:983235	inCount:0	outCount:1	links:	url:9832/35	name:Leucemia prolinfocítica, SAI - células T	normalName:leucemia_prolinfocítica,_sai_-_células_t	normalWikiTitle:leucemia_prolinfocítica,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:983236	inCount:0	outCount:1	links:	url:9832/36	name:Leucemia prolinfocítica, SAI - células B	normalName:leucemia_prolinfocítica,_sai_-_células_b	normalWikiTitle:leucemia_prolinfocítica,_sai_-_células_b	predictedType:MOR_NEO
+ENTITY	text:afectación cerebral	normalName:afectación_cerebral	predictedType:MOR_NEO	q:true	qid:Q2107	docId:caso_clinico_radiologia579	origText:afectación cerebral	url:NaN
+CANDIDATE	id:90911	inCount:0	outCount:1	links:	url:9091/1	name:Carcinoide estrumal	normalName:carcinoide_estrumal	normalWikiTitle:carcinoide_estrumal	predictedType:MOR_NEO
+CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:82013	inCount:5	outCount:1	links:	url:8201/3	name:Carcinoma cribiforme, SAI	normalName:carcinoma_cribiforme,_sai	normalWikiTitle:carcinoma_cribiforme,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83843	inCount:5	outCount:1	links:	url:8384/3	name:Adenocarcinoma, tipo endocervical	normalName:adenocarcinoma,_tipo_endocervical	normalWikiTitle:adenocarcinoma,_tipo_endocervical	predictedType:MOR_NEO
+CANDIDATE	id:81903	inCount:5	outCount:1	links:	url:8190/3	name:Adenocarcinoma trabecular	normalName:adenocarcinoma_trabecular	normalWikiTitle:adenocarcinoma_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:84083	inCount:5	outCount:1	links:	url:8408/3	name:Adenocarcinoma papilar ecrino	normalName:adenocarcinoma_papilar_ecrino	normalWikiTitle:adenocarcinoma_papilar_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84203	inCount:5	outCount:1	links:	url:8420/3	name:Adenocarcinoma ceruminoso	normalName:adenocarcinoma_ceruminoso	normalWikiTitle:adenocarcinoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:82143	inCount:5	outCount:1	links:	url:8214/3	name:Carcinoma de células parietales	normalName:carcinoma_de_células_parietales	normalWikiTitle:carcinoma_de_células_parietales	predictedType:MOR_NEO

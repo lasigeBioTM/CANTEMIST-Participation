@@ -1,0 +1,11 @@
+ENTITY	text:meningioma	normalName:meningioma	predictedType:MOR_NEO	q:true	qid:Q1604	docId:caso_clinico_radiologia719	origText:meningioma	url:NaN
+CANDIDATE	id:95300	inCount:0	outCount:1	links:	url:9530/0	name:Meningioma, SAI	normalName:meningioma,_sai	normalWikiTitle:meningioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95391	inCount:0	outCount:1	links:	url:9539/1	name:Meningioma atípico	normalName:meningioma_atípico	normalWikiTitle:meningioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:95303	inCount:5	outCount:1	links:	url:9530/3	name:Meningioma maligno	normalName:meningioma_maligno	normalWikiTitle:meningioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95320	inCount:0	outCount:1	links:	url:9532/0	name:Meningioma fibroso	normalName:meningioma_fibroso	normalWikiTitle:meningioma_fibroso	predictedType:MOR_NEO
+CANDIDATE	id:95383	inCount:5	outCount:1	links:	url:9538/3	name:Meningioma papilar	normalName:meningioma_papilar	normalWikiTitle:meningioma_papilar	predictedType:MOR_NEO
+CANDIDATE	id:95301	inCount:0	outCount:1	links:	url:9530/1	name:Meningiomatosis, SAI	normalName:meningiomatosis,_sai	normalWikiTitle:meningiomatosis,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85800	inCount:0	outCount:1	links:	url:8580/0	name:Timoma benigno	normalName:timoma_benigno	normalWikiTitle:timoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO

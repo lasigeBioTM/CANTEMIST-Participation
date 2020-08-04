@@ -1,0 +1,36 @@
+ENTITY	text:osteoclastoma	normalName:osteoclastoma	predictedType:MOR_NEO	q:true	qid:Q1804	docId:S1130-05582008000400004-3	origText:osteoclastoma	url:NaN
+CANDIDATE	id:92000	inCount:0	outCount:1	links:	url:9200/0	name:Osteoblastoma, SAI	normalName:osteoblastoma,_sai	normalWikiTitle:osteoblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94303	inCount:5	outCount:1	links:	url:9430/3	name:Astroblastoma	normalName:astroblastoma	normalWikiTitle:astroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:89741	inCount:0	outCount:1	links:	url:8974/1	name:Sialoblastoma	normalName:sialoblastoma	normalWikiTitle:sialoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:92001	inCount:0	outCount:1	links:	url:9200/1	name:Osteoblastoma agresivo	normalName:osteoblastoma_agresivo	normalWikiTitle:osteoblastoma_agresivo	predictedType:MOR_NEO
+CANDIDATE	id:92100	inCount:0	outCount:1	links:	url:9210/0	name:Osteocondroma	normalName:osteocondroma	normalWikiTitle:osteocondroma	predictedType:MOR_NEO
+CANDIDATE	id:93110	inCount:0	outCount:1	links:	url:9311/0	name:Odontoameloblastoma	normalName:odontoameloblastoma	normalWikiTitle:odontoameloblastoma	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:89703	inCount:5	outCount:1	links:	url:8970/3	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90731	inCount:0	outCount:1	links:	url:9073/1	name:Gonadoblastoma	normalName:gonadoblastoma	normalWikiTitle:gonadoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:91800	inCount:0	outCount:1	links:	url:9180/0	name:Osteoma, SAI	normalName:osteoma,_sai	normalWikiTitle:osteoma,_sai	predictedType:MOR_NEO
+ENTITY	text:adenoma de la paratiroides	normalName:adenoma_de_la_paratiroides	predictedType:MOR_NEO	q:true	qid:Q1804	docId:S1130-05582008000400004-3	origText:adenoma de la paratiroides	url:NaN
+CANDIDATE	id:83800	inCount:0	outCount:1	links:	url:8380/0	name:Adenoma endometrioide, SAI	normalName:adenoma_endometrioide,_sai	normalWikiTitle:adenoma_endometrioide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:Adenocarcinoma hepatoide	normalName:adenocarcinoma_hepatoide	normalWikiTitle:adenocarcinoma_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:82600	inCount:0	outCount:1	links:	url:8260/0	name:Adenoma papilar, SAI	normalName:adenoma_papilar,_sai	normalWikiTitle:adenoma_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82040	inCount:0	outCount:1	links:	url:8204/0	name:Adenoma de la lactancia	normalName:adenoma_de_la_lactancia	normalWikiTitle:adenoma_de_la_lactancia	predictedType:MOR_NEO
+CANDIDATE	id:83810	inCount:0	outCount:1	links:	url:8381/0	name:Adenofibroma endometrioide, SAI	normalName:adenofibroma_endometrioide,_sai	normalWikiTitle:adenofibroma_endometrioide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84600	inCount:0	outCount:1	links:	url:8460/0	name:Cistadenoma seroso papilar, SAI	normalName:cistadenoma_seroso_papilar,_sai	normalWikiTitle:cistadenoma_seroso_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85060	inCount:0	outCount:1	links:	url:8506/0	name:Adenoma del pezón	normalName:adenoma_del_pezón	normalWikiTitle:adenoma_del_pezón	predictedType:MOR_NEO
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81401	inCount:0	outCount:1	links:	url:8140/1	name:Adenoma atípico	normalName:adenoma_atípico	normalWikiTitle:adenoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:85763	inCount:5	outCount:1	links:	url:8576/3	name:AdenoCa hepatoide	normalName:adenoca_hepatoide	normalWikiTitle:adenoca_hepatoide	predictedType:MOR_NEO
+CANDIDATE	id:857639	inCount:0	outCount:1	links:	url:8576/39	name:AdenoCa hepatoide - GSD	normalName:adenoca_hepatoide_-_gsd	normalWikiTitle:adenoca_hepatoide_-_gsd	predictedType:MOR_NEO
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q1804	docId:S1130-05582008000400004-3	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO

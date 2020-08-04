@@ -1,0 +1,22 @@
+ENTITY	text:cáncer cérvico-uterino	normalName:cáncer_cérvico-uterino	predictedType:MOR_NEO	q:true	qid:Q93	docId:S0716-10182013000600017-1	origText:cáncer cérvico-uterino	url:NaN
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma ecrino dérmico	normalName:cilindroma_ecrino_dérmico	normalWikiTitle:cilindroma_ecrino_dérmico	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:95213	inCount:5	outCount:1	links:	url:9521/3	name:Neurocitoma olfatorio	normalName:neurocitoma_olfatorio	normalWikiTitle:neurocitoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:84203	inCount:5	outCount:1	links:	url:8420/3	name:Adenocarcinoma ceruminoso	normalName:adenocarcinoma_ceruminoso	normalWikiTitle:adenocarcinoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:89813	inCount:5	outCount:1	links:	url:8981/3	name:Carcinosarcoma embrionario	normalName:carcinosarcoma_embrionario	normalWikiTitle:carcinosarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:84013	inCount:5	outCount:1	links:	url:8401/3	name:Adenocarcinoma apocrino	normalName:adenocarcinoma_apocrino	normalWikiTitle:adenocarcinoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84030	inCount:0	outCount:1	links:	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:5	outCount:1	links:	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:93643	inCount:5	outCount:1	links:	url:9364/3	name:Tumor neuroectodérmico periférico	normalName:tumor_neuroectodérmico_periférico	normalWikiTitle:tumor_neuroectodérmico_periférico	predictedType:MOR_NEO
+ENTITY	text:lesiones pulmonares	normalName:lesiones_pulmonares	predictedType:MOR_NEO	q:true	qid:Q93	docId:S0716-10182013000600017-1	origText:lesiones pulmonares	url:NaN
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:82501	inCount:0	outCount:1	links:	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89726	inCount:0	outCount:1	links:	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89733	inCount:5	outCount:1	links:	url:8973/3	name:Blastoma pleuropulmonar	normalName:blastoma_pleuropulmonar	normalWikiTitle:blastoma_pleuropulmonar	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:88900	inCount:0	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:89736	inCount:0	outCount:1	links:	url:8973/6	name:Blastoma pleuropulmonar, metástasis	normalName:blastoma_pleuropulmonar,_metástasis	normalWikiTitle:blastoma_pleuropulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO

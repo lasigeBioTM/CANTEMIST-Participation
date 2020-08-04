@@ -1,0 +1,11 @@
+ENTITY	text:carcinoma papilar urotelial de alto grado	normalName:carcinoma_papilar_urotelial_de_alto_grado	predictedType:MOR_NEO	q:true	qid:Q1728	docId:S0210-48062007000400013-1	origText:carcinoma papilar urotelial de alto grado	url:NaN
+CANDIDATE	id:84523	inCount:5	outCount:1	links:	url:8452/3	name:Carcinoma seudopapilar sólido	normalName:carcinoma_seudopapilar_sólido	normalWikiTitle:carcinoma_seudopapilar_sólido	predictedType:MOR_NEO
+CANDIDATE	id:80502	inCount:5	outCount:1	links:	url:8050/2	name:Carcinoma papilar in situ	normalName:carcinoma_papilar_in_situ	normalWikiTitle:carcinoma_papilar_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:80503	inCount:5	outCount:1	links:	url:8050/3	name:Carcinoma papilar, SAI	normalName:carcinoma_papilar,_sai	normalWikiTitle:carcinoma_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85623	inCount:5	outCount:1	links:	url:8562/3	name:Carcinoma epitelial-mioepitelial	normalName:carcinoma_epitelial-mioepitelial	normalWikiTitle:carcinoma_epitelial-mioepitelial	predictedType:MOR_NEO
+CANDIDATE	id:85303	inCount:5	outCount:1	links:	url:8530/3	name:Carcinoma inflamatorio	normalName:carcinoma_inflamatorio	normalWikiTitle:carcinoma_inflamatorio	predictedType:MOR_NEO
+CANDIDATE	id:80123	inCount:5	outCount:1	links:	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80826	inCount:0	outCount:1	links:	url:8082/6	name:Carcinoma linfoepitelial, metástasis	normalName:carcinoma_linfoepitelial,_metástasis	normalWikiTitle:carcinoma_linfoepitelial,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81103	inCount:5	outCount:1	links:	url:8110/3	name:Carcinoma pilomatricial	normalName:carcinoma_pilomatricial	normalWikiTitle:carcinoma_pilomatricial	predictedType:MOR_NEO
+CANDIDATE	id:81703	inCount:5	outCount:1	links:	url:8170/3	name:Carcinoma hepatocelular, SAI	normalName:carcinoma_hepatocelular,_sai	normalWikiTitle:carcinoma_hepatocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81723	inCount:5	outCount:1	links:	url:8172/3	name:Carcinoma hepatocelular escirro	normalName:carcinoma_hepatocelular_escirro	normalWikiTitle:carcinoma_hepatocelular_escirro	predictedType:MOR_NEO

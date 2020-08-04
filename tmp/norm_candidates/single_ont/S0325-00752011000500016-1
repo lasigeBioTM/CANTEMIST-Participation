@@ -1,0 +1,22 @@
+ENTITY	text:leucemia mieloide crónica por biopsia de medula ósea	normalName:leucemia_mieloide_crónica_por_biopsia_de_medula_ósea	predictedType:MOR_NEO	q:true	qid:Q1054	docId:S0325-00752011000500016-1	origText:leucemia mieloide crónica por biopsia de medula ósea	url:NaN
+CANDIDATE	id:986037	inCount:0	outCount:1	links:	url:9860/37	name:Leucemia mieloide, SAI - células nulas	normalName:leucemia_mieloide,_sai_-_células_nulas	normalWikiTitle:leucemia_mieloide,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83453	inCount:5	outCount:1	links:	url:8345/3	name:Carcinoma medular con estroma amiloide	normalName:carcinoma_medular_con_estroma_amiloide	normalWikiTitle:carcinoma_medular_con_estroma_amiloide	predictedType:MOR_NEO
+CANDIDATE	id:83456	inCount:0	outCount:1	links:	url:8345/6	name:Carcinoma medular con estroma amiloide, metástasis	normalName:carcinoma_medular_con_estroma_amiloide,_metástasis	normalWikiTitle:carcinoma_medular_con_estroma_amiloide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:986137	inCount:0	outCount:1	links:	url:9861/37	name:Leucemia mieloide aguda, SAI - células nulas	normalName:leucemia_mieloide_aguda,_sai_-_células_nulas	normalWikiTitle:leucemia_mieloide_aguda,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:5	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:982037	inCount:0	outCount:1	links:	url:9820/37	name:Leucemia linfoide, SAI - células nulas	normalName:leucemia_linfoide,_sai_-_células_nulas	normalWikiTitle:leucemia_linfoide,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:986337	inCount:0	outCount:1	links:	url:9863/37	name:Leucemia mieloide crónica, SAI - células nulas	normalName:leucemia_mieloide_crónica,_sai_-_células_nulas	normalWikiTitle:leucemia_mieloide_crónica,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:851031	inCount:0	outCount:1	links:	url:8510/31	name:Carcinoma medular, SAI - grado I, bien diferenciado	normalName:carcinoma_medular,_sai_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_medular,_sai_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:5	outCount:1	links:	url:9840/3	name:Leucemia mieloide aguda tipo M6	normalName:leucemia_mieloide_aguda_tipo_m6	normalWikiTitle:leucemia_mieloide_aguda_tipo_m6	predictedType:MOR_NEO
+ENTITY	text:tumores	normalName:tumores	predictedType:MOR_NEO	q:true	qid:Q1054	docId:S0325-00752011000500016-1	origText:tumores	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO

@@ -1,0 +1,88 @@
+ENTITY	text:hepatocarcinoma	normalName:hepatocarcinoma	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:hepatocarcinoma	url:NaN
+CANDIDATE	id:90813	inCount:5	outCount:1	links:90813	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:830034;830032;83003;830031;830033	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:89703	inCount:5	outCount:1	links:	url:8970/3	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:81403	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:5	outCount:1	links:82803	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:81233	inCount:5	outCount:1	links:81233	url:8123/3	name:Carcinoma basaloide	normalName:carcinoma_basaloide	normalWikiTitle:carcinoma_basaloide	predictedType:MOR_NEO
+ENTITY	text:hepatocarcinoma fibrolamelar estadio IV por metástasis	normalName:hepatocarcinoma_fibrolamelar_estadio_iv_por_metástasis	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:hepatocarcinoma fibrolamelar estadio IV por metástasis	url:NaN
+CANDIDATE	id:81716	inCount:0	outCount:1	links:	url:8171/6	name:Carcinoma hepatocelular, tipo fibrolamelar, metástasis	normalName:carcinoma_hepatocelular,_tipo_fibrolamelar,_metástasis	normalWikiTitle:carcinoma_hepatocelular,_tipo_fibrolamelar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85306	inCount:0	outCount:1	links:	url:8530/6	name:Carcinoma inflamatorio, metástasis	normalName:carcinoma_inflamatorio,_metástasis	normalWikiTitle:carcinoma_inflamatorio,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83136	inCount:0	outCount:1	links:	url:8313/6	name:Adenocarcinofibroma de células claras, metástasis	normalName:adenocarcinofibroma_de_células_claras,_metástasis	normalWikiTitle:adenocarcinofibroma_de_células_claras,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85136	inCount:0	outCount:1	links:	url:8513/6	name:Carcinoma medular atípico, metástasis	normalName:carcinoma_medular_atípico,_metástasis	normalWikiTitle:carcinoma_medular_atípico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89346	inCount:0	outCount:1	links:	url:8934/6	name:Carcinofibroma, metástasis	normalName:carcinofibroma,_metástasis	normalWikiTitle:carcinofibroma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80956	inCount:0	outCount:1	links:	url:8095/6	name:Carcinoma metatípico, metástasis	normalName:carcinoma_metatípico,_metástasis	normalWikiTitle:carcinoma_metatípico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82136	inCount:0	outCount:1	links:	url:8213/6	name:Adenocarcinoma dentado, metástasis	normalName:adenocarcinoma_dentado,_metástasis	normalWikiTitle:adenocarcinoma_dentado,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81476	inCount:0	outCount:1	links:	url:8147/6	name:Adenocarcinoma basocelular, metástasis	normalName:adenocarcinoma_basocelular,_metástasis	normalWikiTitle:adenocarcinoma_basocelular,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82516	inCount:0	outCount:1	links:	url:8251/6	name:Adenocarcinoma alveolar, metástasis	normalName:adenocarcinoma_alveolar,_metástasis	normalWikiTitle:adenocarcinoma_alveolar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83336	inCount:0	outCount:1	links:	url:8333/6	name:Adenocarcinoma fetal, metástasis	normalName:adenocarcinoma_fetal,_metástasis	normalWikiTitle:adenocarcinoma_fetal,_metástasis	predictedType:MOR_NEO
+ENTITY	text:metástasis por hepatocarcinoma celular clásico	normalName:metástasis_por_hepatocarcinoma_celular_clásico	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:metástasis por hepatocarcinoma celular clásico	url:NaN
+CANDIDATE	id:90816	inCount:0	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91836	inCount:0	outCount:1	links:	url:9183/6	name:Osteosarcoma telangiectásico, metástasis	normalName:osteosarcoma_telangiectásico,_metástasis	normalWikiTitle:osteosarcoma_telangiectásico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91936	inCount:0	outCount:1	links:	url:9193/6	name:Osteosarcoma perióstico, metástasis	normalName:osteosarcoma_perióstico,_metástasis	normalWikiTitle:osteosarcoma_perióstico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83416	inCount:0	outCount:1	links:	url:8341/6	name:Microcarcinoma papilar, metástasis	normalName:microcarcinoma_papilar,_metástasis	normalWikiTitle:microcarcinoma_papilar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91926	inCount:0	outCount:1	links:	url:9192/6	name:Osteosarcoma paraóseo, metástasis	normalName:osteosarcoma_paraóseo,_metástasis	normalWikiTitle:osteosarcoma_paraóseo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81026	inCount:0	outCount:1	links:	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91806	inCount:0	outCount:1	links:	url:9180/6	name:Osteosarcoma, SAI, metástasis	normalName:osteosarcoma,_sai,_metástasis	normalWikiTitle:osteosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95216	inCount:0	outCount:1	links:	url:9521/6	name:Neurocitoma olfatorio, metástasis	normalName:neurocitoma_olfatorio,_metástasis	normalWikiTitle:neurocitoma_olfatorio,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95236	inCount:0	outCount:1	links:	url:9523/6	name:Neuroepitelioma olfatorio, metástasis	normalName:neuroepitelioma_olfatorio,_metástasis	normalWikiTitle:neuroepitelioma_olfatorio,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89006	inCount:0	outCount:1	links:	url:8900/6	name:Rabdomiosarcoma, SAI, metástasis	normalName:rabdomiosarcoma,_sai,_metástasis	normalWikiTitle:rabdomiosarcoma,_sai,_metástasis	predictedType:MOR_NEO
+ENTITY	text:células tumorales	normalName:células_tumorales	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:células tumorales	url:NaN
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:80901	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85501	inCount:0	outCount:1	links:	url:8550/1	name:Tumor de células acinosas	normalName:tumor_de_células_acinosas	normalWikiTitle:tumor_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:973236	inCount:0	outCount:1	links:	url:9732/36	name:Mieloma múltiple, - células B	normalName:mieloma_múltiple,_-_células_b	normalWikiTitle:mieloma_múltiple,_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:86600	inCount:0	outCount:1	links:	url:8660/0	name:Tumor de células del hilio	normalName:tumor_de_células_del_hilio	normalWikiTitle:tumor_de_células_del_hilio	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:980036	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Cél tumorales malignas	normalName:cél_tumorales_malignas	normalWikiTitle:cél_tumorales_malignas	predictedType:MOR_NEO
+ENTITY	text:hepatocarcinoma variante fibrolamelar	normalName:hepatocarcinoma_variante_fibrolamelar	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:hepatocarcinoma variante fibrolamelar	url:NaN
+CANDIDATE	id:81903	inCount:5	outCount:1	links:	url:8190/3	name:Adenocarcinoma trabecular	normalName:adenocarcinoma_trabecular	normalWikiTitle:adenocarcinoma_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:84083	inCount:5	outCount:1	links:	url:8408/3	name:Adenocarcinoma papilar ecrino	normalName:adenocarcinoma_papilar_ecrino	normalWikiTitle:adenocarcinoma_papilar_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:85303	inCount:5	outCount:1	links:	url:8530/3	name:Carcinoma inflamatorio	normalName:carcinoma_inflamatorio	normalWikiTitle:carcinoma_inflamatorio	predictedType:MOR_NEO
+CANDIDATE	id:82513	inCount:5	outCount:1	links:	url:8251/3	name:Adenocarcinoma alveolar	normalName:adenocarcinoma_alveolar	normalWikiTitle:adenocarcinoma_alveolar	predictedType:MOR_NEO
+CANDIDATE	id:81906	inCount:0	outCount:1	links:	url:8190/6	name:Adenocarcinoma trabecular, metástasis	normalName:adenocarcinoma_trabecular,_metástasis	normalWikiTitle:adenocarcinoma_trabecular,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83453	inCount:5	outCount:1	links:	url:8345/3	name:Carcinoma medular con estroma amiloide	normalName:carcinoma_medular_con_estroma_amiloide	normalWikiTitle:carcinoma_medular_con_estroma_amiloide	predictedType:MOR_NEO
+CANDIDATE	id:85133	inCount:5	outCount:1	links:	url:8513/3	name:Carcinoma medular atípico	normalName:carcinoma_medular_atípico	normalWikiTitle:carcinoma_medular_atípico	predictedType:MOR_NEO
+CANDIDATE	id:83323	inCount:5	outCount:1	links:	url:8332/3	name:Adenocarcinoma folicular, tipo trabecular	normalName:adenocarcinoma_folicular,_tipo_trabecular	normalWikiTitle:adenocarcinoma_folicular,_tipo_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:81443	inCount:5	outCount:1	links:	url:8144/3	name:Adenocarcinoma, tipo intestinal	normalName:adenocarcinoma,_tipo_intestinal	normalWikiTitle:adenocarcinoma,_tipo_intestinal	predictedType:MOR_NEO
+ENTITY	text:hepatocarcinoma clásico	normalName:hepatocarcinoma_clásico	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:hepatocarcinoma clásico	url:NaN
+CANDIDATE	id:90813	inCount:5	outCount:1	links:90813	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:81243	inCount:5	outCount:1	links:81243	url:8124/3	name:Carcinoma cloacogénico	normalName:carcinoma_cloacogénico	normalWikiTitle:carcinoma_cloacogénico	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:81403	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84103	inCount:5	outCount:1	links:	url:8410/3	name:Adenocarcinoma sebáceo	normalName:adenocarcinoma_sebáceo	normalWikiTitle:adenocarcinoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
+CANDIDATE	id:82623	inCount:5	outCount:1	links:	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85863	inCount:5	outCount:1	links:	url:8586/3	name:Carcinoma tímico, SAI	normalName:carcinoma_tímico,_sai	normalWikiTitle:carcinoma_tímico,_sai	predictedType:MOR_NEO
+ENTITY	text:BCLC	normalName:bclc	predictedType:MOR_NEO	q:true	qid:Q1278	docId:cc_onco1003	origText:BCLC	url:NaN
+CANDIDATE	id:81010	inCount:0	outCount:1	links:	url:8101/0	name:Tricofoliculoma	normalName:tricofoliculoma	normalWikiTitle:tricofoliculoma	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:980036	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:80901	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:81603	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:830034;830032;83003;830031;830033	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83910	inCount:0	outCount:1	links:	url:8391/0	name:Fibroma folicular	normalName:fibroma_folicular	normalWikiTitle:fibroma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:88573	inCount:5	outCount:1	links:	url:8857/3	name:Liposarcoma fibroblástico	normalName:liposarcoma_fibroblástico	normalWikiTitle:liposarcoma_fibroblástico	predictedType:MOR_NEO
+CANDIDATE	id:80903	inCount:5	outCount:1	links:	url:8090/3	name:Carcinoma basocelular, SAI	normalName:carcinoma_basocelular,_sai	normalWikiTitle:carcinoma_basocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:973136	inCount:0	outCount:1	links:	url:9731/36	name:Plasmocitoma SAI,  - células B	normalName:plasmocitoma_sai,__-_células_b	normalWikiTitle:plasmocitoma_sai,__-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:993036	inCount:0	outCount:1	links:	url:9930/36	name:Sarcoma mieloide - células B	normalName:sarcoma_mieloide_-_células_b	normalWikiTitle:sarcoma_mieloide_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:830034;830032;83003;830031;830033	url:8300/3	name:Ca basófilo	normalName:ca_basófilo	normalWikiTitle:ca_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:5	outCount:1	links:82803	url:8280/3	name:Ca acidófilo	normalName:ca_acidófilo	normalWikiTitle:ca_acidófilo	predictedType:MOR_NEO
+CANDIDATE	id:81233	inCount:5	outCount:1	links:81233	url:8123/3	name:Ca basaloide	normalName:ca_basaloide	normalWikiTitle:ca_basaloide	predictedType:MOR_NEO
+CANDIDATE	id:80903	inCount:5	outCount:1	links:	url:8090/3	name:Ca basocelular, SAI	normalName:ca_basocelular,_sai	normalWikiTitle:ca_basocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:830031	inCount:0	outCount:1	links:83003	url:8300/31	name:Ca basófilo - G1	normalName:ca_basófilo_-_g1	normalWikiTitle:ca_basófilo_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:830032	inCount:0	outCount:1	links:83003	url:8300/32	name:Ca basófilo - G2	normalName:ca_basófilo_-_g2	normalWikiTitle:ca_basófilo_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:830033	inCount:0	outCount:1	links:83003	url:8300/33	name:Ca basófilo - G3	normalName:ca_basófilo_-_g3	normalWikiTitle:ca_basófilo_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:830034	inCount:0	outCount:1	links:83003	url:8300/34	name:Ca basófilo - G4	normalName:ca_basófilo_-_g4	normalWikiTitle:ca_basófilo_-_g4	predictedType:MOR_NEO
+CANDIDATE	id:98263	inCount:1	outCount:1	links:	url:9826/3	name:Leucemia, cél, Burkitt	normalName:leucemia,_cél,_burkitt	normalWikiTitle:leucemia,_cél,_burkitt	predictedType:MOR_NEO
+CANDIDATE	id:81243	inCount:5	outCount:1	links:81243	url:8124/3	name:Ca cloacogénico	normalName:ca_cloacogénico	normalWikiTitle:ca_cloacogénico	predictedType:MOR_NEO

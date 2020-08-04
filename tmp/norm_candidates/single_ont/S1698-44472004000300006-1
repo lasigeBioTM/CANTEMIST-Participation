@@ -1,0 +1,24 @@
+ENTITY	text:angiofibromas	normalName:angiofibromas	predictedType:MOR_NEO	q:true	qid:Q76	docId:S1698-44472004000300006-1	origText:angiofibromas	url:NaN
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:91600	inCount:0	outCount:1	links:	url:9160/0	name:Angiofibroma, SAI	normalName:angiofibroma,_sai	normalWikiTitle:angiofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88260	inCount:0	outCount:1	links:	url:8826/0	name:Angiomiofibroblastoma	normalName:angiomiofibroblastoma	normalWikiTitle:angiomiofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:94920	inCount:0	outCount:1	links:	url:9492/0	name:Gangliocitoma	normalName:gangliocitoma	normalWikiTitle:gangliocitoma	predictedType:MOR_NEO
+ENTITY	text:adenomas	normalName:adenomas	predictedType:MOR_NEO	q:true	qid:Q76	docId:S1698-44472004000300006-1	origText:adenomas	url:NaN
+CANDIDATE	id:89320	inCount:0	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
+CANDIDATE	id:81400	inCount:0	outCount:1	links:	url:8140/0	name:Adenoma, SAI	normalName:adenoma,_sai	normalWikiTitle:adenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83240	inCount:0	outCount:1	links:	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:82481	inCount:0	outCount:1	links:	url:8248/1	name:Apudoma	normalName:apudoma	normalWikiTitle:apudoma	predictedType:MOR_NEO
+CANDIDATE	id:82120	inCount:0	outCount:1	links:	url:8212/0	name:Adenoma plano	normalName:adenoma_plano	normalWikiTitle:adenoma_plano	predictedType:MOR_NEO
+CANDIDATE	id:81401	inCount:0	outCount:1	links:	url:8140/1	name:Adenoma atípico	normalName:adenoma_atípico	normalWikiTitle:adenoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:82900	inCount:0	outCount:1	links:	url:8290/0	name:Adenoma oxífilo	normalName:adenoma_oxífilo	normalWikiTitle:adenoma_oxífilo	predictedType:MOR_NEO
+CANDIDATE	id:84100	inCount:0	outCount:1	links:	url:8410/0	name:Adenoma sebáceo	normalName:adenoma_sebáceo	normalWikiTitle:adenoma_sebáceo	predictedType:MOR_NEO
+ENTITY	text:angiomiolipoma	normalName:angiomiolipoma	predictedType:MOR_NEO	q:true	qid:Q76	docId:S1698-44472004000300006-1	origText:angiomiolipoma	url:NaN
+CANDIDATE	id:88600	inCount:0	outCount:1	links:	url:8860/0	name:Angiomiolipoma	normalName:angiomiolipoma	normalWikiTitle:angiomiolipoma	predictedType:MOR_NEO

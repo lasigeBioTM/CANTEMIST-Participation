@@ -1,0 +1,25 @@
+ENTITY	text:intratumoral	normalName:intratumoral	predictedType:MOR_NEO	q:true	qid:Q311	docId:S1130-01082005001100017-2	origText:intratumoral	url:NaN
+CANDIDATE	id:89350	inCount:0	outCount:1	links:	url:8935/0	name:Tumor estromal benigno	normalName:tumor_estromal_benigno	normalWikiTitle:tumor_estromal_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89670	inCount:0	outCount:1	links:	url:8967/0	name:Tumor renal osificante	normalName:tumor_renal_osificante	normalWikiTitle:tumor_renal_osificante	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90801	inCount:0	outCount:1	links:	url:9080/1	name:Teratoma, SAI	normalName:teratoma,_sai	normalWikiTitle:teratoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90800	inCount:0	outCount:1	links:	url:9080/0	name:Teratoma benigno	normalName:teratoma_benigno	normalWikiTitle:teratoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89503	inCount:5	outCount:1	links:	url:8950/3	name:Tumor mülleriano mixto	normalName:tumor_mülleriano_mixto	normalWikiTitle:tumor_mülleriano_mixto	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Cél tumorales benignas	normalName:cél_tumorales_benignas	normalWikiTitle:cél_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Cél tumorales malignas	normalName:cél_tumorales_malignas	normalWikiTitle:cél_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO
+ENTITY	text:adenocarcinoma renal de células claras	normalName:adenocarcinoma_renal_de_células_claras	predictedType:MOR_NEO	q:true	qid:Q311	docId:S1130-01082005001100017-2	origText:adenocarcinoma renal de células claras	url:NaN
+CANDIDATE	id:81903	inCount:5	outCount:1	links:	url:8190/3	name:Adenocarcinoma trabecular	normalName:adenocarcinoma_trabecular	normalWikiTitle:adenocarcinoma_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:82153	inCount:5	outCount:1	links:	url:8215/3	name:Adenocarcinoma de glándulas anales	normalName:adenocarcinoma_de_glándulas_anales	normalWikiTitle:adenocarcinoma_de_glándulas_anales	predictedType:MOR_NEO
+CANDIDATE	id:81473	inCount:5	outCount:1	links:	url:8147/3	name:Adenocarcinoma basocelular	normalName:adenocarcinoma_basocelular	normalWikiTitle:adenocarcinoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:82513	inCount:5	outCount:1	links:	url:8251/3	name:Adenocarcinoma alveolar	normalName:adenocarcinoma_alveolar	normalWikiTitle:adenocarcinoma_alveolar	predictedType:MOR_NEO
+CANDIDATE	id:84003	inCount:5	outCount:1	links:	url:8400/3	name:Adenocarcinoma de las glándulas sudoríparas	normalName:adenocarcinoma_de_las_glándulas_sudoríparas	normalWikiTitle:adenocarcinoma_de_las_glándulas_sudoríparas	predictedType:MOR_NEO
+CANDIDATE	id:82156	inCount:0	outCount:1	links:	url:8215/6	name:Adenocarcinoma de glándulas anales, metástasis	normalName:adenocarcinoma_de_glándulas_anales,_metástasis	normalWikiTitle:adenocarcinoma_de_glándulas_anales,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83223	inCount:5	outCount:1	links:	url:8322/3	name:Adenocarcinoma de células claroacuosas	normalName:adenocarcinoma_de_células_claroacuosas	normalWikiTitle:adenocarcinoma_de_células_claroacuosas	predictedType:MOR_NEO
+CANDIDATE	id:83233	inCount:5	outCount:1	links:	url:8323/3	name:Adenocarcinoma de células mixtas	normalName:adenocarcinoma_de_células_mixtas	normalWikiTitle:adenocarcinoma_de_células_mixtas	predictedType:MOR_NEO
+CANDIDATE	id:83303	inCount:5	outCount:1	links:	url:8330/3	name:Adenocarcinoma folicular, SAI	normalName:adenocarcinoma_folicular,_sai	normalWikiTitle:adenocarcinoma_folicular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82136	inCount:0	outCount:1	links:	url:8213/6	name:Adenocarcinoma dentado, metástasis	normalName:adenocarcinoma_dentado,_metástasis	normalWikiTitle:adenocarcinoma_dentado,_metástasis	predictedType:MOR_NEO

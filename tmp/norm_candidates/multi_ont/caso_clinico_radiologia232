@@ -1,0 +1,22 @@
+ENTITY	text:tumor Klatskin	normalName:tumor_klatskin	predictedType:MOR_NEO	q:true	qid:Q2252	docId:caso_clinico_radiologia232	origText:tumor Klatskin	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:0	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:92000	inCount:0	outCount:1	links:	url:9200/0	name:Osteoblastoma, SAI	normalName:osteoblastoma,_sai	normalWikiTitle:osteoblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93100	inCount:0	outCount:1	links:	url:9310/0	name:Ameloblastoma, SAI	normalName:ameloblastoma,_sai	normalWikiTitle:ameloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92300	inCount:0	outCount:1	links:	url:9230/0	name:Condroblastoma, SAI	normalName:condroblastoma,_sai	normalWikiTitle:condroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor, Klatskin	normalName:tumor,_klatskin	normalWikiTitle:tumor,_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:8307	inCount:10	outCount:1	links:	url:C83.7	name:Linfoma de Burkitt	normalName:linfoma_de_burkitt	normalWikiTitle:linfoma_de_burkitt	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:54313	inCount:0	outCount:1	links:	url:54313	name:sumoilación	normalName:sumoilación	normalWikiTitle:sumoilación	predictedType:MOR_NEO
+CANDIDATE	id:56049	inCount:0	outCount:1	links:	url:56049	name:morcelación	normalName:morcelación	normalWikiTitle:morcelación	predictedType:MOR_NEO
+CANDIDATE	id:8469	inCount:0	outCount:2	links:	url:8469	name:malatión	normalName:malatión	normalWikiTitle:malatión	predictedType:MOR_NEO
+CANDIDATE	id:22298	inCount:0	outCount:1	links:	url:22298	name:tromboplastina	normalName:tromboplastina	normalWikiTitle:tromboplastina	predictedType:MOR_NEO
+CANDIDATE	id:14420	inCount:0	outCount:2	links:	url:14420	name:todralacina	normalName:todralacina	normalWikiTitle:todralacina	predictedType:MOR_NEO

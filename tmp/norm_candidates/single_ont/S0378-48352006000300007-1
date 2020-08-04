@@ -1,0 +1,23 @@
+ENTITY	text:lesión de tipo estromal	normalName:lesión_de_tipo_estromal	predictedType:MOR_NEO	q:true	qid:Q615	docId:S0378-48352006000300007-1	origText:lesión de tipo estromal	url:NaN
+CANDIDATE	id:89300	inCount:0	outCount:1	links:	url:8930/0	name:Nódulo del estroma endometrial	normalName:nódulo_del_estroma_endometrial	normalWikiTitle:nódulo_del_estroma_endometrial	predictedType:MOR_NEO
+CANDIDATE	id:89350	inCount:0	outCount:1	links:	url:8935/0	name:Tumor estromal benigno	normalName:tumor_estromal_benigno	normalWikiTitle:tumor_estromal_benigno	predictedType:MOR_NEO
+CANDIDATE	id:88043	inCount:5	outCount:1	links:	url:8804/3	name:Sarcoma epitelioide	normalName:sarcoma_epitelioide	normalWikiTitle:sarcoma_epitelioide	predictedType:MOR_NEO
+CANDIDATE	id:90911	inCount:0	outCount:1	links:	url:9091/1	name:Carcinoide estrumal	normalName:carcinoide_estrumal	normalWikiTitle:carcinoide_estrumal	predictedType:MOR_NEO
+CANDIDATE	id:88583	inCount:5	outCount:1	links:	url:8858/3	name:Liposarcoma desdiferenciado	normalName:liposarcoma_desdiferenciado	normalWikiTitle:liposarcoma_desdiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:91703	inCount:5	outCount:1	links:	url:9170/3	name:Linfangiosarcoma	normalName:linfangiosarcoma	normalWikiTitle:linfangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma ecrino	normalName:poroma_ecrino	normalWikiTitle:poroma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:86010	inCount:0	outCount:1	links:	url:8601/0	name:Tecoma luteinizado	normalName:tecoma_luteinizado	normalWikiTitle:tecoma_luteinizado	predictedType:MOR_NEO
+CANDIDATE	id:89300	inCount:0	outCount:1	links:	url:8930/0	name:Nódulo, estroma endometrial	normalName:nódulo,_estroma_endometrial	normalWikiTitle:nódulo,_estroma_endometrial	predictedType:MOR_NEO
+ENTITY	text:maligno	normalName:maligno	predictedType:MOR_NEO	q:true	qid:Q615	docId:S0378-48352006000300007-1	origText:maligno	url:NaN
+CANDIDATE	id:81553	inCount:5	outCount:1	links:	url:8155/3	name:Vipoma maligno	normalName:vipoma_maligno	normalWikiTitle:vipoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:86003	inCount:5	outCount:1	links:	url:8600/3	name:Tecoma maligno	normalName:tecoma_maligno	normalWikiTitle:tecoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87422	inCount:5	outCount:1	links:	url:8742/2	name:Léntigo maligno	normalName:léntigo_maligno	normalWikiTitle:léntigo_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93803	inCount:5	outCount:1	links:	url:9380/3	name:Glioma maligno	normalName:glioma_maligno	normalWikiTitle:glioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:5	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81513	inCount:5	outCount:1	links:	url:8151/3	name:Insulinoma maligno	normalName:insulinoma_maligno	normalWikiTitle:insulinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81533	inCount:5	outCount:1	links:	url:8153/3	name:Gastrinoma maligno	normalName:gastrinoma_maligno	normalWikiTitle:gastrinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:85803	inCount:5	outCount:1	links:	url:8580/3	name:Timoma maligno, SAI	normalName:timoma_maligno,_sai	normalWikiTitle:timoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87803	inCount:5	outCount:1	links:	url:8780/3	name:Nevus azul maligno	normalName:nevus_azul_maligno	normalWikiTitle:nevus_azul_maligno	predictedType:MOR_NEO

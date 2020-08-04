@@ -1,0 +1,85 @@
+ENTITY	text:células tumorales	normalName:células_tumorales	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:células tumorales	url:NaN
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85501	inCount:0	outCount:1	links:	url:8550/1	name:Tumor de células acinosas	normalName:tumor_de_células_acinosas	normalWikiTitle:tumor_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:973236	inCount:0	outCount:1	links:	url:9732/36	name:Mieloma múltiple, - células B	normalName:mieloma_múltiple,_-_células_b	normalWikiTitle:mieloma_múltiple,_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:86600	inCount:0	outCount:1	links:	url:8660/0	name:Tumor de células del hilio	normalName:tumor_de_células_del_hilio	normalWikiTitle:tumor_de_células_del_hilio	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Cél tumorales malignas	normalName:cél_tumorales_malignas	normalWikiTitle:cél_tumorales_malignas	predictedType:MOR_NEO
+ENTITY	text:neoformación	normalName:neoformación	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:neoformación	url:NaN
+CANDIDATE	id:95400	inCount:0	outCount:1	links:	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84800	inCount:0	outCount:1	links:	url:8480/0	name:Adenoma mucinoso	normalName:adenoma_mucinoso	normalWikiTitle:adenoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:90130	inCount:0	outCount:1	links:	url:9013/0	name:Adenofibroma, SAI	normalName:adenofibroma,_sai	normalWikiTitle:adenofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91600	inCount:0	outCount:1	links:	url:9160/0	name:Angiofibroma, SAI	normalName:angiofibroma,_sai	normalWikiTitle:angiofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93501	inCount:0	outCount:1	links:	url:9350/1	name:Craneofaringioma	normalName:craneofaringioma	normalWikiTitle:craneofaringioma	predictedType:MOR_NEO
+ENTITY	text:Carcinoma transicional de vejiga T1 GII	normalName:carcinoma_transicional_de_vejiga_t1_gii	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:Carcinoma transicional de vejiga T1 GII	url:NaN
+CANDIDATE	id:81203	inCount:5	outCount:1	links:81203	url:8120/3	name:Carcinoma de células transicionales, SAI	normalName:carcinoma_de_células_transicionales,_sai	normalWikiTitle:carcinoma_de_células_transicionales,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85043	inCount:5	outCount:1	links:	url:8504/3	name:Carcinoma intraquístico, SAI	normalName:carcinoma_intraquístico,_sai	normalWikiTitle:carcinoma_intraquístico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:95370	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:809534	inCount:0	outCount:1	links:	url:8095/34	name:Carcinoma metatípico - grado IV, indiferenciado	normalName:carcinoma_metatípico_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_metatípico_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:81202	inCount:5	outCount:1	links:	url:8120/2	name:Carcinoma in situ de células transicionales	normalName:carcinoma_in_situ_de_células_transicionales	normalWikiTitle:carcinoma_in_situ_de_células_transicionales	predictedType:MOR_NEO
+CANDIDATE	id:81303	inCount:5	outCount:1	links:81303	url:8130/3	name:Carcinoma papilar de células transicionales	normalName:carcinoma_papilar_de_células_transicionales	normalWikiTitle:carcinoma_papilar_de_células_transicionales	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:801034	inCount:0	outCount:1	links:	url:8010/34	name:Carcinoma, SAI - grado IV, indiferenciado	normalName:carcinoma,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:802034	inCount:0	outCount:1	links:	url:8020/34	name:Carcinoma indiferenciado, SAI - grado IV, indiferenciado	normalName:carcinoma_indiferenciado,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_indiferenciado,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:81203	inCount:5	outCount:1	links:81203	url:8120/3	name:Carcinoma, cél transicionales, SAI	normalName:carcinoma,_cél_transicionales,_sai	normalWikiTitle:carcinoma,_cél_transicionales,_sai	predictedType:MOR_NEO
+CANDIDATE	id:812031	inCount:0	outCount:1	links:81203	url:8120/31	name:Carcinoma, cél transicionales, SAI - G1	normalName:carcinoma,_cél_transicionales,_sai_-_g1	normalWikiTitle:carcinoma,_cél_transicionales,_sai_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:812032	inCount:0	outCount:1	links:81203	url:8120/32	name:Carcinoma, cél transicionales, SAI - G2	normalName:carcinoma,_cél_transicionales,_sai_-_g2	normalWikiTitle:carcinoma,_cél_transicionales,_sai_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:812033	inCount:0	outCount:1	links:81203	url:8120/33	name:Carcinoma, cél transicionales, SAI - G3	normalName:carcinoma,_cél_transicionales,_sai_-_g3	normalWikiTitle:carcinoma,_cél_transicionales,_sai_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:812034	inCount:0	outCount:1	links:81203	url:8120/34	name:Carcinoma, cél transicionales, SAI - G4	normalName:carcinoma,_cél_transicionales,_sai_-_g4	normalWikiTitle:carcinoma,_cél_transicionales,_sai_-_g4	predictedType:MOR_NEO
+CANDIDATE	id:812039	inCount:0	outCount:1	links:81203	url:8120/39	name:Carcinoma, cél transicionales, SAI - GSD	normalName:carcinoma,_cél_transicionales,_sai_-_gsd	normalWikiTitle:carcinoma,_cél_transicionales,_sai_-_gsd	predictedType:MOR_NEO
+ENTITY	text:papiloma	normalName:papiloma	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:papiloma	url:NaN
+CANDIDATE	id:80500	inCount:0	outCount:1	links:	url:8050/0	name:Papiloma, SAI	normalName:papiloma,_sai	normalWikiTitle:papiloma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:0	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:82481	inCount:0	outCount:1	links:	url:8248/1	name:Apudoma	normalName:apudoma	normalWikiTitle:apudoma	predictedType:MOR_NEO
+CANDIDATE	id:88501	inCount:0	outCount:1	links:	url:8850/1	name:Lipoma atípico	normalName:lipoma_atípico	normalWikiTitle:lipoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:80510	inCount:0	outCount:1	links:	url:8051/0	name:Papiloma verrugoso	normalName:papiloma_verrugoso	normalWikiTitle:papiloma_verrugoso	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88930	inCount:0	outCount:1	links:	url:8893/0	name:Leiomioma atípico	normalName:leiomioma_atípico	normalWikiTitle:leiomioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:85030	inCount:0	outCount:1	links:	url:8503/0	name:Papiloma intraductal	normalName:papiloma_intraductal	normalWikiTitle:papiloma_intraductal	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+ENTITY	text:recidiva vesical de carcinoma transicional	normalName:recidiva_vesical_de_carcinoma_transicional	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:recidiva vesical de carcinoma transicional	url:NaN
+CANDIDATE	id:81200	inCount:0	outCount:1	links:	url:8120/0	name:Papiloma de células transicionales, benigno	normalName:papiloma_de_células_transicionales,_benigno	normalWikiTitle:papiloma_de_células_transicionales,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:81203	inCount:5	outCount:1	links:81203	url:8120/3	name:Carcinoma de células transicionales, SAI	normalName:carcinoma_de_células_transicionales,_sai	normalWikiTitle:carcinoma_de_células_transicionales,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81303	inCount:5	outCount:1	links:81303	url:8130/3	name:Carcinoma papilar de células transicionales	normalName:carcinoma_papilar_de_células_transicionales	normalWikiTitle:carcinoma_papilar_de_células_transicionales	predictedType:MOR_NEO
+CANDIDATE	id:84706	inCount:0	outCount:1	links:	url:8470/6	name:Cistadenocarcinoma mucinoso, SAI, metástasis	normalName:cistadenocarcinoma_mucinoso,_sai,_metástasis	normalWikiTitle:cistadenocarcinoma_mucinoso,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84716	inCount:0	outCount:1	links:	url:8471/6	name:Cistadenocarcinoma mucinoso papilar, metástasis	normalName:cistadenocarcinoma_mucinoso_papilar,_metástasis	normalWikiTitle:cistadenocarcinoma_mucinoso_papilar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:95370	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:81223	inCount:5	outCount:1	links:	url:8122/3	name:Carcinoma de células transicionales, tipo fusocelular	normalName:carcinoma_de_células_transicionales,_tipo_fusocelular	normalWikiTitle:carcinoma_de_células_transicionales,_tipo_fusocelular	predictedType:MOR_NEO
+CANDIDATE	id:81236	inCount:0	outCount:1	links:	url:8123/6	name:Carcinoma basaloide, metástasis	normalName:carcinoma_basaloide,_metástasis	normalWikiTitle:carcinoma_basaloide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81313	inCount:5	outCount:1	links:	url:8131/3	name:Carcinoma de células transicionales, micropapilar	normalName:carcinoma_de_células_transicionales,_micropapilar	normalWikiTitle:carcinoma_de_células_transicionales,_micropapilar	predictedType:MOR_NEO
+CANDIDATE	id:81406	inCount:0	outCount:1	links:	url:8140/6	name:Adenocarcinoma metastásico, SAI	normalName:adenocarcinoma_metastásico,_sai	normalWikiTitle:adenocarcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81203	inCount:5	outCount:1	links:81203	url:8120/3	name:Carcinoma, cél transicionales, SAI	normalName:carcinoma,_cél_transicionales,_sai	normalWikiTitle:carcinoma,_cél_transicionales,_sai	predictedType:MOR_NEO
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metástasis	normalName:gliosarcoma,_metástasis	normalWikiTitle:gliosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metástasis	normalName:adenosarcoma,_metástasis	normalWikiTitle:adenosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
+ENTITY	text:carcinoma de células pequeñas	normalName:carcinoma_de_células_pequeñas	predictedType:MOR_NEO	q:true	qid:Q2340	docId:S0210-48062005000400016-2	origText:carcinoma de células pequeñas	url:NaN
+CANDIDATE	id:80463	inCount:5	outCount:1	links:	url:8046/3	name:Carcinoma, no de células pequeñas	normalName:carcinoma,_no_de_células_pequeñas	normalWikiTitle:carcinoma,_no_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:80413	inCount:5	outCount:1	links:	url:8041/3	name:Carcinoma de células pequeñas, SAI	normalName:carcinoma_de_células_pequeñas,_sai	normalWikiTitle:carcinoma_de_células_pequeñas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80453	inCount:5	outCount:1	links:	url:8045/3	name:Carcinoma combinado de células pequeñas	normalName:carcinoma_combinado_de_células_pequeñas	normalWikiTitle:carcinoma_combinado_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:82143	inCount:5	outCount:1	links:	url:8214/3	name:Carcinoma de células parietales	normalName:carcinoma_de_células_parietales	normalWikiTitle:carcinoma_de_células_parietales	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:80466	inCount:0	outCount:1	links:	url:8046/6	name:Carcinoma, no de células pequeñas, metástasis	normalName:carcinoma,_no_de_células_pequeñas,_metástasis	normalWikiTitle:carcinoma,_no_de_células_pequeñas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83123	inCount:5	outCount:1	links:	url:8312/3	name:Carcinoma de células renales, SAI	normalName:carcinoma_de_células_renales,_sai	normalWikiTitle:carcinoma_de_células_renales,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80313	inCount:5	outCount:1	links:	url:8031/3	name:Carcinoma de células gigantes	normalName:carcinoma_de_células_gigantes	normalWikiTitle:carcinoma_de_células_gigantes	predictedType:MOR_NEO
+CANDIDATE	id:80416	inCount:0	outCount:1	links:	url:8041/6	name:Carcinoma de células pequeñas, SAI, metástasis	normalName:carcinoma_de_células_pequeñas,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_pequeñas,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80153	inCount:5	outCount:1	links:	url:8015/3	name:Carcinoma de células vidriosas	normalName:carcinoma_de_células_vidriosas	normalWikiTitle:carcinoma_de_células_vidriosas	predictedType:MOR_NEO

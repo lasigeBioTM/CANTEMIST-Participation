@@ -1,0 +1,33 @@
+ENTITY	text:neurofibromatosis	normalName:neurofibromatosis	predictedType:MOR_NEO	q:true	qid:Q1301	docId:S0365-66912009001100005-3	origText:neurofibromatosis	url:NaN
+CANDIDATE	id:95401	inCount:0	outCount:1	links:	url:9540/1	name:Neurofibromatosis, SAI	normalName:neurofibromatosis,_sai	normalWikiTitle:neurofibromatosis,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95400	inCount:0	outCount:1	links:	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:0	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:0	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:88320	inCount:0	outCount:1	links:	url:8832/0	name:Dermatofibroma, SAI	normalName:dermatofibroma,_sai	normalWikiTitle:dermatofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88211	inCount:0	outCount:1	links:	url:8821/1	name:Fibromatosis agresiva	normalName:fibromatosis_agresiva	normalWikiTitle:fibromatosis_agresiva	predictedType:MOR_NEO
+CANDIDATE	id:88221	inCount:0	outCount:1	links:	url:8822/1	name:Fibromatosis abdominal	normalName:fibromatosis_abdominal	normalWikiTitle:fibromatosis_abdominal	predictedType:MOR_NEO
+CANDIDATE	id:90130	inCount:0	outCount:1	links:	url:9013/0	name:Adenofibroma, SAI	normalName:adenofibroma,_sai	normalWikiTitle:adenofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91600	inCount:0	outCount:1	links:	url:9160/0	name:Angiofibroma, SAI	normalName:angiofibroma,_sai	normalWikiTitle:angiofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94910	inCount:0	outCount:1	links:	url:9491/0	name:Ganglioneuromatosis	normalName:ganglioneuromatosis	normalWikiTitle:ganglioneuromatosis	predictedType:MOR_NEO
+ENTITY	text:glioma del NO	normalName:glioma_del_no	predictedType:MOR_NEO	q:true	qid:Q1301	docId:S0365-66912009001100005-3	origText:glioma del NO	url:NaN
+CANDIDATE	id:83240	inCount:0	outCount:1	links:	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:93803	inCount:5	outCount:1	links:	url:9380/3	name:Glioma maligno	normalName:glioma_maligno	normalWikiTitle:glioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87422	inCount:5	outCount:1	links:	url:8742/2	name:Léntigo maligno	normalName:léntigo_maligno	normalWikiTitle:léntigo_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:87120	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:93823	inCount:5	outCount:1	links:93823	url:9382/3	name:Glioma mixto	normalName:glioma_mixto	normalWikiTitle:glioma_mixto	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:5	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81513	inCount:5	outCount:1	links:	url:8151/3	name:Insulinoma maligno	normalName:insulinoma_maligno	normalWikiTitle:insulinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81533	inCount:5	outCount:1	links:	url:8153/3	name:Gastrinoma maligno	normalName:gastrinoma_maligno	normalWikiTitle:gastrinoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87130	inCount:0	outCount:1	links:	url:8713/0	name:Glomangiomioma	normalName:glomangiomioma	normalWikiTitle:glomangiomioma	predictedType:MOR_NEO
+ENTITY	text:gliomas	normalName:gliomas	predictedType:MOR_NEO	q:true	qid:Q1301	docId:S0365-66912009001100005-3	origText:gliomas	url:NaN
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:87120	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:94423	inCount:5	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:93823	inCount:5	outCount:1	links:93823	url:9382/3	name:Glioma mixto	normalName:glioma_mixto	normalWikiTitle:glioma_mixto	predictedType:MOR_NEO
+CANDIDATE	id:94403	inCount:5	outCount:1	links:	url:9440/3	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:94920	inCount:0	outCount:1	links:	url:9492/0	name:Gangliocitoma	normalName:gangliocitoma	normalWikiTitle:gangliocitoma	predictedType:MOR_NEO
+CANDIDATE	id:88500	inCount:0	outCount:1	links:	url:8850/0	name:Lipoma, SAI	normalName:lipoma,_sai	normalWikiTitle:lipoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO

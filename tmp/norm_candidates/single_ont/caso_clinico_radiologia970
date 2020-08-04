@@ -1,0 +1,69 @@
+ENTITY	text:Tumoración VII par craneal	normalName:tumoración_vii_par_craneal	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:Tumoración VII par craneal	url:NaN
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:85012	inCount:5	outCount:1	links:	url:8501/2	name:Comedocarcinoma no infiltrante	normalName:comedocarcinoma_no_infiltrante	normalWikiTitle:comedocarcinoma_no_infiltrante	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:86803	inCount:5	outCount:1	links:	url:8680/3	name:Paraganglioma maligno	normalName:paraganglioma_maligno	normalWikiTitle:paraganglioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:874129	inCount:0	outCount:1	links:	url:8741/29	name:Melanosis precancerosa, SAI	normalName:melanosis_precancerosa,_sai	normalWikiTitle:melanosis_precancerosa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80923	inCount:5	outCount:1	links:	url:8092/3	name:Carcinoma basocelular infiltrante, SAI	normalName:carcinoma_basocelular_infiltrante,_sai	normalWikiTitle:carcinoma_basocelular_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81103	inCount:5	outCount:1	links:	url:8110/3	name:Carcinoma pilomatricial	normalName:carcinoma_pilomatricial	normalWikiTitle:carcinoma_pilomatricial	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:5	outCount:1	links:	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
+CANDIDATE	id:89803	inCount:5	outCount:1	links:	url:8980/3	name:Carcinosarcoma, SAI	normalName:carcinosarcoma,_sai	normalWikiTitle:carcinosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85513	inCount:5	outCount:1	links:	url:8551/3	name:CistadenoCa cél acinares	normalName:cistadenoca_cél_acinares	normalWikiTitle:cistadenoca_cél_acinares	predictedType:MOR_NEO
+ENTITY	text:neurinoma	normalName:neurinoma	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:neurinoma	url:NaN
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:95601	inCount:0	outCount:1	links:	url:9560/1	name:Neurinomatosis	normalName:neurinomatosis	normalWikiTitle:neurinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:95600	inCount:0	outCount:1	links:	url:9560/0	name:Neurilemoma, SAI	normalName:neurilemoma,_sai	normalWikiTitle:neurilemoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma ecrino	normalName:poroma_ecrino	normalWikiTitle:poroma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:93501	inCount:0	outCount:1	links:	url:9350/1	name:Craneofaringioma	normalName:craneofaringioma	normalWikiTitle:craneofaringioma	predictedType:MOR_NEO
+CANDIDATE	id:95400	inCount:0	outCount:1	links:	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
+ENTITY	text:hemangioma	normalName:hemangioma	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:hemangioma	url:NaN
+CANDIDATE	id:91200	inCount:0	outCount:1	links:91200	url:9120/0	name:Hemangioma, SAI	normalName:hemangioma,_sai	normalWikiTitle:hemangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:91203	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:91611	inCount:0	outCount:1	links:91611	url:9161/1	name:Hemangioblastoma	normalName:hemangioblastoma	normalWikiTitle:hemangioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:91220	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:91310	inCount:0	outCount:1	links:	url:9131/0	name:Hemangioma capilar	normalName:hemangioma_capilar	normalWikiTitle:hemangioma_capilar	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:91230	inCount:0	outCount:1	links:91230	url:9123/0	name:Hemangioma racemoso	normalName:hemangioma_racemoso	normalWikiTitle:hemangioma_racemoso	predictedType:MOR_NEO
+CANDIDATE	id:87130	inCount:0	outCount:1	links:	url:8713/0	name:Glomangiomioma	normalName:glomangiomioma	normalWikiTitle:glomangiomioma	predictedType:MOR_NEO
+ENTITY	text:Tumor epidermoide	normalName:tumor_epidermoide	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:Tumor epidermoide	url:NaN
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tumor mucoepidermoide	normalName:tumor_mucoepidermoide	normalWikiTitle:tumor_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Carcinoma mucoepidermoide	normalName:carcinoma_mucoepidermoide	normalWikiTitle:carcinoma_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:80703	inCount:5	outCount:1	links:	url:8070/3	name:Carcinoma epidermoide, SAI	normalName:carcinoma_epidermoide,_sai	normalWikiTitle:carcinoma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80520	inCount:0	outCount:1	links:	url:8052/0	name:Papiloma epidermoide, SAI	normalName:papiloma_epidermoide,_sai	normalWikiTitle:papiloma_epidermoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84306	inCount:0	outCount:1	links:	url:8430/6	name:Carcinoma mucoepidermoide, metástasis	normalName:carcinoma_mucoepidermoide,_metástasis	normalWikiTitle:carcinoma_mucoepidermoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95023	inCount:5	outCount:1	links:	url:9502/3	name:Meduloepitelioma teratoide	normalName:meduloepitelioma_teratoide	normalWikiTitle:meduloepitelioma_teratoide	predictedType:MOR_NEO
+CANDIDATE	id:80702	inCount:5	outCount:1	links:	url:8070/2	name:Carcinoma epidermoide in situ, SAI 	normalName:carcinoma_epidermoide_in_situ,_sai_	normalWikiTitle:carcinoma_epidermoide_in_situ,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:80783	inCount:5	outCount:1	links:	url:8078/3	name:Carcinoma epidermoide con formación cuerno	normalName:carcinoma_epidermoide_con_formación_cuerno	normalWikiTitle:carcinoma_epidermoide_con_formación_cuerno	predictedType:MOR_NEO
+CANDIDATE	id:97003	inCount:1	outCount:1	links:	url:9700/3	name:Micosis fungoide	normalName:micosis_fungoide	normalWikiTitle:micosis_fungoide	predictedType:MOR_NEO
+CANDIDATE	id:80763	inCount:5	outCount:1	links:	url:8076/3	name:Carcinoma epidermoide microinvasor	normalName:carcinoma_epidermoide_microinvasor	normalWikiTitle:carcinoma_epidermoide_microinvasor	predictedType:MOR_NEO
+CANDIDATE	id:84303	inCount:5	outCount:1	links:	url:8430/3	name:Ca mucoepidermoide	normalName:ca_mucoepidermoide	normalWikiTitle:ca_mucoepidermoide	predictedType:MOR_NEO
+CANDIDATE	id:84301	inCount:0	outCount:1	links:	url:8430/1	name:Tum mucoepidermoide	normalName:tum_mucoepidermoide	normalWikiTitle:tum_mucoepidermoide	predictedType:MOR_NEO
+ENTITY	text:colesteatoma	normalName:colesteatoma	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:colesteatoma	url:NaN
+CANDIDATE	id:90801	inCount:0	outCount:1	links:	url:9080/1	name:Teratoma, SAI	normalName:teratoma,_sai	normalWikiTitle:teratoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92000	inCount:0	outCount:1	links:	url:9200/0	name:Osteoblastoma, SAI	normalName:osteoblastoma,_sai	normalWikiTitle:osteoblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81020	inCount:0	outCount:1	links:	url:8102/0	name:Tricolemoma	normalName:tricolemoma	normalWikiTitle:tricolemoma	predictedType:MOR_NEO
+CANDIDATE	id:91800	inCount:0	outCount:1	links:	url:9180/0	name:Osteoma, SAI	normalName:osteoma,_sai	normalWikiTitle:osteoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92810	inCount:0	outCount:1	links:	url:9281/0	name:Odontoma compuesto	normalName:odontoma_compuesto	normalWikiTitle:odontoma_compuesto	predictedType:MOR_NEO
+CANDIDATE	id:81000	inCount:0	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:94403	inCount:5	outCount:1	links:	url:9440/3	name:Glioblastoma	normalName:glioblastoma	normalWikiTitle:glioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90800	inCount:0	outCount:1	links:	url:9080/0	name:Teratoma benigno	normalName:teratoma_benigno	normalWikiTitle:teratoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:91803	inCount:5	outCount:1	links:	url:9180/3	name:Osteosarcoma, SAI	normalName:osteosarcoma,_sai	normalWikiTitle:osteosarcoma,_sai	predictedType:MOR_NEO
+ENTITY	text:hemangioma osificante	normalName:hemangioma_osificante	predictedType:MOR_NEO	q:true	qid:Q242	docId:caso_clinico_radiologia970	origText:hemangioma osificante	url:NaN
+CANDIDATE	id:92620	inCount:0	outCount:1	links:	url:9262/0	name:Fibroma osificante	normalName:fibroma_osificante	normalWikiTitle:fibroma_osificante	predictedType:MOR_NEO
+CANDIDATE	id:91200	inCount:0	outCount:1	links:91200	url:9120/0	name:Hemangioma, SAI	normalName:hemangioma,_sai	normalWikiTitle:hemangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:91220	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:91203	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:91230	inCount:0	outCount:1	links:91230	url:9123/0	name:Hemangioma racemoso	normalName:hemangioma_racemoso	normalWikiTitle:hemangioma_racemoso	predictedType:MOR_NEO
+CANDIDATE	id:91611	inCount:0	outCount:1	links:91611	url:9161/1	name:Hemangioblastoma	normalName:hemangioblastoma	normalWikiTitle:hemangioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:91320	inCount:0	outCount:1	links:	url:9132/0	name:Hemangioma intramuscular	normalName:hemangioma_intramuscular	normalWikiTitle:hemangioma_intramuscular	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:91501	inCount:0	outCount:1	links:	url:9150/1	name:Hemangiopericitoma, SAI	normalName:hemangiopericitoma,_sai	normalWikiTitle:hemangiopericitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO

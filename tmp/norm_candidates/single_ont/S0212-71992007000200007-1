@@ -1,0 +1,34 @@
+ENTITY	text:mielodisplasia	normalName:mielodisplasia	predictedType:MOR_NEO	q:true	qid:Q852	docId:S0212-71992007000200007-1	origText:mielodisplasia	url:NaN
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:99893	inCount:1	outCount:1	links:	url:9989/3	name:Síndrome mielodisplásico, SAI	normalName:síndrome_mielodisplásico,_sai	normalWikiTitle:síndrome_mielodisplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:99613	inCount:1	outCount:1	links:	url:9961/3	name:Mielofibrosis primaria	normalName:mielofibrosis_primaria	normalWikiTitle:mielofibrosis_primaria	predictedType:MOR_NEO
+CANDIDATE	id:99303	inCount:5	outCount:1	links:	url:9930/3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:80000	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:94723	inCount:5	outCount:1	links:	url:9472/3	name:Medulomioblastoma	normalName:medulomioblastoma	normalWikiTitle:medulomioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:81423	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:97323	inCount:1	outCount:1	links:	url:9732/3	name:Mieloma múltiple	normalName:mieloma_múltiple	normalWikiTitle:mieloma_múltiple	predictedType:MOR_NEO
+ENTITY	text:neoplásica	normalName:neoplásica	predictedType:MOR_NEO	q:true	qid:Q852	docId:S0212-71992007000200007-1	origText:neoplásica	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:80000	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:81423	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplásico	normalName:fibroma_desmoplásico	normalWikiTitle:fibroma_desmoplásico	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90623	inCount:1	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO
+ENTITY	text:metaplasia mieloide	normalName:metaplasia_mieloide	predictedType:MOR_NEO	q:true	qid:Q852	docId:S0212-71992007000200007-1	origText:metaplasia mieloide	url:NaN
+CANDIDATE	id:81210	inCount:0	outCount:1	links:	url:8121/0	name:Papiloma de Schneider, SAI	normalName:papiloma_de_schneider,_sai	normalWikiTitle:papiloma_de_schneider,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:986035	inCount:0	outCount:1	links:	url:9860/35	name:Leucemia mieloide, SAI - células T	normalName:leucemia_mieloide,_sai_-_células_t	normalWikiTitle:leucemia_mieloide,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:986036	inCount:0	outCount:1	links:	url:9860/36	name:Leucemia mieloide, SAI - células B	normalName:leucemia_mieloide,_sai_-_células_b	normalWikiTitle:leucemia_mieloide,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:98973	inCount:5	outCount:1	links:	url:9897/3	name:Leucemia mieloide aguda, anomalías 11q23	normalName:leucemia_mieloide_aguda,_anomalías_11q23	normalWikiTitle:leucemia_mieloide_aguda,_anomalías_11q23	predictedType:MOR_NEO
+CANDIDATE	id:986038	inCount:0	outCount:1	links:	url:9860/38	name:Leucemia mieloide, SAI - células NK	normalName:leucemia_mieloide,_sai_-_células_nk	normalWikiTitle:leucemia_mieloide,_sai_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:98613	inCount:5	outCount:1	links:	url:9861/3	name:Leucemia mieloide aguda, SAI	normalName:leucemia_mieloide_aguda,_sai	normalWikiTitle:leucemia_mieloide_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:986135	inCount:0	outCount:1	links:	url:9861/35	name:Leucemia mieloide aguda, SAI - células T	normalName:leucemia_mieloide_aguda,_sai_-_células_t	normalWikiTitle:leucemia_mieloide_aguda,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:986136	inCount:0	outCount:1	links:	url:9861/36	name:Leucemia mieloide aguda, SAI - células B	normalName:leucemia_mieloide_aguda,_sai_-_células_b	normalWikiTitle:leucemia_mieloide_aguda,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:	url:8575/3	name:Ca metaplásico, SAI	normalName:ca_metaplásico,_sai	normalWikiTitle:ca_metaplásico,_sai	predictedType:MOR_NEO

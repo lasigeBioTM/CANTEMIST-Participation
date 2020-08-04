@@ -1,0 +1,56 @@
+ENTITY	text:malignidad	normalName:malignidad	predictedType:MOR_NEO	q:true	qid:Q466	docId:S1130-05582005000200006-1	origText:malignidad	url:NaN
+CANDIDATE	id:81553	inCount:5	outCount:1	links:	url:8155/3	name:Vipoma maligno	normalName:vipoma_maligno	normalWikiTitle:vipoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:86003	inCount:5	outCount:1	links:	url:8600/3	name:Tecoma maligno	normalName:tecoma_maligno	normalWikiTitle:tecoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:85803	inCount:5	outCount:1	links:	url:8580/3	name:Timoma maligno, SAI	normalName:timoma_maligno,_sai	normalWikiTitle:timoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95303	inCount:5	outCount:1	links:	url:9530/3	name:Meningioma maligno	normalName:meningioma_maligno	normalWikiTitle:meningioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95713	inCount:5	outCount:1	links:	url:9571/3	name:Perineuroma maligno	normalName:perineuroma_maligno	normalWikiTitle:perineuroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90803	inCount:5	outCount:1	links:	url:9080/3	name:Teratoma maligno, SAI	normalName:teratoma_maligno,_sai	normalWikiTitle:teratoma_maligno,_sai	predictedType:MOR_NEO
+ENTITY	text:síndrome linfoproliferativo	normalName:síndrome_linfoproliferativo	predictedType:MOR_NEO	q:true	qid:Q466	docId:S1130-05582005000200006-1	origText:síndrome linfoproliferativo	url:NaN
+CANDIDATE	id:97681	inCount:0	outCount:1	links:	url:9768/1	name:Enfermedad linfoproliferativa T-gamma	normalName:enfermedad_linfoproliferativa_t-gamma	normalWikiTitle:enfermedad_linfoproliferativa_t-gamma	predictedType:MOR_NEO
+CANDIDATE	id:97603	inCount:5	outCount:1	links:	url:9760/3	name:Enfermedad inmunoproliferativa, SAI	normalName:enfermedad_inmunoproliferativa,_sai	normalWikiTitle:enfermedad_inmunoproliferativa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99701	inCount:0	outCount:1	links:	url:9970/1	name:Trastorno linfoproliferativo, SAI	normalName:trastorno_linfoproliferativo,_sai	normalWikiTitle:trastorno_linfoproliferativo,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99603	inCount:5	outCount:1	links:	url:9960/3	name:Neoplasia mieloproliferativa, SAI	normalName:neoplasia_mieloproliferativa,_sai	normalWikiTitle:neoplasia_mieloproliferativa,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87621	inCount:0	outCount:1	links:	url:8762/1	name:Lesión dérmica proliferativa en nevus congénito	normalName:lesión_dérmica_proliferativa_en_nevus_congénito	normalWikiTitle:lesión_dérmica_proliferativa_en_nevus_congénito	predictedType:MOR_NEO
+CANDIDATE	id:95233	inCount:5	outCount:1	links:	url:9523/3	name:Neuroepitelioma olfatorio	normalName:neuroepitelioma_olfatorio	normalWikiTitle:neuroepitelioma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:97661	inCount:0	outCount:1	links:	url:9766/1	name:Lesión inmunoproliferativa angiocéntrica	normalName:lesión_inmunoproliferativa_angiocéntrica	normalWikiTitle:lesión_inmunoproliferativa_angiocéntrica	predictedType:MOR_NEO
+CANDIDATE	id:99753	inCount:1	outCount:1	links:	url:9975/3	name:Neoplasia mieloproliferativa inclasificable	normalName:neoplasia_mieloproliferativa_inclasificable	normalWikiTitle:neoplasia_mieloproliferativa_inclasificable	predictedType:MOR_NEO
+CANDIDATE	id:95213	inCount:5	outCount:1	links:	url:9521/3	name:Neurocitoma olfatorio	normalName:neurocitoma_olfatorio	normalWikiTitle:neurocitoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:97183	inCount:1	outCount:1	links:	url:9718/3	name:Trastorno linfoproliferativo cutáneo primario de células T CD30+	normalName:trastorno_linfoproliferativo_cutáneo_primario_de_células_t_cd30+	normalWikiTitle:trastorno_linfoproliferativo_cutáneo_primario_de_células_t_cd30+	predictedType:MOR_NEO
+ENTITY	text:linfoma no-Hodgkin extralinfático	normalName:linfoma_no-hodgkin_extralinfático	predictedType:MOR_NEO	q:true	qid:Q466	docId:S1130-05582005000200006-1	origText:linfoma no-Hodgkin extralinfático	url:NaN
+CANDIDATE	id:96513	inCount:5	outCount:1	links:	url:9651/3	name:Linfoma de Hodgkin, rico en linfocitos	normalName:linfoma_de_hodgkin,_rico_en_linfocitos	normalWikiTitle:linfoma_de_hodgkin,_rico_en_linfocitos	predictedType:MOR_NEO
+CANDIDATE	id:95913	inCount:1	outCount:1	links:	url:9591/3	name:Linfoma maligno no Hodgkin, SAI	normalName:linfoma_maligno_no_hodgkin,_sai	normalWikiTitle:linfoma_maligno_no_hodgkin,_sai	predictedType:MOR_NEO
+CANDIDATE	id:96593	inCount:1	outCount:1	links:	url:9659/3	name:Linfoma de Hodgkin nodular con predominio linfocítico	normalName:linfoma_de_hodgkin_nodular_con_predominio_linfocítico	normalWikiTitle:linfoma_de_hodgkin_nodular_con_predominio_linfocítico	predictedType:MOR_NEO
+CANDIDATE	id:965138	inCount:0	outCount:1	links:	url:9651/38	name:Linfoma de Hodgkin, rico en linfocitos - células NK	normalName:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_nk	normalWikiTitle:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:96503	inCount:5	outCount:1	links:	url:9650/3	name:Linfoma de Hodgkin, SAI	normalName:linfoma_de_hodgkin,_sai	normalWikiTitle:linfoma_de_hodgkin,_sai	predictedType:MOR_NEO
+CANDIDATE	id:965135	inCount:0	outCount:1	links:	url:9651/35	name:Linfoma de Hodgkin, rico en linfocitos - células T	normalName:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_t	normalWikiTitle:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:965136	inCount:0	outCount:1	links:	url:9651/36	name:Linfoma de Hodgkin, rico en linfocitos - células B	normalName:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_b	normalWikiTitle:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:965137	inCount:0	outCount:1	links:	url:9651/37	name:Linfoma de Hodgkin, rico en linfocitos - células nulas	normalName:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_nulas	normalWikiTitle:linfoma_de_hodgkin,_rico_en_linfocitos_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:96533	inCount:5	outCount:1	links:	url:9653/3	name:Linfoma de Hodgkin con depleción linfocítica, SAI	normalName:linfoma_de_hodgkin_con_depleción_linfocítica,_sai	normalWikiTitle:linfoma_de_hodgkin_con_depleción_linfocítica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94311	inCount:0	outCount:1	links:	url:9431/1	name:Glioma angiocéntrico	normalName:glioma_angiocéntrico	normalWikiTitle:glioma_angiocéntrico	predictedType:MOR_NEO
+CANDIDATE	id:96513	inCount:5	outCount:1	links:	url:9651/3	name:Linfoma, Hodgkin, rico en linfocitos	normalName:linfoma,_hodgkin,_rico_en_linfocitos	normalWikiTitle:linfoma,_hodgkin,_rico_en_linfocitos	predictedType:MOR_NEO
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:MOR_NEO	q:true	qid:Q466	docId:S1130-05582005000200006-1	origText:neoplasia	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q466	docId:S1130-05582005000200006-1	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO

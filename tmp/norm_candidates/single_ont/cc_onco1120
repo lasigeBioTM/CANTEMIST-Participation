@@ -1,0 +1,33 @@
+ENTITY	text:tumoración	normalName:tumoración	predictedType:MOR_NEO	q:true	qid:Q2357	docId:cc_onco1120	origText:tumoración	url:NaN
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:90713	inCount:5	outCount:1	links:	url:9071/3	name:Tumor del saco vitelino	normalName:tumor_del_saco_vitelino	normalWikiTitle:tumor_del_saco_vitelino	predictedType:MOR_NEO
+CANDIDATE	id:91003	inCount:5	outCount:1	links:	url:9100/3	name:Coriocarcinoma, SAI	normalName:coriocarcinoma,_sai	normalWikiTitle:coriocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87422	inCount:5	outCount:1	links:	url:8742/2	name:Léntigo maligno	normalName:léntigo_maligno	normalWikiTitle:léntigo_maligno	predictedType:MOR_NEO
+ENTITY	text:Tumor miofibroblástico inflamatorio	normalName:tumor_miofibroblástico_inflamatorio	predictedType:MOR_NEO	q:true	qid:Q2357	docId:cc_onco1120	origText:Tumor miofibroblástico inflamatorio	url:NaN
+CANDIDATE	id:88251	inCount:0	outCount:1	links:88251	url:8825/1	name:Tumor miofibroblástico, SAI	normalName:tumor_miofibroblástico,_sai	normalWikiTitle:tumor_miofibroblástico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88271	inCount:0	outCount:1	links:88271	url:8827/1	name:Tumor miofibroblástico peribronquial	normalName:tumor_miofibroblástico_peribronquial	normalWikiTitle:tumor_miofibroblástico_peribronquial	predictedType:MOR_NEO
+CANDIDATE	id:88250	inCount:0	outCount:1	links:88250	url:8825/0	name:Miofibroblastoma	normalName:miofibroblastoma	normalWikiTitle:miofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88260	inCount:0	outCount:1	links:88260	url:8826/0	name:Angiomiofibroblastoma	normalName:angiomiofibroblastoma	normalWikiTitle:angiomiofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88573	inCount:5	outCount:1	links:	url:8857/3	name:Liposarcoma fibroblástico	normalName:liposarcoma_fibroblástico	normalWikiTitle:liposarcoma_fibroblástico	predictedType:MOR_NEO
+CANDIDATE	id:85303	inCount:5	outCount:1	links:	url:8530/3	name:Carcinoma inflamatorio	normalName:carcinoma_inflamatorio	normalWikiTitle:carcinoma_inflamatorio	predictedType:MOR_NEO
+CANDIDATE	id:91823	inCount:5	outCount:1	links:	url:9182/3	name:Osteosarcoma fibroblástico	normalName:osteosarcoma_fibroblástico	normalWikiTitle:osteosarcoma_fibroblástico	predictedType:MOR_NEO
+CANDIDATE	id:99613	inCount:1	outCount:1	links:	url:9961/3	name:Mielofibrosis primaria	normalName:mielofibrosis_primaria	normalWikiTitle:mielofibrosis_primaria	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:0	outCount:1	links:88241	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:88576	inCount:0	outCount:1	links:	url:8857/6	name:Liposarcoma fibroblástico, metástasis	normalName:liposarcoma_fibroblástico,_metástasis	normalWikiTitle:liposarcoma_fibroblástico,_metástasis	predictedType:MOR_NEO
+ENTITY	text:tumor miofibroblástico	normalName:tumor_miofibroblástico	predictedType:MOR_NEO	q:true	qid:Q2357	docId:cc_onco1120	origText:tumor miofibroblástico	url:NaN
+CANDIDATE	id:88250	inCount:0	outCount:1	links:88250	url:8825/0	name:Miofibroblastoma	normalName:miofibroblastoma	normalWikiTitle:miofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88260	inCount:0	outCount:1	links:88260	url:8826/0	name:Angiomiofibroblastoma	normalName:angiomiofibroblastoma	normalWikiTitle:angiomiofibroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88251	inCount:0	outCount:1	links:88251	url:8825/1	name:Tumor miofibroblástico, SAI	normalName:tumor_miofibroblástico,_sai	normalWikiTitle:tumor_miofibroblástico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88301	inCount:0	outCount:1	links:	url:8830/1	name:Fibrohistiocitoma atípico	normalName:fibrohistiocitoma_atípico	normalWikiTitle:fibrohistiocitoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:81010	inCount:0	outCount:1	links:	url:8101/0	name:Tricofoliculoma	normalName:tricofoliculoma	normalWikiTitle:tricofoliculoma	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:0	outCount:1	links:88241	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:91023	inCount:5	outCount:1	links:	url:9102/3	name:Teratoma trofoblástico maligno	normalName:teratoma_trofoblástico_maligno	normalWikiTitle:teratoma_trofoblástico_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88271	inCount:0	outCount:1	links:88271	url:8827/1	name:Tumor miofibroblástico peribronquial	normalName:tumor_miofibroblástico_peribronquial	normalWikiTitle:tumor_miofibroblástico_peribronquial	predictedType:MOR_NEO
+CANDIDATE	id:95400	inCount:0	outCount:1	links:	url:9540/0	name:Neurofibroma, SAI	normalName:neurofibroma,_sai	normalWikiTitle:neurofibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO

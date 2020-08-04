@@ -1,0 +1,66 @@
+ENTITY	text:adenocarcinoma prostático bien diferenciado Gleason 1 + 1 , estadio IV ( metástasis	normalName:adenocarcinoma_prostático_bien_diferenciado_gleason_1_+_1_,_estadio_iv_(_metástasis	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:adenocarcinoma prostático bien diferenciado Gleason 1 + 1 , estadio IV ( metástasis	url:NaN
+CANDIDATE	id:840131	inCount:0	outCount:1	links:	url:8401/31	name:Adenocarcinoma apocrino - grado I, bien diferenciado	normalName:adenocarcinoma_apocrino_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_apocrino_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:844034	inCount:0	outCount:1	links:	url:8440/34	name:Cistadenocarcinoma, SAI - grado IV, indiferenciado	normalName:cistadenocarcinoma,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:cistadenocarcinoma,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:844134	inCount:0	outCount:1	links:	url:8441/34	name:Cistadenocarcinoma seroso, SAI - grado IV, indiferenciado	normalName:cistadenocarcinoma_seroso,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:cistadenocarcinoma_seroso,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:846034	inCount:0	outCount:1	links:	url:8460/34	name:Cistadenocarcinoma seroso papilar - grado IV, indiferenciado	normalName:cistadenocarcinoma_seroso_papilar_-_grado_iv,_indiferenciado	normalWikiTitle:cistadenocarcinoma_seroso_papilar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:814031	inCount:0	outCount:1	links:81403	url:8140/31	name:Adenocarcinoma, SAI - grado I, bien diferenciado	normalName:adenocarcinoma,_sai_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma,_sai_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:814731	inCount:0	outCount:1	links:	url:8147/31	name:Adenocarcinoma basocelular - grado I, bien diferenciado	normalName:adenocarcinoma_basocelular_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_basocelular_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:816131	inCount:0	outCount:1	links:	url:8161/31	name:Cistadenocarcinoma de los conductos biliares - grado I, bien diferenciado	normalName:cistadenocarcinoma_de_los_conductos_biliares_-_grado_i,_bien_diferenciado	normalWikiTitle:cistadenocarcinoma_de_los_conductos_biliares_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:826231	inCount:0	outCount:1	links:	url:8262/31	name:Adenocarcinoma velloso - grado I, bien diferenciado	normalName:adenocarcinoma_velloso_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_velloso_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:841031	inCount:0	outCount:1	links:	url:8410/31	name:Adenocarcinoma sebáceo - grado I, bien diferenciado	normalName:adenocarcinoma_sebáceo_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_sebáceo_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:845034	inCount:0	outCount:1	links:	url:8450/34	name:Cistadenocarcinoma papilar, SAI - grado IV, indiferenciado	normalName:cistadenocarcinoma_papilar,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:cistadenocarcinoma_papilar,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+ENTITY	text:lesiones blásticas en escápula	normalName:lesiones_blásticas_en_escápula	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:lesiones blásticas en escápula	url:NaN
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:91823	inCount:5	outCount:1	links:	url:9182/3	name:Osteosarcoma fibroblástico	normalName:osteosarcoma_fibroblástico	normalWikiTitle:osteosarcoma_fibroblástico	predictedType:MOR_NEO
+CANDIDATE	id:91813	inCount:5	outCount:1	links:	url:9181/3	name:Osteosarcoma condroblástico	normalName:osteosarcoma_condroblástico	normalWikiTitle:osteosarcoma_condroblástico	predictedType:MOR_NEO
+CANDIDATE	id:94233	inCount:5	outCount:1	links:	url:9423/3	name:Espongioblastoma polar	normalName:espongioblastoma_polar	normalWikiTitle:espongioblastoma_polar	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:89726	inCount:0	outCount:1	links:	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94236	inCount:0	outCount:1	links:	url:9423/6	name:Espongioblastoma polar, metástasis	normalName:espongioblastoma_polar,_metástasis	normalWikiTitle:espongioblastoma_polar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95046	inCount:0	outCount:1	links:95046	url:9504/6	name:Espongioneuroblastoma, metástasis	normalName:espongioneuroblastoma,_metástasis	normalWikiTitle:espongioneuroblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95606	inCount:0	outCount:1	links:	url:9560/6	name:Neurilemoma maligno, metástasis	normalName:neurilemoma_maligno,_metástasis	normalWikiTitle:neurilemoma_maligno,_metástasis	predictedType:MOR_NEO
+ENTITY	text:lesiones líticas vertebrales	normalName:lesiones_líticas_vertebrales	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:lesiones líticas vertebrales	url:NaN
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95716	inCount:0	outCount:1	links:	url:9571/6	name:Perineuroma maligno, metástasis	normalName:perineuroma_maligno,_metástasis	normalWikiTitle:perineuroma_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:92740	inCount:0	outCount:1	links:	url:9274/0	name:Fibroma cementificante	normalName:fibroma_cementificante	normalWikiTitle:fibroma_cementificante	predictedType:MOR_NEO
+CANDIDATE	id:95023	inCount:5	outCount:1	links:	url:9502/3	name:Meduloepitelioma teratoide	normalName:meduloepitelioma_teratoide	normalWikiTitle:meduloepitelioma_teratoide	predictedType:MOR_NEO
+CANDIDATE	id:95046	inCount:0	outCount:1	links:95046	url:9504/6	name:Espongioneuroblastoma, metástasis	normalName:espongioneuroblastoma,_metástasis	normalWikiTitle:espongioneuroblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95026	inCount:0	outCount:1	links:	url:9502/6	name:Meduloepitelioma teratoide, metástasis	normalName:meduloepitelioma_teratoide,_metástasis	normalWikiTitle:meduloepitelioma_teratoide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:99823	inCount:1	outCount:1	links:	url:9982/3	name:Anemia refractaria con sideroblastos	normalName:anemia_refractaria_con_sideroblastos	normalWikiTitle:anemia_refractaria_con_sideroblastos	predictedType:MOR_NEO
+ENTITY	text:mieloma	normalName:mieloma	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:mieloma	url:NaN
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:93601	inCount:0	outCount:1	links:	url:9360/1	name:Pinealoma	normalName:pinealoma	normalWikiTitle:pinealoma	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:89820	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+CANDIDATE	id:97323	inCount:1	outCount:1	links:973236;97323	url:9732/3	name:Mieloma múltiple	normalName:mieloma_múltiple	normalWikiTitle:mieloma_múltiple	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
+CANDIDATE	id:99303	inCount:5	outCount:1	links:	url:9930/3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:86000	inCount:0	outCount:1	links:	url:8600/0	name:Tecoma, SAI	normalName:tecoma,_sai	normalWikiTitle:tecoma,_sai	predictedType:MOR_NEO
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:carcinoma	url:NaN
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:82313	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:814031	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:5	outCount:1	links:	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO
+ENTITY	text:mieloma múltiple	normalName:mieloma_múltiple	predictedType:MOR_NEO	q:true	qid:Q317	docId:S0210-48062007000200013-1	origText:mieloma múltiple	url:NaN
+CANDIDATE	id:97323	inCount:1	outCount:1	links:973236;97323	url:9732/3	name:Mieloma múltiple	normalName:mieloma_múltiple	normalWikiTitle:mieloma_múltiple	predictedType:MOR_NEO
+CANDIDATE	id:973236	inCount:0	outCount:1	links:97323	url:9732/36	name:Mieloma múltiple, - células B	normalName:mieloma_múltiple,_-_células_b	normalWikiTitle:mieloma_múltiple,_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:88700	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:80113	inCount:5	outCount:1	links:	url:8011/3	name:Epitelioma maligno	normalName:epitelioma_maligno	normalWikiTitle:epitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:82313	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:82210	inCount:0	outCount:1	links:	url:8221/0	name:Pólipos adenomatosos múltiples 	normalName:pólipos_adenomatosos_múltiples_	normalWikiTitle:pólipos_adenomatosos_múltiples_	predictedType:MOR_NEO
+CANDIDATE	id:83601	inCount:0	outCount:1	links:	url:8360/1	name:Adenomas endocrinos múltiples	normalName:adenomas_endocrinos_múltiples	normalWikiTitle:adenomas_endocrinos_múltiples	predictedType:MOR_NEO
+CANDIDATE	id:87283	inCount:5	outCount:1	links:	url:8728/3	name:Melanomatosis meníngea	normalName:melanomatosis_meníngea	normalWikiTitle:melanomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:89820	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO

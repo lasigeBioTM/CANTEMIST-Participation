@@ -1,0 +1,35 @@
+ENTITY	text:lesiones de tipo psoriásico	normalName:lesiones_de_tipo_psoriásico	predictedType:MOR_NEO	q:true	qid:Q272	docId:S0210-48062009000300018-1	origText:lesiones de tipo psoriásico	url:NaN
+CANDIDATE	id:91936	inCount:0	outCount:1	links:	url:9193/6	name:Osteosarcoma perióstico, metástasis	normalName:osteosarcoma_perióstico,_metástasis	normalWikiTitle:osteosarcoma_perióstico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91933	inCount:5	outCount:1	links:	url:9193/3	name:Osteosarcoma perióstico	normalName:osteosarcoma_perióstico	normalWikiTitle:osteosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:90906	inCount:0	outCount:1	links:	url:9090/6	name:Estruma ovárico maligno, metástasis	normalName:estruma_ovárico_maligno,_metástasis	normalWikiTitle:estruma_ovárico_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:88123	inCount:5	outCount:1	links:	url:8812/3	name:Fibrosarcoma perióstico	normalName:fibrosarcoma_perióstico	normalWikiTitle:fibrosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:91826	inCount:0	outCount:1	links:	url:9182/6	name:Osteosarcoma fibroblástico, metástasis	normalName:osteosarcoma_fibroblástico,_metástasis	normalWikiTitle:osteosarcoma_fibroblástico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93826	inCount:0	outCount:1	links:	url:9382/6	name:Glioma mixto, metástasis	normalName:glioma_mixto,_metástasis	normalWikiTitle:glioma_mixto,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:97411	inCount:0	outCount:1	links:	url:9741/1	name:Mastocitosis sistémica indolente	normalName:mastocitosis_sistémica_indolente	normalWikiTitle:mastocitosis_sistémica_indolente	predictedType:MOR_NEO
+CANDIDATE	id:88000	inCount:0	outCount:1	links:	url:8800/0	name:Tumor benigno de tejidos blandos	normalName:tumor_benigno_de_tejidos_blandos	normalWikiTitle:tumor_benigno_de_tejidos_blandos	predictedType:MOR_NEO
+CANDIDATE	id:88126	inCount:0	outCount:1	links:	url:8812/6	name:Fibrosarcoma perióstico, metástasis	normalName:fibrosarcoma_perióstico,_metástasis	normalWikiTitle:fibrosarcoma_perióstico,_metástasis	predictedType:MOR_NEO
+ENTITY	text:neo-escroto	normalName:neo-escroto	predictedType:MOR_NEO	q:true	qid:Q272	docId:S0210-48062009000300018-1	origText:neo-escroto	url:NaN
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:87003	inCount:5	outCount:1	links:	url:8700/3	name:Feocromocitoma maligno	normalName:feocromocitoma_maligno	normalWikiTitle:feocromocitoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:87600	inCount:0	outCount:1	links:	url:8760/0	name:Nevus compuesto	normalName:nevus_compuesto	normalWikiTitle:nevus_compuesto	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:90713	inCount:5	outCount:1	links:	url:9071/3	name:Tumor del saco vitelino	normalName:tumor_del_saco_vitelino	normalWikiTitle:tumor_del_saco_vitelino	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
+CANDIDATE	id:84090	inCount:0	outCount:1	links:	url:8409/0	name:Poroma ecrino	normalName:poroma_ecrino	normalWikiTitle:poroma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:87610	inCount:0	outCount:1	links:	url:8761/0	name:Nevus congénito pequeño	normalName:nevus_congénito_pequeño	normalWikiTitle:nevus_congénito_pequeño	predictedType:MOR_NEO
+CANDIDATE	id:83903	inCount:5	outCount:1	links:	url:8390/3	name:Carcinoma de los anexos cutáneos	normalName:carcinoma_de_los_anexos_cutáneos	normalWikiTitle:carcinoma_de_los_anexos_cutáneos	predictedType:MOR_NEO
+ENTITY	text:tumor mixoide hipocelular	normalName:tumor_mixoide_hipocelular	predictedType:MOR_NEO	q:true	qid:Q272	docId:S0210-48062009000300018-1	origText:tumor mixoide hipocelular	url:NaN
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:92410	inCount:0	outCount:1	links:	url:9241/0	name:Fibroma condromixoide	normalName:fibroma_condromixoide	normalWikiTitle:fibroma_condromixoide	predictedType:MOR_NEO
+CANDIDATE	id:81703	inCount:5	outCount:1	links:	url:8170/3	name:Carcinoma hepatocelular, SAI	normalName:carcinoma_hepatocelular,_sai	normalWikiTitle:carcinoma_hepatocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81723	inCount:5	outCount:1	links:	url:8172/3	name:Carcinoma hepatocelular escirro	normalName:carcinoma_hepatocelular_escirro	normalWikiTitle:carcinoma_hepatocelular_escirro	predictedType:MOR_NEO
+CANDIDATE	id:88620	inCount:0	outCount:1	links:	url:8862/0	name:Lipoma condroide	normalName:lipoma_condroide	normalWikiTitle:lipoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:88420	inCount:0	outCount:1	links:	url:8842/0	name:Tumor fibromixoide osificante	normalName:tumor_fibromixoide_osificante	normalWikiTitle:tumor_fibromixoide_osificante	predictedType:MOR_NEO
+CANDIDATE	id:81473	inCount:5	outCount:1	links:	url:8147/3	name:Adenocarcinoma basocelular	normalName:adenocarcinoma_basocelular	normalWikiTitle:adenocarcinoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:82451	inCount:0	outCount:1	links:	url:8245/1	name:Carcinoide tubular	normalName:carcinoide_tubular	normalWikiTitle:carcinoide_tubular	predictedType:MOR_NEO
+CANDIDATE	id:81000	inCount:0	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:81010	inCount:0	outCount:1	links:	url:8101/0	name:Tricofoliculoma	normalName:tricofoliculoma	normalWikiTitle:tricofoliculoma	predictedType:MOR_NEO
+ENTITY	text:angiomixoma	normalName:angiomixoma	predictedType:MOR_NEO	q:true	qid:Q272	docId:S0210-48062009000300018-1	origText:angiomixoma	url:NaN
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO

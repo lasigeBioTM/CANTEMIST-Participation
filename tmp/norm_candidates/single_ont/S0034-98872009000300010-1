@@ -1,0 +1,44 @@
+ENTITY	text:células malignas	normalName:células_malignas	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-98872009000300010-1	origText:células malignas	url:NaN
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:80023	inCount:5	outCount:1	links:	url:8002/3	name:Tumor maligno de células pequeñas	normalName:tumor_maligno_de_células_pequeñas	normalWikiTitle:tumor_maligno_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:959035	inCount:0	outCount:1	links:	url:9590/35	name:Linfoma maligno, SAI - células T	normalName:linfoma_maligno,_sai_-_células_t	normalWikiTitle:linfoma_maligno,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:959036	inCount:0	outCount:1	links:	url:9590/36	name:Linfoma maligno, SAI - células B	normalName:linfoma_maligno,_sai_-_células_b	normalWikiTitle:linfoma_maligno,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:959037	inCount:0	outCount:1	links:	url:9590/37	name:Linfoma maligno, SAI - células nulas	normalName:linfoma_maligno,_sai_-_células_nulas	normalWikiTitle:linfoma_maligno,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:959038	inCount:0	outCount:1	links:	url:9590/38	name:Linfoma maligno, SAI - células NK	normalName:linfoma_maligno,_sai_-_células_nk	normalWikiTitle:linfoma_maligno,_sai_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93103	inCount:5	outCount:1	links:	url:9310/3	name:Ameloblastoma maligno	normalName:ameloblastoma_maligno	normalWikiTitle:ameloblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+ENTITY	text:linfoma de células pequeñas	normalName:linfoma_de_células_pequeñas	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-98872009000300010-1	origText:linfoma de células pequeñas	url:NaN
+CANDIDATE	id:80463	inCount:5	outCount:1	links:	url:8046/3	name:Carcinoma, no de células pequeñas	normalName:carcinoma,_no_de_células_pequeñas	normalWikiTitle:carcinoma,_no_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:80413	inCount:5	outCount:1	links:	url:8041/3	name:Carcinoma de células pequeñas, SAI	normalName:carcinoma_de_células_pequeñas,_sai	normalWikiTitle:carcinoma_de_células_pequeñas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80453	inCount:5	outCount:1	links:	url:8045/3	name:Carcinoma combinado de células pequeñas	normalName:carcinoma_combinado_de_células_pequeñas	normalWikiTitle:carcinoma_combinado_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:80416	inCount:0	outCount:1	links:	url:8041/6	name:Carcinoma de células pequeñas, SAI, metástasis	normalName:carcinoma_de_células_pequeñas,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_pequeñas,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80466	inCount:0	outCount:1	links:	url:8046/6	name:Carcinoma, no de células pequeñas, metástasis	normalName:carcinoma,_no_de_células_pequeñas,_metástasis	normalWikiTitle:carcinoma,_no_de_células_pequeñas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:82143	inCount:5	outCount:1	links:	url:8214/3	name:Carcinoma de células parietales	normalName:carcinoma_de_células_parietales	normalWikiTitle:carcinoma_de_células_parietales	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:80433	inCount:5	outCount:1	links:	url:8043/3	name:Carcinoma de células pequeñas, tipo fusiforme	normalName:carcinoma_de_células_pequeñas,_tipo_fusiforme	normalWikiTitle:carcinoma_de_células_pequeñas,_tipo_fusiforme	predictedType:MOR_NEO
+CANDIDATE	id:83123	inCount:5	outCount:1	links:	url:8312/3	name:Carcinoma de células renales, SAI	normalName:carcinoma_de_células_renales,_sai	normalWikiTitle:carcinoma_de_células_renales,_sai	predictedType:MOR_NEO
+ENTITY	text:masa periaórtica	normalName:masa_periaórtica	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-98872009000300010-1	origText:masa periaórtica	url:NaN
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:88003	inCount:5	outCount:1	links:	url:8800/3	name:Sarcoma, SAI	normalName:sarcoma,_sai	normalWikiTitle:sarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90801	inCount:0	outCount:1	links:	url:9080/1	name:Teratoma, SAI	normalName:teratoma,_sai	normalWikiTitle:teratoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89353	inCount:5	outCount:1	links:	url:8935/3	name:Sarcoma estromal, SAI	normalName:sarcoma_estromal,_sai	normalWikiTitle:sarcoma_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90803	inCount:5	outCount:1	links:	url:9080/3	name:Teratoma maligno, SAI	normalName:teratoma_maligno,_sai	normalWikiTitle:teratoma_maligno,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81201	inCount:0	outCount:1	links:	url:8120/1	name:Papiloma urotelial, SAI	normalName:papiloma_urotelial,_sai	normalWikiTitle:papiloma_urotelial,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88123	inCount:5	outCount:1	links:	url:8812/3	name:Fibrosarcoma perióstico	normalName:fibrosarcoma_perióstico	normalWikiTitle:fibrosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:91933	inCount:5	outCount:1	links:	url:9193/3	name:Osteosarcoma perióstico	normalName:osteosarcoma_perióstico	normalWikiTitle:osteosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:99613	inCount:1	outCount:1	links:	url:9961/3	name:Mielofibrosis primaria	normalName:mielofibrosis_primaria	normalWikiTitle:mielofibrosis_primaria	predictedType:MOR_NEO
+ENTITY	text:LNH folicular de bajo grado	normalName:lnh_folicular_de_bajo_grado	predictedType:MOR_NEO	q:true	qid:Q151	docId:S0034-98872009000300010-1	origText:LNH folicular de bajo grado	url:NaN
+CANDIDATE	id:96913	inCount:1	outCount:1	links:	url:9691/3	name:Linfoma folicular, grado 2	normalName:linfoma_folicular,_grado_2	normalWikiTitle:linfoma_folicular,_grado_2	predictedType:MOR_NEO
+CANDIDATE	id:96953	inCount:1	outCount:1	links:	url:9695/3	name:Linfoma folicular grado 1	normalName:linfoma_folicular_grado_1	normalWikiTitle:linfoma_folicular_grado_1	predictedType:MOR_NEO
+CANDIDATE	id:96983	inCount:1	outCount:1	links:	url:9698/3	name:Linfoma folicular grado 3	normalName:linfoma_folicular_grado_3	normalWikiTitle:linfoma_folicular_grado_3	predictedType:MOR_NEO
+CANDIDATE	id:969136	inCount:0	outCount:1	links:	url:9691/36	name:Linfoma folicular, grado 2 - células B	normalName:linfoma_folicular,_grado_2_-_células_b	normalWikiTitle:linfoma_folicular,_grado_2_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:969536	inCount:0	outCount:1	links:	url:9695/36	name:Linfoma folicular grado 1 - células B	normalName:linfoma_folicular_grado_1_-_células_b	normalWikiTitle:linfoma_folicular_grado_1_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:969836	inCount:0	outCount:1	links:	url:9698/36	name:Linfoma folicular grado 3 - células B	normalName:linfoma_folicular_grado_3_-_células_b	normalWikiTitle:linfoma_folicular_grado_3_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:83463	inCount:5	outCount:1	links:	url:8346/3	name:Carcinoma mixto medular-folicular	normalName:carcinoma_mixto_medular-folicular	normalWikiTitle:carcinoma_mixto_medular-folicular	predictedType:MOR_NEO
+CANDIDATE	id:816031	inCount:0	outCount:1	links:	url:8160/31	name:Colangiocarcinoma - grado I, bien diferenciado	normalName:colangiocarcinoma_-_grado_i,_bien_diferenciado	normalWikiTitle:colangiocarcinoma_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:96903	inCount:1	outCount:1	links:	url:9690/3	name:Linfoma folicular, SAI	normalName:linfoma_folicular,_sai	normalWikiTitle:linfoma_folicular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83300	inCount:0	outCount:1	links:	url:8330/0	name:Adenoma folicular	normalName:adenoma_folicular	normalWikiTitle:adenoma_folicular	predictedType:MOR_NEO

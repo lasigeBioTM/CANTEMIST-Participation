@@ -1,0 +1,56 @@
+ENTITY	text:fibroodontoma ameloblástico	normalName:fibroodontoma_ameloblástico	predictedType:MOR_NEO	q:true	qid:Q10	docId:S1130-05582010000400003-1	origText:fibroodontoma ameloblástico	url:NaN
+CANDIDATE	id:93110	inCount:0	outCount:1	links:	url:9311/0	name:Odontoameloblastoma	normalName:odontoameloblastoma	normalWikiTitle:odontoameloblastoma	predictedType:MOR_NEO
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:88120	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:88123	inCount:5	outCount:1	links:	url:8812/3	name:Fibrosarcoma perióstico	normalName:fibrosarcoma_perióstico	normalWikiTitle:fibrosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:90100	inCount:0	outCount:1	links:	url:9010/0	name:Fibroadenoma, SAI	normalName:fibroadenoma,_sai	normalWikiTitle:fibroadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88303	inCount:5	outCount:1	links:	url:8830/3	name:Histiocitoma fibroso maligno	normalName:histiocitoma_fibroso_maligno	normalWikiTitle:histiocitoma_fibroso_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93220	inCount:0	outCount:1	links:93220	url:9322/0	name:Fibroma odontogénico periférico	normalName:fibroma_odontogénico_periférico	normalWikiTitle:fibroma_odontogénico_periférico	predictedType:MOR_NEO
+CANDIDATE	id:88116	inCount:0	outCount:1	links:	url:8811/6	name:Fibromixosarcoma, metástasis	normalName:fibromixosarcoma,_metástasis	normalWikiTitle:fibromixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:973535	inCount:0	outCount:1	links:	url:9735/35	name:Linfoma plasmoblástico - células T	normalName:linfoma_plasmoblástico_-_células_t	normalWikiTitle:linfoma_plasmoblástico_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:973536	inCount:0	outCount:1	links:	url:9735/36	name:Linfoma plasmoblástico - células B	normalName:linfoma_plasmoblástico_-_células_b	normalWikiTitle:linfoma_plasmoblástico_-_células_b	predictedType:MOR_NEO
+ENTITY	text:tumor odontogénico epitelial	normalName:tumor_odontogénico_epitelial	predictedType:MOR_NEO	q:true	qid:Q10	docId:S1130-05582010000400003-1	origText:tumor odontogénico epitelial	url:NaN
+CANDIDATE	id:81000	inCount:0	outCount:1	links:	url:8100/0	name:Tricoepitelioma	normalName:tricoepitelioma	normalWikiTitle:tricoepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:89830	inCount:0	outCount:1	links:	url:8983/0	name:Adenomioepitelioma	normalName:adenomioepitelioma	normalWikiTitle:adenomioepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:93200	inCount:0	outCount:1	links:93200	url:9320/0	name:Mixoma odontogénico	normalName:mixoma_odontogénico	normalWikiTitle:mixoma_odontogénico	predictedType:MOR_NEO
+CANDIDATE	id:80823	inCount:5	outCount:1	links:	url:8082/3	name:Carcinoma linfoepitelial	normalName:carcinoma_linfoepitelial	normalWikiTitle:carcinoma_linfoepitelial	predictedType:MOR_NEO
+CANDIDATE	id:89820	inCount:0	outCount:1	links:	url:8982/0	name:Mioepitelioma 	normalName:mioepitelioma_	normalWikiTitle:mioepitelioma_	predictedType:MOR_NEO
+CANDIDATE	id:89823	inCount:5	outCount:1	links:	url:8982/3	name:Mioepitelioma maligno	normalName:mioepitelioma_maligno	normalWikiTitle:mioepitelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:92701	inCount:0	outCount:1	links:	url:9270/1	name:Tumor odontogénico, SAI	normalName:tumor_odontogénico,_sai	normalWikiTitle:tumor_odontogénico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92703	inCount:5	outCount:1	links:92703	url:9270/3	name:Tumor odontogénico maligno	normalName:tumor_odontogénico_maligno	normalWikiTitle:tumor_odontogénico_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93220	inCount:0	outCount:1	links:93220	url:9322/0	name:Fibroma odontogénico periférico	normalName:fibroma_odontogénico_periférico	normalWikiTitle:fibroma_odontogénico_periférico	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q10	docId:S1130-05582010000400003-1	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO
+ENTITY	text:fibroma	normalName:fibroma	predictedType:MOR_NEO	q:true	qid:Q10	docId:S1130-05582010000400003-1	origText:fibroma	url:NaN
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88100	inCount:0	outCount:1	links:	url:8810/0	name:Fibroma, SAI	normalName:fibroma,_sai	normalWikiTitle:fibroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88110	inCount:0	outCount:1	links:	url:8811/0	name:Fibromixoma 	normalName:fibromixoma_	normalWikiTitle:fibromixoma_	predictedType:MOR_NEO
+CANDIDATE	id:88510	inCount:0	outCount:1	links:	url:8851/0	name:Fibrolipoma	normalName:fibrolipoma	normalWikiTitle:fibrolipoma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88101	inCount:0	outCount:1	links:	url:8810/1	name:Fibroma celular	normalName:fibroma_celular	normalWikiTitle:fibroma_celular	predictedType:MOR_NEO
+ENTITY	text:fibroma odontogénico	normalName:fibroma_odontogénico	predictedType:MOR_NEO	q:true	qid:Q10	docId:S1130-05582010000400003-1	origText:fibroma odontogénico	url:NaN
+CANDIDATE	id:93200	inCount:0	outCount:1	links:93200	url:9320/0	name:Mixoma odontogénico	normalName:mixoma_odontogénico	normalWikiTitle:mixoma_odontogénico	predictedType:MOR_NEO
+CANDIDATE	id:93210	inCount:0	outCount:1	links:	url:9321/0	name:Fibroma odontogénico central	normalName:fibroma_odontogénico_central	normalWikiTitle:fibroma_odontogénico_central	predictedType:MOR_NEO
+CANDIDATE	id:93220	inCount:0	outCount:1	links:93220	url:9322/0	name:Fibroma odontogénico periférico	normalName:fibroma_odontogénico_periférico	normalWikiTitle:fibroma_odontogénico_periférico	predictedType:MOR_NEO
+CANDIDATE	id:93423	inCount:5	outCount:1	links:	url:9342/3	name:Carcinosarcoma odontogénico	normalName:carcinosarcoma_odontogénico	normalWikiTitle:carcinosarcoma_odontogénico	predictedType:MOR_NEO
+CANDIDATE	id:89650	inCount:0	outCount:1	links:	url:8965/0	name:Adenofibroma nefrogénico	normalName:adenofibroma_nefrogénico	normalWikiTitle:adenofibroma_nefrogénico	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:88120	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:88241	inCount:0	outCount:1	links:	url:8824/1	name:Miofibromatosis	normalName:miofibromatosis	normalWikiTitle:miofibromatosis	predictedType:MOR_NEO
+CANDIDATE	id:92700	inCount:0	outCount:1	links:	url:9270/0	name:Tumor odontogénico benigno	normalName:tumor_odontogénico_benigno	normalWikiTitle:tumor_odontogénico_benigno	predictedType:MOR_NEO
+CANDIDATE	id:92703	inCount:5	outCount:1	links:92703	url:9270/3	name:Tumor odontogénico maligno	normalName:tumor_odontogénico_maligno	normalWikiTitle:tumor_odontogénico_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93426	inCount:0	outCount:1	links:	url:9342/6	name:Carcinosarcoma odontogénico, metástasis	normalName:carcinosarcoma_odontogénico,_metástasis	normalWikiTitle:carcinosarcoma_odontogénico,_metástasis	predictedType:MOR_NEO

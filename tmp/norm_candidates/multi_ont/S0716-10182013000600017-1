@@ -1,0 +1,42 @@
+ENTITY	text:cáncer cérvico-uterino	normalName:cáncer_cérvico-uterino	predictedType:MOR_NEO	q:true	qid:Q93	docId:S0716-10182013000600017-1	origText:cáncer cérvico-uterino	url:NaN
+CANDIDATE	id:82000	inCount:0	outCount:1	links:	url:8200/0	name:Cilindroma ecrino dérmico	normalName:cilindroma_ecrino_dérmico	normalWikiTitle:cilindroma_ecrino_dérmico	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:95213	inCount:5	outCount:1	links:	url:9521/3	name:Neurocitoma olfatorio	normalName:neurocitoma_olfatorio	normalWikiTitle:neurocitoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:84203	inCount:5	outCount:1	links:	url:8420/3	name:Adenocarcinoma ceruminoso	normalName:adenocarcinoma_ceruminoso	normalWikiTitle:adenocarcinoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:89813	inCount:5	outCount:1	links:	url:8981/3	name:Carcinosarcoma embrionario	normalName:carcinosarcoma_embrionario	normalWikiTitle:carcinosarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:84013	inCount:5	outCount:1	links:	url:8401/3	name:Adenocarcinoma apocrino	normalName:adenocarcinoma_apocrino	normalWikiTitle:adenocarcinoma_apocrino	predictedType:MOR_NEO
+CANDIDATE	id:84030	inCount:0	outCount:1	links:	url:8403/0	name:Espiradenoma ecrino	normalName:espiradenoma_ecrino	normalWikiTitle:espiradenoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:5	outCount:1	links:	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:93643	inCount:5	outCount:1	links:	url:9364/3	name:Tumor neuroectodérmico periférico	normalName:tumor_neuroectodérmico_periférico	normalWikiTitle:tumor_neuroectodérmico_periférico	predictedType:MOR_NEO
+CANDIDATE	id:8206	inCount:10	outCount:1	links:	url:C82.6	name:Linfoma centrofolicular cutáneo	normalName:linfoma_centrofolicular_cutáneo	normalWikiTitle:linfoma_centrofolicular_cutáneo	predictedType:MOR_NEO
+CANDIDATE	id:2205	inCount:0	outCount:1	links:	url:D22.5	name:Nevus melanocítico de tronco	normalName:nevus_melanocítico_de_tronco	normalWikiTitle:nevus_melanocítico_de_tronco	predictedType:MOR_NEO
+CANDIDATE	id:300093	inCount:0	outCount:1	links:	url:D3A.093	name:Tumor carcinoide benigno de riñón	normalName:tumor_carcinoide_benigno_de_riñón	normalWikiTitle:tumor_carcinoide_benigno_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:9509	inCount:3	outCount:1	links:	url:C95.9	name:Leucemia, no especificada	normalName:leucemia,_no_especificada	normalWikiTitle:leucemia,_no_especificada	predictedType:MOR_NEO
+CANDIDATE	id:609	inCount:0	outCount:1	links:	url:D06.9	name:Carcinoma in situ de cuello uterino,no especificado	normalName:carcinoma_in_situ_de_cuello_uterino,no_especificado	normalWikiTitle:carcinoma_in_situ_de_cuello_uterino,no_especificado	predictedType:MOR_NEO
+CANDIDATE	id:14675	inCount:4	outCount:1	links:	url:14675	name:nervio trigémino	normalName:nervio_trigémino	normalWikiTitle:nervio_trigémino	predictedType:MOR_NEO
+CANDIDATE	id:14994	inCount:0	outCount:1	links:	url:14994	name:inercia uterina	normalName:inercia_uterina	normalWikiTitle:inercia_uterina	predictedType:MOR_NEO
+CANDIDATE	id:10733	inCount:0	outCount:1	links:	url:10733	name:nervio peroneo	normalName:nervio_peroneo	normalWikiTitle:nervio_peroneo	predictedType:MOR_NEO
+CANDIDATE	id:54423	inCount:0	outCount:1	links:	url:54423	name:nervio pudendo	normalName:nervio_pudendo	normalWikiTitle:nervio_pudendo	predictedType:MOR_NEO
+CANDIDATE	id:290	inCount:4	outCount:1	links:	url:290	name:anexos uterinos	normalName:anexos_uterinos	normalWikiTitle:anexos_uterinos	predictedType:MOR_NEO
+ENTITY	text:lesiones pulmonares	normalName:lesiones_pulmonares	predictedType:MOR_NEO	q:true	qid:Q93	docId:S0716-10182013000600017-1	origText:lesiones pulmonares	url:NaN
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:82501	inCount:0	outCount:1	links:	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89726	inCount:0	outCount:1	links:	url:8972/6	name:Blastoma pulmonar, metástasis	normalName:blastoma_pulmonar,_metástasis	normalWikiTitle:blastoma_pulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89733	inCount:5	outCount:1	links:	url:8973/3	name:Blastoma pleuropulmonar	normalName:blastoma_pleuropulmonar	normalWikiTitle:blastoma_pleuropulmonar	predictedType:MOR_NEO
+CANDIDATE	id:95603	inCount:5	outCount:1	links:	url:9560/3	name:Neurilemoma maligno	normalName:neurilemoma_maligno	normalWikiTitle:neurilemoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:88900	inCount:0	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:89736	inCount:0	outCount:1	links:	url:8973/6	name:Blastoma pleuropulmonar, metástasis	normalName:blastoma_pleuropulmonar,_metástasis	normalWikiTitle:blastoma_pleuropulmonar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:4	outCount:1	links:	url:D3A.0	name:Tumores carcinoides benignos	normalName:tumores_carcinoides_benignos	normalWikiTitle:tumores_carcinoides_benignos	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:70	inCount:3	outCount:1	links:	url:C7A	name:Tumores malignos neuroendocrinos	normalName:tumores_malignos_neuroendocrinos	normalWikiTitle:tumores_malignos_neuroendocrinos	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:30	inCount:2	outCount:1	links:	url:D3A	name:Tumores neuroendocrinos benignos	normalName:tumores_neuroendocrinos_benignos	normalWikiTitle:tumores_neuroendocrinos_benignos	predictedType:MOR_NEO
+CANDIDATE	id:53085	inCount:5	outCount:2	links:	url:53085	name:lesión pulmonar	normalName:lesión_pulmonar	normalWikiTitle:lesión_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:28016	inCount:6	outCount:2	links:	url:28016	name:lesiones oculares	normalName:lesiones_oculares	normalWikiTitle:lesiones_oculares	predictedType:MOR_NEO
+CANDIDATE	id:12087	inCount:2	outCount:1	links:	url:12087	name:alveolos pulmonares	normalName:alveolos_pulmonares	normalWikiTitle:alveolos_pulmonares	predictedType:MOR_NEO
+CANDIDATE	id:8352	inCount:7	outCount:2	links:	url:8352	name:neoplasias pulmonares	normalName:neoplasias_pulmonares	normalWikiTitle:neoplasias_pulmonares	predictedType:MOR_NEO
+CANDIDATE	id:38642	inCount:1	outCount:1	links:	url:38642	name:lesiones prenatales	normalName:lesiones_prenatales	normalWikiTitle:lesiones_prenatales	predictedType:MOR_NEO

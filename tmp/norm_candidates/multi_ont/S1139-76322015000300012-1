@@ -1,0 +1,63 @@
+ENTITY	text:neoplasia fibrilar	normalName:neoplasia_fibrilar	predictedType:MOR_NEO	q:true	qid:Q225	docId:S1139-76322015000300012-1	origText:neoplasia fibrilar	url:NaN
+CANDIDATE	id:94203	inCount:5	outCount:1	links:942034;942033;942032;94203	url:9420/3	name:Astrocitoma fibrilar	normalName:astrocitoma_fibrilar	normalWikiTitle:astrocitoma_fibrilar	predictedType:MOR_NEO
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplásico	normalName:fibroma_desmoplásico	normalWikiTitle:fibroma_desmoplásico	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88130	inCount:0	outCount:1	links:	url:8813/0	name:Fibroma fascial	normalName:fibroma_fascial	normalWikiTitle:fibroma_fascial	predictedType:MOR_NEO
+CANDIDATE	id:82110	inCount:0	outCount:1	links:	url:8211/0	name:Adenoma tubular, SAI	normalName:adenoma_tubular,_sai	normalWikiTitle:adenoma_tubular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88133	inCount:5	outCount:1	links:	url:8813/3	name:Fibrosarcoma fascial	normalName:fibrosarcoma_fascial	normalWikiTitle:fibrosarcoma_fascial	predictedType:MOR_NEO
+CANDIDATE	id:93300	inCount:0	outCount:1	links:	url:9330/0	name:Fibroma ameloblástico	normalName:fibroma_ameloblástico	normalWikiTitle:fibroma_ameloblástico	predictedType:MOR_NEO
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:81630	inCount:0	outCount:1	links:	url:8163/0	name:Neoplasia pancreatobiliar, no invasiva	normalName:neoplasia_pancreatobiliar,_no_invasiva	normalWikiTitle:neoplasia_pancreatobiliar,_no_invasiva	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:6906	inCount:3	outCount:1	links:	url:C69.6	name:Neoplasia maligna de órbita	normalName:neoplasia_maligna_de_órbita	normalWikiTitle:neoplasia_maligna_de_órbita	predictedType:MOR_NEO
+CANDIDATE	id:6902	inCount:3	outCount:1	links:	url:C69.2	name:Neoplasia maligna de retina	normalName:neoplasia_maligna_de_retina	normalWikiTitle:neoplasia_maligna_de_retina	predictedType:MOR_NEO
+CANDIDATE	id:3102	inCount:3	outCount:1	links:	url:D31.2	name:Neoplasia benigna de retina	normalName:neoplasia_benigna_de_retina	normalWikiTitle:neoplasia_benigna_de_retina	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:3	outCount:1	links:	url:D30.0	name:Neoplasia benigna de riñón	normalName:neoplasia_benigna_de_riñón	normalWikiTitle:neoplasia_benigna_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:9559	inCount:0	outCount:1	links:	url:9559	name:siembra neoplásica	normalName:siembra_neoplásica	normalWikiTitle:siembra_neoplásica	predictedType:MOR_NEO
+CANDIDATE	id:10229	inCount:9	outCount:3	links:	url:10229	name:neoplasias ováricas	normalName:neoplasias_ováricas	normalWikiTitle:neoplasias_ováricas	predictedType:MOR_NEO
+CANDIDATE	id:22589	inCount:0	outCount:3	links:	url:22589	name:neoplasias orbitarias	normalName:neoplasias_orbitarias	normalWikiTitle:neoplasias_orbitarias	predictedType:MOR_NEO
+CANDIDATE	id:24372	inCount:0	outCount:1	links:	url:24372	name:neoplasias tonsilares	normalName:neoplasias_tonsilares	normalWikiTitle:neoplasias_tonsilares	predictedType:MOR_NEO
+CANDIDATE	id:32119	inCount:0	outCount:1	links:	url:32119	name:neoplasia residual	normalName:neoplasia_residual	normalWikiTitle:neoplasia_residual	predictedType:MOR_NEO
+ENTITY	text:astrocitoma fibrilar difuso grado II de la OMS	normalName:astrocitoma_fibrilar_difuso_grado_ii_de_la_oms	predictedType:MOR_NEO	q:true	qid:Q225	docId:S1139-76322015000300012-1	origText:astrocitoma fibrilar difuso grado II de la OMS	url:NaN
+CANDIDATE	id:942034	inCount:0	outCount:1	links:94203	url:9420/34	name:Astrocitoma fibrilar - grado IV, indiferenciado	normalName:astrocitoma_fibrilar_-_grado_iv,_indiferenciado	normalWikiTitle:astrocitoma_fibrilar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94206	inCount:0	outCount:1	links:	url:9420/6	name:Astrocitoma fibrilar, metástasis	normalName:astrocitoma_fibrilar,_metástasis	normalWikiTitle:astrocitoma_fibrilar,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:940032	inCount:0	outCount:1	links:	url:9400/32	name:Astrocitoma, SAI - grado II, moderadamente diferenciado	normalName:astrocitoma,_sai_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:astrocitoma,_sai_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:942032	inCount:0	outCount:1	links:94203	url:9420/32	name:Astrocitoma fibrilar - grado II, moderadamente diferenciado	normalName:astrocitoma_fibrilar_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:astrocitoma_fibrilar_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:94203	inCount:5	outCount:1	links:942034;942033;942032;94203	url:9420/3	name:Astrocitoma fibrilar	normalName:astrocitoma_fibrilar	normalWikiTitle:astrocitoma_fibrilar	predictedType:MOR_NEO
+CANDIDATE	id:940033	inCount:0	outCount:1	links:	url:9400/33	name:Astrocitoma, SAI - grado III, pobremente diferenciado	normalName:astrocitoma,_sai_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:astrocitoma,_sai_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:941132	inCount:0	outCount:1	links:	url:9411/32	name:Astrocitoma gemistocítico - grado II, moderadamente diferenciado	normalName:astrocitoma_gemistocítico_-_grado_ii,_moderadamente_diferenciado	normalWikiTitle:astrocitoma_gemistocítico_-_grado_ii,_moderadamente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:942531	inCount:0	outCount:1	links:	url:9425/31	name:Astrocitoma pilomixoide - grado I, bien diferenciado	normalName:astrocitoma_pilomixoide_-_grado_i,_bien_diferenciado	normalWikiTitle:astrocitoma_pilomixoide_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:942033	inCount:0	outCount:1	links:94203	url:9420/33	name:Astrocitoma fibrilar - grado III, pobremente diferenciado	normalName:astrocitoma_fibrilar_-_grado_iii,_pobremente_diferenciado	normalWikiTitle:astrocitoma_fibrilar_-_grado_iii,_pobremente_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:940031	inCount:0	outCount:1	links:	url:9400/31	name:Astrocitoma, SAI - grado I, bien diferenciado	normalName:astrocitoma,_sai_-_grado_i,_bien_diferenciado	normalWikiTitle:astrocitoma,_sai_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:82057	inCount:0	outCount:1	links:	url:C82.57	name:Linfoma difuso centrofolicular, bazo	normalName:linfoma_difuso_centrofolicular,_bazo	normalWikiTitle:linfoma_difuso_centrofolicular,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:8205	inCount:10	outCount:1	links:	url:C82.5	name:Linfoma difuso centrofolicular	normalName:linfoma_difuso_centrofolicular	normalWikiTitle:linfoma_difuso_centrofolicular	predictedType:MOR_NEO
+CANDIDATE	id:82053	inCount:0	outCount:1	links:	url:C82.53	name:Linfoma difuso centrofolicular, ganglios linfáticos intraabdominales	normalName:linfoma_difuso_centrofolicular,_ganglios_linfáticos_intraabdominales	normalWikiTitle:linfoma_difuso_centrofolicular,_ganglios_linfáticos_intraabdominales	predictedType:MOR_NEO
+CANDIDATE	id:83037	inCount:0	outCount:1	links:	url:C83.37	name:Linfoma difuso de células B grandes, bazo	normalName:linfoma_difuso_de_células_b_grandes,_bazo	normalWikiTitle:linfoma_difuso_de_células_b_grandes,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:90032	inCount:0	outCount:1	links:	url:C90.32	name:Plasmocitoma solitario, en recidiva	normalName:plasmocitoma_solitario,_en_recidiva	normalWikiTitle:plasmocitoma_solitario,_en_recidiva	predictedType:MOR_NEO
+CANDIDATE	id:5705	inCount:0	outCount:1	links:	url:5705	name:formularios odontológicos como asunto	normalName:formularios_odontológicos_como_asunto	normalWikiTitle:formularios_odontológicos_como_asunto	predictedType:MOR_NEO
+CANDIDATE	id:5707	inCount:0	outCount:1	links:	url:5707	name:formularios hospitalarios como asunto	normalName:formularios_hospitalarios_como_asunto	normalWikiTitle:formularios_hospitalarios_como_asunto	predictedType:MOR_NEO
+CANDIDATE	id:1692	inCount:0	outCount:1	links:	url:1692	name:biobibliografía como asunto	normalName:biobibliografía_como_asunto	normalWikiTitle:biobibliografía_como_asunto	predictedType:MOR_NEO
+CANDIDATE	id:5706	inCount:0	outCount:2	links:	url:5706	name:formularios homeopáticos como asunto	normalName:formularios_homeopáticos_como_asunto	normalWikiTitle:formularios_homeopáticos_como_asunto	predictedType:MOR_NEO
+CANDIDATE	id:9100	inCount:0	outCount:2	links:91003	url:9100	name:sitios de histocompatibilidad secundaria	normalName:sitios_de_histocompatibilidad_secundaria	normalWikiTitle:sitios_de_histocompatibilidad_secundaria	predictedType:MOR_NEO
+ENTITY	text:tumoración	normalName:tumoración	predictedType:MOR_NEO	q:true	qid:Q225	docId:S1139-76322015000300012-1	origText:tumoración	url:NaN
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:90713	inCount:5	outCount:1	links:	url:9071/3	name:Tumor del saco vitelino	normalName:tumor_del_saco_vitelino	normalWikiTitle:tumor_del_saco_vitelino	predictedType:MOR_NEO
+CANDIDATE	id:91003	inCount:5	outCount:1	links:9100	url:9100/3	name:Coriocarcinoma, SAI	normalName:coriocarcinoma,_sai	normalWikiTitle:coriocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:85013	inCount:5	outCount:1	links:	url:8501/3	name:Comedocarcinoma, SAI	normalName:comedocarcinoma,_sai	normalWikiTitle:comedocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87422	inCount:5	outCount:1	links:	url:8742/2	name:Léntigo maligno	normalName:léntigo_maligno	normalWikiTitle:léntigo_maligno	predictedType:MOR_NEO
+CANDIDATE	id:91	inCount:9	outCount:1	links:	url:C91	name:Leucemia linfoide	normalName:leucemia_linfoide	normalWikiTitle:leucemia_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:13927	inCount:0	outCount:2	links:	url:13927	name:sudoración	normalName:sudoración	normalWikiTitle:sudoración	predictedType:MOR_NEO
+CANDIDATE	id:25184	inCount:0	outCount:2	links:	url:25184	name:facturación	normalName:facturación	normalWikiTitle:facturación	predictedType:MOR_NEO
+CANDIDATE	id:25587	inCount:2	outCount:1	links:	url:25587	name:trituración	normalName:trituración	normalWikiTitle:trituración	predictedType:MOR_NEO
+CANDIDATE	id:54313	inCount:0	outCount:1	links:	url:54313	name:sumoilación	normalName:sumoilación	normalWikiTitle:sumoilación	predictedType:MOR_NEO
+CANDIDATE	id:56049	inCount:0	outCount:1	links:	url:56049	name:morcelación	normalName:morcelación	normalWikiTitle:morcelación	predictedType:MOR_NEO

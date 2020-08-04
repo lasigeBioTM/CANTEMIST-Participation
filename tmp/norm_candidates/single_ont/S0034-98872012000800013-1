@@ -1,0 +1,22 @@
+ENTITY	text:timoma tipo linfocítico	normalName:timoma_tipo_linfocítico	predictedType:MOR_NEO	q:true	qid:Q4	docId:S0034-98872012000800013-1	origText:timoma tipo linfocítico	url:NaN
+CANDIDATE	id:94211	inCount:0	outCount:1	links:	url:9421/1	name:Astrocitoma pilocítico	normalName:astrocitoma_pilocítico	normalWikiTitle:astrocitoma_pilocítico	predictedType:MOR_NEO
+CANDIDATE	id:98323	inCount:5	outCount:1	links:	url:9832/3	name:Leucemia prolinfocítica, SAI	normalName:leucemia_prolinfocítica,_sai	normalWikiTitle:leucemia_prolinfocítica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94113	inCount:5	outCount:1	links:	url:9411/3	name:Astrocitoma gemistocítico	normalName:astrocitoma_gemistocítico	normalWikiTitle:astrocitoma_gemistocítico	predictedType:MOR_NEO
+CANDIDATE	id:96713	inCount:1	outCount:1	links:	url:9671/3	name:Linfoma maligno linfoplasmocítico	normalName:linfoma_maligno_linfoplasmocítico	normalWikiTitle:linfoma_maligno_linfoplasmocítico	predictedType:MOR_NEO
+CANDIDATE	id:85811	inCount:0	outCount:1	links:	url:8581/1	name:Timoma tipo A, SAI	normalName:timoma_tipo_a,_sai	normalWikiTitle:timoma_tipo_a,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88120	inCount:0	outCount:1	links:	url:8812/0	name:Fibroma perióstico	normalName:fibroma_perióstico	normalWikiTitle:fibroma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:97353	inCount:5	outCount:1	links:	url:9735/3	name:Linfoma plasmoblástico	normalName:linfoma_plasmoblástico	normalWikiTitle:linfoma_plasmoblástico	predictedType:MOR_NEO
+CANDIDATE	id:85821	inCount:0	outCount:1	links:	url:8582/1	name:Timoma tipo AB, SAI	normalName:timoma_tipo_ab,_sai	normalWikiTitle:timoma_tipo_ab,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85831	inCount:0	outCount:1	links:	url:8583/1	name:Timoma tipo B1, SAI	normalName:timoma_tipo_b1,_sai	normalWikiTitle:timoma_tipo_b1,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85841	inCount:0	outCount:1	links:	url:8584/1	name:Timoma tipo B2, SAI	normalName:timoma_tipo_b2,_sai	normalWikiTitle:timoma_tipo_b2,_sai	predictedType:MOR_NEO
+ENTITY	text:timoma	normalName:timoma	predictedType:MOR_NEO	q:true	qid:Q4	docId:S0034-98872012000800013-1	origText:timoma	url:NaN
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:81020	inCount:0	outCount:1	links:	url:8102/0	name:Tricolemoma	normalName:tricolemoma	normalWikiTitle:tricolemoma	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:85800	inCount:0	outCount:1	links:	url:8580/0	name:Timoma benigno	normalName:timoma_benigno	normalWikiTitle:timoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:88110	inCount:0	outCount:1	links:	url:8811/0	name:Fibromixoma 	normalName:fibromixoma_	normalWikiTitle:fibromixoma_	predictedType:MOR_NEO
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO
+CANDIDATE	id:94321	inCount:0	outCount:1	links:	url:9432/1	name:Pituicitoma	normalName:pituicitoma	normalWikiTitle:pituicitoma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO

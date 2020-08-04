@@ -1,0 +1,11 @@
+ENTITY	text:hepatocarcinoma metastásico	normalName:hepatocarcinoma_metastásico	predictedType:MOR_NEO	q:true	qid:Q172	docId:caso_clinico_radiologia63	origText:hepatocarcinoma metastásico	url:NaN
+CANDIDATE	id:80106	inCount:0	outCount:1	links:	url:8010/6	name:Carcinoma metastásico, SAI	normalName:carcinoma_metastásico,_sai	normalWikiTitle:carcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80953	inCount:5	outCount:1	links:	url:8095/3	name:Carcinoma metatípico	normalName:carcinoma_metatípico	normalWikiTitle:carcinoma_metatípico	predictedType:MOR_NEO
+CANDIDATE	id:81406	inCount:0	outCount:1	links:	url:8140/6	name:Adenocarcinoma metastásico, SAI	normalName:adenocarcinoma_metastásico,_sai	normalWikiTitle:adenocarcinoma_metastásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84106	inCount:0	outCount:1	links:	url:8410/6	name:Adenocarcinoma sebáceo, metástasis	normalName:adenocarcinoma_sebáceo,_metástasis	normalWikiTitle:adenocarcinoma_sebáceo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81606	inCount:0	outCount:1	links:	url:8160/6	name:Colangiocarcinoma, metástasis	normalName:colangiocarcinoma,_metástasis	normalWikiTitle:colangiocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:83006	inCount:0	outCount:1	links:	url:8300/6	name:Carcinoma basófilo, metástasis	normalName:carcinoma_basófilo,_metástasis	normalWikiTitle:carcinoma_basófilo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85753	inCount:5	outCount:1	links:	url:8575/3	name:Carcinoma metaplásico, SAI	normalName:carcinoma_metaplásico,_sai	normalWikiTitle:carcinoma_metaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89706	inCount:0	outCount:1	links:	url:8970/6	name:Hepatoblastoma, metástasis	normalName:hepatoblastoma,_metástasis	normalWikiTitle:hepatoblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82806	inCount:0	outCount:1	links:	url:8280/6	name:Carcinoma acidófilo, metástasis	normalName:carcinoma_acidófilo,_metástasis	normalWikiTitle:carcinoma_acidófilo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82906	inCount:0	outCount:1	links:	url:8290/6	name:Adenocarcinoma oxífilo, metástasis	normalName:adenocarcinoma_oxífilo,_metástasis	normalWikiTitle:adenocarcinoma_oxífilo,_metástasis	predictedType:MOR_NEO

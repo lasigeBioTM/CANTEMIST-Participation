@@ -1,0 +1,22 @@
+ENTITY	text:tumor de células fusiformes	normalName:tumor_de_células_fusiformes	predictedType:MOR_NEO	q:true	qid:Q1611	docId:S1130-01082008001200016-1	origText:tumor de células fusiformes	url:NaN
+CANDIDATE	id:80323	inCount:5	outCount:1	links:	url:8032/3	name:Carcinoma de células fusiformes, SAI	normalName:carcinoma_de_células_fusiformes,_sai	normalWikiTitle:carcinoma_de_células_fusiformes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80043	inCount:5	outCount:1	links:	url:8004/3	name:Tumor maligno de células fusiformes	normalName:tumor_maligno_de_células_fusiformes	normalWikiTitle:tumor_maligno_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:87733	inCount:5	outCount:1	links:	url:8773/3	name:Melanoma de células fusiformes, tipo A	normalName:melanoma_de_células_fusiformes,_tipo_a	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_a	predictedType:MOR_NEO
+CANDIDATE	id:87743	inCount:5	outCount:1	links:	url:8774/3	name:Melanoma de células fusiformes, tipo B	normalName:melanoma_de_células_fusiformes,_tipo_b	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_b	predictedType:MOR_NEO
+CANDIDATE	id:89123	inCount:5	outCount:1	links:	url:8912/3	name:Rabdomiosarcoma de células fusiformes	normalName:rabdomiosarcoma_de_células_fusiformes	normalWikiTitle:rabdomiosarcoma_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80303	inCount:5	outCount:1	links:	url:8030/3	name:Carcinoma de células gigantes y fusiformes	normalName:carcinoma_de_células_gigantes_y_fusiformes	normalWikiTitle:carcinoma_de_células_gigantes_y_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80433	inCount:5	outCount:1	links:	url:8043/3	name:Carcinoma de células pequeñas, tipo fusiforme	normalName:carcinoma_de_células_pequeñas,_tipo_fusiforme	normalWikiTitle:carcinoma_de_células_pequeñas,_tipo_fusiforme	predictedType:MOR_NEO
+CANDIDATE	id:80743	inCount:5	outCount:1	links:	url:8074/3	name:Carcinoma epidermoide de células fusiformes	normalName:carcinoma_epidermoide_de_células_fusiformes	normalWikiTitle:carcinoma_epidermoide_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80326	inCount:0	outCount:1	links:	url:8032/6	name:Carcinoma de células fusiformes, SAI, metástasis	normalName:carcinoma_de_células_fusiformes,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_fusiformes,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87700	inCount:0	outCount:1	links:	url:8770/0	name:Nevus de células epitelioides y fusiformes	normalName:nevus_de_células_epitelioides_y_fusiformes	normalWikiTitle:nevus_de_células_epitelioides_y_fusiformes	predictedType:MOR_NEO
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q1611	docId:S1130-01082008001200016-1	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metástasis	normalName:gliosarcoma,_metástasis	normalWikiTitle:gliosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metástasis	normalName:adenosarcoma,_metástasis	normalWikiTitle:adenosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO

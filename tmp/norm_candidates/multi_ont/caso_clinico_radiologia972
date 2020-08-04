@@ -1,0 +1,42 @@
+ENTITY	text:Implante coclear	normalName:implante_coclear	predictedType:MOR_NEO	q:true	qid:Q1863	docId:caso_clinico_radiologia972	origText:Implante coclear	url:NaN
+CANDIDATE	id:86003	inCount:5	outCount:1	links:	url:8600/3	name:Tecoma maligno	normalName:tecoma_maligno	normalWikiTitle:tecoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87303	inCount:5	outCount:1	links:	url:8730/3	name:Melanoma amelanótico	normalName:melanoma_amelanótico	normalWikiTitle:melanoma_amelanótico	predictedType:MOR_NEO
+CANDIDATE	id:87213	inCount:5	outCount:1	links:	url:8721/3	name:Melanoma nodular	normalName:melanoma_nodular	normalWikiTitle:melanoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:83910	inCount:0	outCount:1	links:	url:8391/0	name:Fibroma folicular	normalName:fibroma_folicular	normalWikiTitle:fibroma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:91953	inCount:5	outCount:1	links:	url:9195/3	name:Osteosarcoma intracortical	normalName:osteosarcoma_intracortical	normalWikiTitle:osteosarcoma_intracortical	predictedType:MOR_NEO
+CANDIDATE	id:81703	inCount:5	outCount:1	links:	url:8170/3	name:Carcinoma hepatocelular, SAI	normalName:carcinoma_hepatocelular,_sai	normalWikiTitle:carcinoma_hepatocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81900	inCount:0	outCount:1	links:	url:8190/0	name:Adenoma trabecular	normalName:adenoma_trabecular	normalWikiTitle:adenoma_trabecular	predictedType:MOR_NEO
+CANDIDATE	id:87260	inCount:0	outCount:1	links:	url:8726/0	name:Nevus magnocelular	normalName:nevus_magnocelular	normalWikiTitle:nevus_magnocelular	predictedType:MOR_NEO
+CANDIDATE	id:95410	inCount:0	outCount:1	links:	url:9541/0	name:Neurofibroma melanótico	normalName:neurofibroma_melanótico	normalWikiTitle:neurofibroma_melanótico	predictedType:MOR_NEO
+CANDIDATE	id:22	inCount:9	outCount:1	links:	url:D22	name:Nevus melanocítico	normalName:nevus_melanocítico	normalWikiTitle:nevus_melanocítico	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:7601	inCount:0	outCount:1	links:	url:C76.1	name:Neoplasia maligna de tórax	normalName:neoplasia_maligna_de_tórax	normalWikiTitle:neoplasia_maligna_de_tórax	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:10	outCount:1	links:	url:D03	name:Melanoma in situ	normalName:melanoma_in_situ	normalWikiTitle:melanoma_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:4702	inCount:0	outCount:1	links:	url:D47.2	name:Gammapatía monoclonal	normalName:gammapatía_monoclonal	normalWikiTitle:gammapatía_monoclonal	predictedType:MOR_NEO
+CANDIDATE	id:13942	inCount:2	outCount:1	links:	url:13942	name:simpatectomía	normalName:simpatectomía	normalWikiTitle:simpatectomía	predictedType:MOR_NEO
+CANDIDATE	id:51864	inCount:0	outCount:1	links:	url:51864	name:tecnología limpia	normalName:tecnología_limpia	normalWikiTitle:tecnología_limpia	predictedType:MOR_NEO
+CANDIDATE	id:32138	inCount:0	outCount:1	links:	url:32138	name:implantes de Molteno	normalName:implantes_de_molteno	normalWikiTitle:implantes_de_molteno	predictedType:MOR_NEO
+CANDIDATE	id:33881	inCount:0	outCount:1	links:	url:33881	name:implantes orbitarios	normalName:implantes_orbitarios	normalWikiTitle:implantes_orbitarios	predictedType:MOR_NEO
+CANDIDATE	id:34120	inCount:0	outCount:1	links:	url:34120	name:Pantoea	normalName:pantoea	normalWikiTitle:pantoea	predictedType:MOR_NEO
+ENTITY	text:CBCT	normalName:cbct	predictedType:MOR_NEO	q:true	qid:Q1863	docId:caso_clinico_radiologia972	origText:CBCT	url:NaN
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:99623	inCount:1	outCount:1	links:	url:9962/3	name:Trombocitemia esencial	normalName:trombocitemia_esencial	normalWikiTitle:trombocitemia_esencial	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:88301	inCount:0	outCount:1	links:	url:8830/1	name:Fibrohistiocitoma atípico	normalName:fibrohistiocitoma_atípico	normalWikiTitle:fibrohistiocitoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:82451	inCount:0	outCount:1	links:	url:8245/1	name:Carcinoide tubular	normalName:carcinoide_tubular	normalWikiTitle:carcinoide_tubular	predictedType:MOR_NEO
+CANDIDATE	id:87000	inCount:0	outCount:1	links:	url:8700/0	name:Feocromocitoma, SAI	normalName:feocromocitoma,_sai	normalWikiTitle:feocromocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91813	inCount:5	outCount:1	links:	url:9181/3	name:Osteosarcoma condroblástico	normalName:osteosarcoma_condroblástico	normalWikiTitle:osteosarcoma_condroblástico	predictedType:MOR_NEO
+CANDIDATE	id:92300	inCount:0	outCount:1	links:	url:9230/0	name:Condroblastoma, SAI	normalName:condroblastoma,_sai	normalWikiTitle:condroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92620	inCount:0	outCount:1	links:	url:9262/0	name:Fibroma osificante	normalName:fibroma_osificante	normalWikiTitle:fibroma_osificante	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:9403	inCount:3	outCount:1	links:	url:C94.3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:4703	inCount:0	outCount:1	links:	url:D47.3	name:Trombocitemia esencial (hemorrágica)	normalName:trombocitemia_esencial_(hemorrágica)	normalWikiTitle:trombocitemia_esencial_(hemorrágica)	predictedType:MOR_NEO
+CANDIDATE	id:14856	inCount:1	outCount:1	links:	url:14856	name:cúbito	normalName:cúbito	normalWikiTitle:cúbito	predictedType:MOR_NEO
+CANDIDATE	id:35672	inCount:0	outCount:2	links:	url:35672	name:Cicuta	normalName:cicuta	normalWikiTitle:cicuta	predictedType:MOR_NEO
+CANDIDATE	id:34082	inCount:0	outCount:2	links:	url:34082	name:Arcobacter	normalName:arcobacter	normalWikiTitle:arcobacter	predictedType:MOR_NEO
+CANDIDATE	id:55886	inCount:1	outCount:2	links:	url:55886	name:cobicistat	normalName:cobicistat	normalWikiTitle:cobicistat	predictedType:MOR_NEO
+CANDIDATE	id:2648	inCount:0	outCount:1	links:	url:2648	name:carácter	normalName:carácter	normalWikiTitle:carácter	predictedType:MOR_NEO

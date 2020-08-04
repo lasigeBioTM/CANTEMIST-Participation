@@ -1,0 +1,33 @@
+ENTITY	text:leucemia linfoblástica aguda	normalName:leucemia_linfoblástica_aguda	predictedType:MOR_NEO	q:true	qid:Q1559	docId:S0325-00752010000600016-1	origText:leucemia linfoblástica aguda	url:NaN
+CANDIDATE	id:98323	inCount:5	outCount:1	links:	url:9832/3	name:Leucemia prolinfocítica, SAI	normalName:leucemia_prolinfocítica,_sai	normalWikiTitle:leucemia_prolinfocítica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:5	outCount:1	links:98203	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98113	inCount:1	outCount:1	links:	url:9811/3	name:Leucemia/linfoma linfoblástica tipo B, SAI	normalName:leucemia/linfoma_linfoblástica_tipo_b,_sai	normalWikiTitle:leucemia/linfoma_linfoblástica_tipo_b,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98363	inCount:5	outCount:1	links:	url:9836/3	name:Leucemia linfoblástica de células B precursoras	normalName:leucemia_linfoblástica_de_células_b_precursoras	normalWikiTitle:leucemia_linfoblástica_de_células_b_precursoras	predictedType:MOR_NEO
+CANDIDATE	id:98373	inCount:1	outCount:1	links:	url:9837/3	name:Leucemia linfoblástica de células T precursoras	normalName:leucemia_linfoblástica_de_células_t_precursoras	normalWikiTitle:leucemia_linfoblástica_de_células_t_precursoras	predictedType:MOR_NEO
+CANDIDATE	id:98353	inCount:5	outCount:1	links:	url:9835/3	name:Leucemia linfoblástica de células precursoras, SAI	normalName:leucemia_linfoblástica_de_células_precursoras,_sai	normalWikiTitle:leucemia_linfoblástica_de_células_precursoras,_sai	predictedType:MOR_NEO
+CANDIDATE	id:99103	inCount:5	outCount:1	links:	url:9910/3	name:Leucemia megacarioblástica aguda	normalName:leucemia_megacarioblástica_aguda	normalWikiTitle:leucemia_megacarioblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:981136	inCount:0	outCount:1	links:	url:9811/36	name:Leucemia/linfoma linfoblástica tipo B, SAI - células B	normalName:leucemia/linfoma_linfoblástica_tipo_b,_sai_-_células_b	normalWikiTitle:leucemia/linfoma_linfoblástica_tipo_b,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:983235	inCount:0	outCount:1	links:	url:9832/35	name:Leucemia prolinfocítica, SAI - células T	normalName:leucemia_prolinfocítica,_sai_-_células_t	normalWikiTitle:leucemia_prolinfocítica,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:983236	inCount:0	outCount:1	links:	url:9832/36	name:Leucemia prolinfocítica, SAI - células B	normalName:leucemia_prolinfocítica,_sai_-_células_b	normalWikiTitle:leucemia_prolinfocítica,_sai_-_células_b	predictedType:MOR_NEO
+ENTITY	text:leucemia	normalName:leucemia	predictedType:MOR_NEO	q:true	qid:Q1559	docId:S0325-00752010000600016-1	origText:leucemia	url:NaN
+CANDIDATE	id:98003	inCount:5	outCount:1	links:	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98013	inCount:1	outCount:1	links:	url:9801/3	name:Leucemia aguda, SAI	normalName:leucemia_aguda,_sai	normalWikiTitle:leucemia_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:5	outCount:1	links:98203	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86100	inCount:0	outCount:1	links:	url:8610/0	name:Luteoma, SAI	normalName:luteoma,_sai	normalWikiTitle:luteoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:97423	inCount:1	outCount:1	links:	url:9742/3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:980038	inCount:0	outCount:1	links:	url:9800/38	name:Leucemia, SAI - células NK	normalName:leucemia,_sai_-_células_nk	normalWikiTitle:leucemia,_sai_-_células_nk	predictedType:MOR_NEO
+ENTITY	text:células neoplásicas	normalName:células_neoplásicas	predictedType:MOR_NEO	q:true	qid:Q1559	docId:S0325-00752010000600016-1	origText:células neoplásicas	url:NaN
+CANDIDATE	id:97333	inCount:5	outCount:1	links:	url:9733/3	name:Leucemia de células plasmáticas	normalName:leucemia_de_células_plasmáticas	normalWikiTitle:leucemia_de_células_plasmáticas	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:970035	inCount:0	outCount:1	links:	url:9700/35	name:Micosis fungoide - células T	normalName:micosis_fungoide_-_células_t	normalWikiTitle:micosis_fungoide_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:973136	inCount:0	outCount:1	links:	url:9731/36	name:Plasmocitoma SAI,  - células B	normalName:plasmocitoma_sai,__-_células_b	normalWikiTitle:plasmocitoma_sai,__-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:97093	inCount:1	outCount:1	links:	url:9709/3	name:Linfoma cutáneo de células T, SAI	normalName:linfoma_cutáneo_de_células_t,_sai	normalWikiTitle:linfoma_cutáneo_de_células_t,_sai	predictedType:MOR_NEO
+CANDIDATE	id:973535	inCount:0	outCount:1	links:	url:9735/35	name:Linfoma plasmoblástico - células T	normalName:linfoma_plasmoblástico_-_células_t	normalWikiTitle:linfoma_plasmoblástico_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:973536	inCount:0	outCount:1	links:	url:9735/36	name:Linfoma plasmoblástico - células B	normalName:linfoma_plasmoblástico_-_células_b	normalWikiTitle:linfoma_plasmoblástico_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:973538	inCount:0	outCount:1	links:	url:9735/38	name:Linfoma plasmoblástico - células NK	normalName:linfoma_plasmoblástico_-_células_nk	normalWikiTitle:linfoma_plasmoblástico_-_células_nk	predictedType:MOR_NEO

@@ -1,0 +1,11 @@
+ENTITY	text:leucemia mieloide aguda	normalName:leucemia_mieloide_aguda	predictedType:MOR_NEO	q:true	qid:Q1614	docId:caso_clinico_radiologia923	origText:leucemia mieloide aguda	url:NaN
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98613	inCount:5	outCount:1	links:	url:9861/3	name:Leucemia mieloide aguda, SAI	normalName:leucemia_mieloide_aguda,_sai	normalWikiTitle:leucemia_mieloide_aguda,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98633	inCount:5	outCount:1	links:	url:9863/3	name:Leucemia mieloide crónica, SAI	normalName:leucemia_mieloide_crónica,_sai	normalWikiTitle:leucemia_mieloide_crónica,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:5	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:986035	inCount:0	outCount:1	links:	url:9860/35	name:Leucemia mieloide, SAI - células T	normalName:leucemia_mieloide,_sai_-_células_t	normalWikiTitle:leucemia_mieloide,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:986036	inCount:0	outCount:1	links:	url:9860/36	name:Leucemia mieloide, SAI - células B	normalName:leucemia_mieloide,_sai_-_células_b	normalWikiTitle:leucemia_mieloide,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:986037	inCount:0	outCount:1	links:	url:9860/37	name:Leucemia mieloide, SAI - células nulas	normalName:leucemia_mieloide,_sai_-_células_nulas	normalWikiTitle:leucemia_mieloide,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:986038	inCount:0	outCount:1	links:	url:9860/38	name:Leucemia mieloide, SAI - células NK	normalName:leucemia_mieloide,_sai_-_células_nk	normalWikiTitle:leucemia_mieloide,_sai_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:98403	inCount:5	outCount:1	links:	url:9840/3	name:Leucemia mieloide aguda tipo M6	normalName:leucemia_mieloide_aguda_tipo_m6	normalWikiTitle:leucemia_mieloide_aguda_tipo_m6	predictedType:MOR_NEO
+CANDIDATE	id:986135	inCount:0	outCount:1	links:	url:9861/35	name:Leucemia mieloide aguda, SAI - células T	normalName:leucemia_mieloide_aguda,_sai_-_células_t	normalWikiTitle:leucemia_mieloide_aguda,_sai_-_células_t	predictedType:MOR_NEO

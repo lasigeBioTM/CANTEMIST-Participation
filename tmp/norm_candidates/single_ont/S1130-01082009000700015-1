@@ -1,0 +1,22 @@
+ENTITY	text:endometrioma	normalName:endometrioma	predictedType:MOR_NEO	q:true	qid:Q2242	docId:S1130-01082009000700015-1	origText:endometrioma	url:NaN
+CANDIDATE	id:89320	inCount:0	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
+CANDIDATE	id:89830	inCount:0	outCount:1	links:	url:8983/0	name:Adenomioepitelioma	normalName:adenomioepitelioma	normalWikiTitle:adenomioepitelioma	predictedType:MOR_NEO
+CANDIDATE	id:90500	inCount:0	outCount:1	links:	url:9050/0	name:Mesotelioma benigno	normalName:mesotelioma_benigno	normalWikiTitle:mesotelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:85800	inCount:0	outCount:1	links:	url:8580/0	name:Timoma benigno	normalName:timoma_benigno	normalWikiTitle:timoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO
+CANDIDATE	id:80110	inCount:0	outCount:1	links:	url:8011/0	name:Epitelioma benigno	normalName:epitelioma_benigno	normalWikiTitle:epitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83250	inCount:0	outCount:1	links:	url:8325/0	name:Adenoma metanéfrico	normalName:adenoma_metanéfrico	normalWikiTitle:adenoma_metanéfrico	predictedType:MOR_NEO
+CANDIDATE	id:89050	inCount:0	outCount:1	links:	url:8905/0	name:Rabdomioma genital	normalName:rabdomioma_genital	normalWikiTitle:rabdomioma_genital	predictedType:MOR_NEO
+CANDIDATE	id:83800	inCount:0	outCount:1	links:	url:8380/0	name:Adenoma endometrioide, SAI	normalName:adenoma_endometrioide,_sai	normalWikiTitle:adenoma_endometrioide,_sai	predictedType:MOR_NEO
+ENTITY	text:tumor de células granulares	normalName:tumor_de_células_granulares	predictedType:MOR_NEO	q:true	qid:Q2242	docId:S1130-01082009000700015-1	origText:tumor de células granulares	url:NaN
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:95800	inCount:0	outCount:1	links:	url:9580/0	name:Tumor de células granulares, SAI	normalName:tumor_de_células_granulares,_sai	normalWikiTitle:tumor_de_células_granulares,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:95803	inCount:5	outCount:1	links:	url:9580/3	name:Tumor maligno de células granulares	normalName:tumor_maligno_de_células_granulares	normalWikiTitle:tumor_maligno_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:83206	inCount:0	outCount:1	links:	url:8320/6	name:Carcinoma de células granulares, metástasis	normalName:carcinoma_de_células_granulares,_metástasis	normalWikiTitle:carcinoma_de_células_granulares,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87260	inCount:0	outCount:1	links:	url:8726/0	name:Nevus magnocelular	normalName:nevus_magnocelular	normalWikiTitle:nevus_magnocelular	predictedType:MOR_NEO
+CANDIDATE	id:87213	inCount:5	outCount:1	links:	url:8721/3	name:Melanoma nodular	normalName:melanoma_nodular	normalWikiTitle:melanoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:87723	inCount:5	outCount:1	links:	url:8772/3	name:Melanoma fusocelular, SAI	normalName:melanoma_fusocelular,_sai	normalWikiTitle:melanoma_fusocelular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90642	inCount:5	outCount:1	links:	url:9064/2	name:Células germinales malignas intratubulares	normalName:células_germinales_malignas_intratubulares	normalWikiTitle:células_germinales_malignas_intratubulares	predictedType:MOR_NEO
+CANDIDATE	id:94743	inCount:5	outCount:1	links:	url:9474/3	name:Meduloblastoma de células grandes	normalName:meduloblastoma_de_células_grandes	normalWikiTitle:meduloblastoma_de_células_grandes	predictedType:MOR_NEO

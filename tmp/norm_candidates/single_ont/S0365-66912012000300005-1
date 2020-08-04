@@ -1,0 +1,24 @@
+ENTITY	text:lesiones en ambos ojos	normalName:lesiones_en_ambos_ojos	predictedType:MOR_NEO	q:true	qid:Q1348	docId:S0365-66912012000300005-1	origText:lesiones en ambos ojos	url:NaN
+CANDIDATE	id:88903	inCount:5	outCount:1	links:	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85603	inCount:5	outCount:1	links:	url:8560/3	name:Carcinoma adenoescamoso	normalName:carcinoma_adenoescamoso	normalWikiTitle:carcinoma_adenoescamoso	predictedType:MOR_NEO
+CANDIDATE	id:94910	inCount:0	outCount:1	links:	url:9491/0	name:Ganglioneuromatosis	normalName:ganglioneuromatosis	normalWikiTitle:ganglioneuromatosis	predictedType:MOR_NEO
+CANDIDATE	id:84700	inCount:0	outCount:1	links:	url:8470/0	name:Cistadenoma mucinoso, SAI	normalName:cistadenoma_mucinoso,_sai	normalWikiTitle:cistadenoma_mucinoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89900	inCount:0	outCount:1	links:	url:8990/0	name:Mesenquimoma benigno	normalName:mesenquimoma_benigno	normalWikiTitle:mesenquimoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93923	inCount:5	outCount:1	links:	url:9392/3	name:Ependimoma anaplásico	normalName:ependimoma_anaplásico	normalWikiTitle:ependimoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:95393	inCount:5	outCount:1	links:	url:9539/3	name:Sarcomatosis meníngea	normalName:sarcomatosis_meníngea	normalWikiTitle:sarcomatosis_meníngea	predictedType:MOR_NEO
+CANDIDATE	id:97413	inCount:1	outCount:1	links:	url:9741/3	name:Mastocitosis maligna	normalName:mastocitosis_maligna	normalWikiTitle:mastocitosis_maligna	predictedType:MOR_NEO
+CANDIDATE	id:87463	inCount:5	outCount:1	links:	url:8746/3	name:Melanoma lentiginoso de mucosa	normalName:melanoma_lentiginoso_de_mucosa	normalWikiTitle:melanoma_lentiginoso_de_mucosa	predictedType:MOR_NEO
+CANDIDATE	id:856039	inCount:0	outCount:1	links:	url:8560/39	name:Ca adenoescamoso - GSD	normalName:ca_adenoescamoso_-_gsd	normalWikiTitle:ca_adenoescamoso_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:85603	inCount:5	outCount:1	links:	url:8560/3	name:Ca adenoescamoso	normalName:ca_adenoescamoso	normalWikiTitle:ca_adenoescamoso	predictedType:MOR_NEO
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q1348	docId:S0365-66912012000300005-1	origText:carcinoma	url:NaN
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:5	outCount:1	links:	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO

@@ -1,0 +1,22 @@
+ENTITY	text:Enfermedad pulmonar	normalName:enfermedad_pulmonar	predictedType:MOR_NEO	q:true	qid:Q1002	docId:caso_clinico_radiologia933	origText:Enfermedad pulmonar	url:NaN
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:82501	inCount:0	outCount:1	links:	url:8250/1	name:Adenomatosis pulmonar	normalName:adenomatosis_pulmonar	normalWikiTitle:adenomatosis_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:85403	inCount:5	outCount:1	links:	url:8540/3	name:Enfermedad de Paget, mamaria	normalName:enfermedad_de_paget,_mamaria	normalWikiTitle:enfermedad_de_paget,_mamaria	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:897231	inCount:0	outCount:1	links:	url:8972/31	name:Blastoma pulmonar - grado I, bien diferenciado	normalName:blastoma_pulmonar_-_grado_i,_bien_diferenciado	normalWikiTitle:blastoma_pulmonar_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:80812	inCount:5	outCount:1	links:	url:8081/2	name:Enfermedad de Bowen	normalName:enfermedad_de_bowen	normalWikiTitle:enfermedad_de_bowen	predictedType:MOR_NEO
+CANDIDATE	id:97691	inCount:0	outCount:1	links:	url:9769/1	name:Enfermedad por depósito de inmunoglobulinas	normalName:enfermedad_por_depósito_de_inmunoglobulinas	normalWikiTitle:enfermedad_por_depósito_de_inmunoglobulinas	predictedType:MOR_NEO
+CANDIDATE	id:85423	inCount:5	outCount:1	links:	url:8542/3	name:Enfermedad de Paget extramamaria	normalName:enfermedad_de_paget_extramamaria	normalWikiTitle:enfermedad_de_paget_extramamaria	predictedType:MOR_NEO
+CANDIDATE	id:87213	inCount:5	outCount:1	links:	url:8721/3	name:Melanoma nodular	normalName:melanoma_nodular	normalWikiTitle:melanoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:90000	inCount:0	outCount:1	links:	url:9000/0	name:Tumor de Brenner, SAI	normalName:tumor_de_brenner,_sai	normalWikiTitle:tumor_de_brenner,_sai	predictedType:MOR_NEO
+CANDIDATE	id:97013	inCount:1	outCount:1	links:	url:9701/3	name:Enfermedad, Sézary	normalName:enfermedad,_sézary	normalWikiTitle:enfermedad,_sézary	predictedType:MOR_NEO
+CANDIDATE	id:8401	inCount:10	outCount:1	links:	url:C84.1	name:Enfermedad de Sézary	normalName:enfermedad_de_sézary	normalWikiTitle:enfermedad_de_sézary	predictedType:MOR_NEO
+CANDIDATE	id:90021	inCount:0	outCount:1	links:	url:C90.21	name:Plasmocitoma extramedular, en remisión	normalName:plasmocitoma_extramedular,_en_remisión	normalWikiTitle:plasmocitoma_extramedular,_en_remisión	predictedType:MOR_NEO
+CANDIDATE	id:8802	inCount:0	outCount:1	links:	url:C88.2	name:Enfermedad de cadenas pesadas	normalName:enfermedad_de_cadenas_pesadas	normalWikiTitle:enfermedad_de_cadenas_pesadas	predictedType:MOR_NEO
+CANDIDATE	id:9002	inCount:3	outCount:1	links:	url:C90.2	name:Plasmocitoma extramedular	normalName:plasmocitoma_extramedular	normalWikiTitle:plasmocitoma_extramedular	predictedType:MOR_NEO
+CANDIDATE	id:90022	inCount:0	outCount:1	links:	url:C90.22	name:Plasmocitoma extramedular, en recidiva	normalName:plasmocitoma_extramedular,_en_recidiva	normalWikiTitle:plasmocitoma_extramedular,_en_recidiva	predictedType:MOR_NEO
+CANDIDATE	id:8348	inCount:29	outCount:1	links:	url:8348	name:enfermedades pulmonares	normalName:enfermedades_pulmonares	normalWikiTitle:enfermedades_pulmonares	predictedType:MOR_NEO
+CANDIDATE	id:12093	inCount:0	outCount:1	links:	url:12093	name:enfisema pulmonar	normalName:enfisema_pulmonar	normalWikiTitle:enfisema_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:26446	inCount:0	outCount:1	links:	url:26446	name:enfermedad local	normalName:enfermedad_local	normalWikiTitle:enfermedad_local	predictedType:MOR_NEO
+CANDIDATE	id:12091	inCount:0	outCount:1	links:	url:12091	name:edema pulmonar	normalName:edema_pulmonar	normalWikiTitle:edema_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:8349	inCount:4	outCount:3	links:	url:8349	name:enfermedades pulmonares fúngicas	normalName:enfermedades_pulmonares_fúngicas	normalWikiTitle:enfermedades_pulmonares_fúngicas	predictedType:MOR_NEO

@@ -1,0 +1,33 @@
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:carcinoma	url:NaN
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:5	outCount:1	links:	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO
+ENTITY	text:tumor de células fusiformes	normalName:tumor_de_células_fusiformes	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:tumor de células fusiformes	url:NaN
+CANDIDATE	id:80323	inCount:5	outCount:1	links:	url:8032/3	name:Carcinoma de células fusiformes, SAI	normalName:carcinoma_de_células_fusiformes,_sai	normalWikiTitle:carcinoma_de_células_fusiformes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80043	inCount:5	outCount:1	links:	url:8004/3	name:Tumor maligno de células fusiformes	normalName:tumor_maligno_de_células_fusiformes	normalWikiTitle:tumor_maligno_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:87733	inCount:5	outCount:1	links:	url:8773/3	name:Melanoma de células fusiformes, tipo A	normalName:melanoma_de_células_fusiformes,_tipo_a	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_a	predictedType:MOR_NEO
+CANDIDATE	id:87743	inCount:5	outCount:1	links:	url:8774/3	name:Melanoma de células fusiformes, tipo B	normalName:melanoma_de_células_fusiformes,_tipo_b	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_b	predictedType:MOR_NEO
+CANDIDATE	id:89123	inCount:5	outCount:1	links:	url:8912/3	name:Rabdomiosarcoma de células fusiformes	normalName:rabdomiosarcoma_de_células_fusiformes	normalWikiTitle:rabdomiosarcoma_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80303	inCount:5	outCount:1	links:	url:8030/3	name:Carcinoma de células gigantes y fusiformes	normalName:carcinoma_de_células_gigantes_y_fusiformes	normalWikiTitle:carcinoma_de_células_gigantes_y_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80433	inCount:5	outCount:1	links:	url:8043/3	name:Carcinoma de células pequeñas, tipo fusiforme	normalName:carcinoma_de_células_pequeñas,_tipo_fusiforme	normalWikiTitle:carcinoma_de_células_pequeñas,_tipo_fusiforme	predictedType:MOR_NEO
+CANDIDATE	id:80743	inCount:5	outCount:1	links:	url:8074/3	name:Carcinoma epidermoide de células fusiformes	normalName:carcinoma_epidermoide_de_células_fusiformes	normalWikiTitle:carcinoma_epidermoide_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80326	inCount:0	outCount:1	links:	url:8032/6	name:Carcinoma de células fusiformes, SAI, metástasis	normalName:carcinoma_de_células_fusiformes,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_fusiformes,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87700	inCount:0	outCount:1	links:	url:8770/0	name:Nevus de células epitelioides y fusiformes	normalName:nevus_de_células_epitelioides_y_fusiformes	normalWikiTitle:nevus_de_células_epitelioides_y_fusiformes	predictedType:MOR_NEO
+ENTITY	text:leiomiosarcoma	normalName:leiomiosarcoma	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:leiomiosarcoma	url:NaN
+CANDIDATE	id:88903	inCount:5	outCount:1	links:	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:87103	inCount:5	outCount:1	links:	url:8710/3	name:Glomangiosarcoma	normalName:glomangiosarcoma	normalWikiTitle:glomangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88113	inCount:5	outCount:1	links:	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:94423	inCount:5	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88963	inCount:5	outCount:1	links:	url:8896/3	name:Leiomiosarcoma mixoide	normalName:leiomiosarcoma_mixoide	normalWikiTitle:leiomiosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89913	inCount:5	outCount:1	links:	url:8991/3	name:Sarcoma embrionario	normalName:sarcoma_embrionario	normalWikiTitle:sarcoma_embrionario	predictedType:MOR_NEO

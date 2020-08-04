@@ -1,0 +1,33 @@
+ENTITY	text:adenoma grado 1	normalName:adenoma_grado_1	predictedType:MOR_NEO	q:true	qid:Q160	docId:S0210-48062003001000010-1	origText:adenoma grado 1	url:NaN
+CANDIDATE	id:82130	inCount:0	outCount:1	links:	url:8213/0	name:Adenoma dentado	normalName:adenoma_dentado	normalWikiTitle:adenoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:82120	inCount:0	outCount:1	links:	url:8212/0	name:Adenoma plano	normalName:adenoma_plano	normalWikiTitle:adenoma_plano	predictedType:MOR_NEO
+CANDIDATE	id:81400	inCount:0	outCount:1	links:	url:8140/0	name:Adenoma, SAI	normalName:adenoma,_sai	normalWikiTitle:adenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81401	inCount:0	outCount:1	links:	url:8140/1	name:Adenoma atípico	normalName:adenoma_atípico	normalWikiTitle:adenoma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:83000	inCount:0	outCount:1	links:	url:8300/0	name:Adenoma basófilo	normalName:adenoma_basófilo	normalWikiTitle:adenoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:81910	inCount:0	outCount:1	links:	url:8191/0	name:Adenoma embrionario	normalName:adenoma_embrionario	normalWikiTitle:adenoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:82510	inCount:0	outCount:1	links:	url:8251/0	name:Adenoma alveolar	normalName:adenoma_alveolar	normalWikiTitle:adenoma_alveolar	predictedType:MOR_NEO
+CANDIDATE	id:82700	inCount:0	outCount:1	links:	url:8270/0	name:Adenoma cromófobo	normalName:adenoma_cromófobo	normalWikiTitle:adenoma_cromófobo	predictedType:MOR_NEO
+CANDIDATE	id:84010	inCount:0	outCount:1	links:	url:8401/0	name:Adenoma apocrino	normalName:adenoma_apocrino	normalWikiTitle:adenoma_apocrino	predictedType:MOR_NEO
+ENTITY	text:neoformación mesenquimal	normalName:neoformación_mesenquimal	predictedType:MOR_NEO	q:true	qid:Q160	docId:S0210-48062003001000010-1	origText:neoformación mesenquimal	url:NaN
+CANDIDATE	id:92403	inCount:5	outCount:1	links:	url:9240/3	name:Condrosarcoma mesenquimal	normalName:condrosarcoma_mesenquimal	normalWikiTitle:condrosarcoma_mesenquimal	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89900	inCount:0	outCount:1	links:	url:8990/0	name:Mesenquimoma benigno	normalName:mesenquimoma_benigno	normalWikiTitle:mesenquimoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:92406	inCount:0	outCount:1	links:	url:9240/6	name:Condrosarcoma mesenquimal, metástasis	normalName:condrosarcoma_mesenquimal,_metástasis	normalWikiTitle:condrosarcoma_mesenquimal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89906	inCount:0	outCount:1	links:	url:8990/6	name:Mesenquimoma maligno, metástasis	normalName:mesenquimoma_maligno,_metástasis	normalWikiTitle:mesenquimoma_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:899031	inCount:0	outCount:1	links:	url:8990/31	name:Mesenquimoma maligno - grado I, bien diferenciado	normalName:mesenquimoma_maligno_-_grado_i,_bien_diferenciado	normalWikiTitle:mesenquimoma_maligno_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:90513	inCount:5	outCount:1	links:	url:9051/3	name:Mesotelioma fibroso maligno	normalName:mesotelioma_fibroso_maligno	normalWikiTitle:mesotelioma_fibroso_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89901	inCount:0	outCount:1	links:	url:8990/1	name:Mesenquimoma, SAI 	normalName:mesenquimoma,_sai_	normalWikiTitle:mesenquimoma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:899034	inCount:0	outCount:1	links:	url:8990/34	name:Mesenquimoma maligno - grado IV, indiferenciado	normalName:mesenquimoma_maligno_-_grado_iv,_indiferenciado	normalWikiTitle:mesenquimoma_maligno_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+ENTITY	text:leiomioma	normalName:leiomioma	predictedType:MOR_NEO	q:true	qid:Q160	docId:S0210-48062003001000010-1	origText:leiomioma	url:NaN
+CANDIDATE	id:88900	inCount:0	outCount:1	links:	url:8890/0	name:Leiomioma, SAI 	normalName:leiomioma,_sai_	normalWikiTitle:leiomioma,_sai_	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:89320	inCount:0	outCount:1	links:	url:8932/0	name:Adenomioma	normalName:adenomioma	normalWikiTitle:adenomioma	predictedType:MOR_NEO
+CANDIDATE	id:88930	inCount:0	outCount:1	links:	url:8893/0	name:Leiomioma atípico	normalName:leiomioma_atípico	normalWikiTitle:leiomioma_atípico	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:87130	inCount:0	outCount:1	links:	url:8713/0	name:Glomangiomioma	normalName:glomangiomioma	normalWikiTitle:glomangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:88110	inCount:0	outCount:1	links:	url:8811/0	name:Fibromixoma 	normalName:fibromixoma_	normalWikiTitle:fibromixoma_	predictedType:MOR_NEO
+CANDIDATE	id:88411	inCount:0	outCount:1	links:	url:8841/1	name:Angiomixoma	normalName:angiomixoma	normalWikiTitle:angiomixoma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO

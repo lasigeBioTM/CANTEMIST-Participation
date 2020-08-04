@@ -1,0 +1,55 @@
+ENTITY	text:neoplasia mucinosa de bajo grado	normalName:neoplasia_mucinosa_de_bajo_grado	predictedType:MOR_NEO	q:true	qid:Q1946	docId:caso_clinico_radiologia484	origText:neoplasia mucinosa de bajo grado	url:NaN
+CANDIDATE	id:816031	inCount:0	outCount:1	links:	url:8160/31	name:Colangiocarcinoma - grado I, bien diferenciado	normalName:colangiocarcinoma_-_grado_i,_bien_diferenciado	normalWikiTitle:colangiocarcinoma_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:809831	inCount:0	outCount:1	links:	url:8098/31	name:Carcinoma basal adenoideo - grado I, bien diferenciado	normalName:carcinoma_basal_adenoideo_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_basal_adenoideo_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:85253	inCount:5	outCount:1	links:	url:8525/3	name:Adenocarcinoma polimorfo de bajo grado	normalName:adenocarcinoma_polimorfo_de_bajo_grado	normalWikiTitle:adenocarcinoma_polimorfo_de_bajo_grado	predictedType:MOR_NEO
+CANDIDATE	id:856031	inCount:0	outCount:1	links:	url:8560/31	name:Carcinoma adenoescamoso - grado I, bien diferenciado	normalName:carcinoma_adenoescamoso_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_adenoescamoso_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:80213	inCount:1	outCount:1	links:	url:8021/3	name:Carcinoma de tipo anaplásico, SAI	normalName:carcinoma_de_tipo_anaplásico,_sai	normalWikiTitle:carcinoma_de_tipo_anaplásico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82133	inCount:5	outCount:1	links:82133	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:830031	inCount:0	outCount:1	links:	url:8300/31	name:Carcinoma basófilo - grado I, bien diferenciado	normalName:carcinoma_basófilo_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_basófilo_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:84060	inCount:0	outCount:1	links:	url:8406/0	name:Siringoadenoma papilar	normalName:siringoadenoma_papilar	normalWikiTitle:siringoadenoma_papilar	predictedType:MOR_NEO
+CANDIDATE	id:812331	inCount:0	outCount:1	links:	url:8123/31	name:Carcinoma basaloide - grado I, bien diferenciado	normalName:carcinoma_basaloide_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_basaloide_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:5	outCount:1	links:84803	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+ENTITY	text:cistoadenoma mucinoso	normalName:cistoadenoma_mucinoso	predictedType:MOR_NEO	q:true	qid:Q1946	docId:caso_clinico_radiologia484	origText:cistoadenoma mucinoso	url:NaN
+CANDIDATE	id:84700	inCount:0	outCount:1	links:	url:8470/0	name:Cistadenoma mucinoso, SAI	normalName:cistadenoma_mucinoso,_sai	normalWikiTitle:cistadenoma_mucinoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84800	inCount:0	outCount:1	links:84800	url:8480/0	name:Adenoma mucinoso	normalName:adenoma_mucinoso	normalWikiTitle:adenoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:84703	inCount:5	outCount:1	links:	url:8470/3	name:Cistadenocarcinoma mucinoso, SAI	normalName:cistadenocarcinoma_mucinoso,_sai	normalWikiTitle:cistadenocarcinoma_mucinoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84710	inCount:0	outCount:1	links:	url:8471/0	name:Cistadenoma mucinoso papilar, SAI	normalName:cistadenoma_mucinoso_papilar,_sai	normalWikiTitle:cistadenoma_mucinoso_papilar,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84403	inCount:5	outCount:1	links:	url:8440/3	name:Cistadenocarcinoma, SAI	normalName:cistadenocarcinoma,_sai	normalWikiTitle:cistadenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84410	inCount:0	outCount:1	links:	url:8441/0	name:Cistadenoma seroso, SAI	normalName:cistadenoma_seroso,_sai	normalWikiTitle:cistadenoma_seroso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:84713	inCount:5	outCount:1	links:	url:8471/3	name:Cistadenocarcinoma mucinoso papilar	normalName:cistadenocarcinoma_mucinoso_papilar	normalWikiTitle:cistadenocarcinoma_mucinoso_papilar	predictedType:MOR_NEO
+CANDIDATE	id:84803	inCount:5	outCount:1	links:84803	url:8480/3	name:Adenocarcinoma mucinoso	normalName:adenocarcinoma_mucinoso	normalWikiTitle:adenocarcinoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:84200	inCount:0	outCount:1	links:	url:8420/0	name:Adenoma ceruminoso	normalName:adenoma_ceruminoso	normalWikiTitle:adenoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:84400	inCount:0	outCount:1	links:	url:8440/0	name:Cistadenoma, SAI	normalName:cistadenoma,_sai	normalWikiTitle:cistadenoma,_sai	predictedType:MOR_NEO
+ENTITY	text:adenocarcinoma	normalName:adenocarcinoma	predictedType:MOR_NEO	q:true	qid:Q1946	docId:caso_clinico_radiologia484	origText:adenocarcinoma	url:NaN
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89333	inCount:5	outCount:1	links:	url:8933/3	name:Adenosarcoma	normalName:adenosarcoma	normalWikiTitle:adenosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:82903	inCount:5	outCount:1	links:	url:8290/3	name:Adenocarcinoma oxífilo	normalName:adenocarcinoma_oxífilo	normalWikiTitle:adenocarcinoma_oxífilo	predictedType:MOR_NEO
+CANDIDATE	id:84103	inCount:5	outCount:1	links:	url:8410/3	name:Adenocarcinoma sebáceo	normalName:adenocarcinoma_sebáceo	normalWikiTitle:adenocarcinoma_sebáceo	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:81413	inCount:5	outCount:1	links:	url:8141/3	name:Adenocarcinoma escirro	normalName:adenocarcinoma_escirro	normalWikiTitle:adenocarcinoma_escirro	predictedType:MOR_NEO
+CANDIDATE	id:82113	inCount:5	outCount:1	links:	url:8211/3	name:Adenocarcinoma tubular	normalName:adenocarcinoma_tubular	normalWikiTitle:adenocarcinoma_tubular	predictedType:MOR_NEO
+CANDIDATE	id:82133	inCount:5	outCount:1	links:82133	url:8213/3	name:Adenocarcinoma dentado	normalName:adenocarcinoma_dentado	normalWikiTitle:adenocarcinoma_dentado	predictedType:MOR_NEO
+CANDIDATE	id:82623	inCount:5	outCount:1	links:82623	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
+ENTITY	text:adenoma túbulovelloso	normalName:adenoma_túbulovelloso	predictedType:MOR_NEO	q:true	qid:Q1946	docId:caso_clinico_radiologia484	origText:adenoma túbulovelloso	url:NaN
+CANDIDATE	id:82630	inCount:0	outCount:1	links:	url:8263/0	name:Adenoma tubulovelloso, SAI	normalName:adenoma_tubulovelloso,_sai	normalWikiTitle:adenoma_tubulovelloso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82610	inCount:0	outCount:1	links:	url:8261/0	name:Adenoma velloso, SAI	normalName:adenoma_velloso,_sai	normalWikiTitle:adenoma_velloso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82623	inCount:5	outCount:1	links:82623	url:8262/3	name:Adenocarcinoma velloso	normalName:adenocarcinoma_velloso	normalWikiTitle:adenocarcinoma_velloso	predictedType:MOR_NEO
+CANDIDATE	id:82633	inCount:5	outCount:1	links:	url:8263/3	name:Adenocarcinoma en adenoma tubulovelloso	normalName:adenocarcinoma_en_adenoma_tubulovelloso	normalWikiTitle:adenocarcinoma_en_adenoma_tubulovelloso	predictedType:MOR_NEO
+CANDIDATE	id:81470	inCount:0	outCount:1	links:	url:8147/0	name:Adenoma basocelular	normalName:adenoma_basocelular	normalWikiTitle:adenoma_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:82510	inCount:0	outCount:1	links:	url:8251/0	name:Adenoma alveolar	normalName:adenoma_alveolar	normalWikiTitle:adenoma_alveolar	predictedType:MOR_NEO
+CANDIDATE	id:84800	inCount:0	outCount:1	links:84800	url:8480/0	name:Adenoma mucinoso	normalName:adenoma_mucinoso	normalWikiTitle:adenoma_mucinoso	predictedType:MOR_NEO
+CANDIDATE	id:82100	inCount:0	outCount:1	links:	url:8210/0	name:Pólipo adenomatoso, SAI	normalName:pólipo_adenomatoso,_sai	normalWikiTitle:pólipo_adenomatoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82200	inCount:0	outCount:1	links:	url:8220/0	name:Poliposis adenomatosa del colon	normalName:poliposis_adenomatosa_del_colon	normalWikiTitle:poliposis_adenomatosa_del_colon	predictedType:MOR_NEO
+CANDIDATE	id:82900	inCount:0	outCount:1	links:	url:8290/0	name:Adenoma oxífilo	normalName:adenoma_oxífilo	normalWikiTitle:adenoma_oxífilo	predictedType:MOR_NEO
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q1946	docId:caso_clinico_radiologia484	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metástasis	normalName:gliosarcoma,_metástasis	normalWikiTitle:gliosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metástasis	normalName:adenosarcoma,_metástasis	normalWikiTitle:adenosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO

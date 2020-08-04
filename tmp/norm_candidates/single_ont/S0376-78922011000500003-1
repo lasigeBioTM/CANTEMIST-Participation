@@ -1,0 +1,33 @@
+ENTITY	text:nevus melanocítico congénito	normalName:nevus_melanocítico_congénito	predictedType:MOR_NEO	q:true	qid:Q238	docId:S0376-78922011000500003-1	origText:nevus melanocítico congénito	url:NaN
+CANDIDATE	id:87300	inCount:0	outCount:1	links:87300	url:8730/0	name:Nevus no pigmentado	normalName:nevus_no_pigmentado	normalWikiTitle:nevus_no_pigmentado	predictedType:MOR_NEO
+CANDIDATE	id:87280	inCount:0	outCount:1	links:87280	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:87281	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO
+CANDIDATE	id:95350	inCount:0	outCount:1	links:	url:9535/0	name:Meningioma hemangioblástico	normalName:meningioma_hemangioblástico	normalWikiTitle:meningioma_hemangioblástico	predictedType:MOR_NEO
+CANDIDATE	id:95410	inCount:0	outCount:1	links:	url:9541/0	name:Neurofibroma melanótico	normalName:neurofibroma_melanótico	normalWikiTitle:neurofibroma_melanótico	predictedType:MOR_NEO
+CANDIDATE	id:87303	inCount:5	outCount:1	links:87303	url:8730/3	name:Melanoma amelanótico	normalName:melanoma_amelanótico	normalWikiTitle:melanoma_amelanótico	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:90633	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:93630	inCount:0	outCount:1	links:	url:9363/0	name:Tumor neuroectodérmico melanótico	normalName:tumor_neuroectodérmico_melanótico	normalWikiTitle:tumor_neuroectodérmico_melanótico	predictedType:MOR_NEO
+CANDIDATE	id:94311	inCount:0	outCount:1	links:	url:9431/1	name:Glioma angiocéntrico	normalName:glioma_angiocéntrico	normalWikiTitle:glioma_angiocéntrico	predictedType:MOR_NEO
+CANDIDATE	id:87200	inCount:0	outCount:1	links:87200	url:8720/0	name:Nevus pigmentado, SAI	normalName:nevus_pigmentado,_sai	normalWikiTitle:nevus_pigmentado,_sai	predictedType:MOR_NEO
+ENTITY	text:nevus	normalName:nevus	predictedType:MOR_NEO	q:true	qid:Q238	docId:S0376-78922011000500003-1	origText:nevus	url:NaN
+CANDIDATE	id:87250	inCount:0	outCount:1	links:	url:8725/0	name:Neuronevus	normalName:neuronevus	normalWikiTitle:neuronevus	predictedType:MOR_NEO
+CANDIDATE	id:87230	inCount:0	outCount:1	links:	url:8723/0	name:Nevus con halo	normalName:nevus_con_halo	normalWikiTitle:nevus_con_halo	predictedType:MOR_NEO
+CANDIDATE	id:87800	inCount:0	outCount:1	links:	url:8780/0	name:Nevus azul, SAI	normalName:nevus_azul,_sai	normalWikiTitle:nevus_azul,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87270	inCount:0	outCount:1	links:	url:8727/0	name:Nevus displásico	normalName:nevus_displásico	normalWikiTitle:nevus_displásico	predictedType:MOR_NEO
+CANDIDATE	id:87600	inCount:0	outCount:1	links:	url:8760/0	name:Nevus compuesto	normalName:nevus_compuesto	normalWikiTitle:nevus_compuesto	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87500	inCount:0	outCount:1	links:	url:8750/0	name:Nevus intradérmico	normalName:nevus_intradérmico	normalWikiTitle:nevus_intradérmico	predictedType:MOR_NEO
+CANDIDATE	id:87260	inCount:0	outCount:1	links:	url:8726/0	name:Nevus magnocelular	normalName:nevus_magnocelular	normalWikiTitle:nevus_magnocelular	predictedType:MOR_NEO
+CANDIDATE	id:87803	inCount:5	outCount:1	links:	url:8780/3	name:Nevus azul maligno	normalName:nevus_azul_maligno	normalWikiTitle:nevus_azul_maligno	predictedType:MOR_NEO
+CANDIDATE	id:87900	inCount:0	outCount:1	links:	url:8790/0	name:Nevus azul celular	normalName:nevus_azul_celular	normalWikiTitle:nevus_azul_celular	predictedType:MOR_NEO
+ENTITY	text:nevus melanocítico	normalName:nevus_melanocítico	predictedType:MOR_NEO	q:true	qid:Q238	docId:S0376-78922011000500003-1	origText:nevus melanocítico	url:NaN
+CANDIDATE	id:87280	inCount:0	outCount:1	links:87280	url:8728/0	name:Melanocitosis difusa	normalName:melanocitosis_difusa	normalWikiTitle:melanocitosis_difusa	predictedType:MOR_NEO
+CANDIDATE	id:87300	inCount:0	outCount:1	links:87300	url:8730/0	name:Nevus no pigmentado	normalName:nevus_no_pigmentado	normalWikiTitle:nevus_no_pigmentado	predictedType:MOR_NEO
+CANDIDATE	id:91833	inCount:5	outCount:1	links:	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
+CANDIDATE	id:87200	inCount:0	outCount:1	links:87200	url:8720/0	name:Nevus pigmentado, SAI	normalName:nevus_pigmentado,_sai	normalWikiTitle:nevus_pigmentado,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87303	inCount:5	outCount:1	links:87303	url:8730/3	name:Melanoma amelanótico	normalName:melanoma_amelanótico	normalWikiTitle:melanoma_amelanótico	predictedType:MOR_NEO
+CANDIDATE	id:90633	inCount:5	outCount:1	links:90633	url:9063/3	name:Seminoma espermatocítico	normalName:seminoma_espermatocítico	normalWikiTitle:seminoma_espermatocítico	predictedType:MOR_NEO
+CANDIDATE	id:95223	inCount:5	outCount:1	links:	url:9522/3	name:Neuroblastoma olfatorio	normalName:neuroblastoma_olfatorio	normalWikiTitle:neuroblastoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:95620	inCount:0	outCount:1	links:	url:9562/0	name:Neurotecoma	normalName:neurotecoma	normalWikiTitle:neurotecoma	predictedType:MOR_NEO
+CANDIDATE	id:99463	inCount:1	outCount:1	links:	url:9946/3	name:Leucemia mielomonocítica juvenil	normalName:leucemia_mielomonocítica_juvenil	normalWikiTitle:leucemia_mielomonocítica_juvenil	predictedType:MOR_NEO
+CANDIDATE	id:87281	inCount:0	outCount:1	links:87281	url:8728/1	name:Melanocitoma meníngeo	normalName:melanocitoma_meníngeo	normalWikiTitle:melanocitoma_meníngeo	predictedType:MOR_NEO

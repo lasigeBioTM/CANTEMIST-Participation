@@ -1,0 +1,69 @@
+ENTITY	text:linfoma no Hodgkin T de células pequeñas	normalName:linfoma_no_hodgkin_t_de_células_pequeñas	predictedType:MOR_NEO	q:true	qid:Q581	docId:S0034-98872017000100015-1	origText:linfoma no Hodgkin T de células pequeñas	url:NaN
+CANDIDATE	id:80463	inCount:5	outCount:1	links:	url:8046/3	name:Carcinoma, no de células pequeñas	normalName:carcinoma,_no_de_células_pequeñas	normalWikiTitle:carcinoma,_no_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:80413	inCount:5	outCount:1	links:	url:8041/3	name:Carcinoma de células pequeñas, SAI	normalName:carcinoma_de_células_pequeñas,_sai	normalWikiTitle:carcinoma_de_células_pequeñas,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82436	inCount:0	outCount:1	links:	url:8243/6	name:Carcinoide de células caliciformes, metástasis	normalName:carcinoide_de_células_caliciformes,_metástasis	normalWikiTitle:carcinoide_de_células_caliciformes,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82433	inCount:5	outCount:1	links:82433	url:8243/3	name:Carcinoide de células caliciformes	normalName:carcinoide_de_células_caliciformes	normalWikiTitle:carcinoide_de_células_caliciformes	predictedType:MOR_NEO
+CANDIDATE	id:80453	inCount:5	outCount:1	links:	url:8045/3	name:Carcinoma combinado de células pequeñas	normalName:carcinoma_combinado_de_células_pequeñas	normalWikiTitle:carcinoma_combinado_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:80416	inCount:0	outCount:1	links:	url:8041/6	name:Carcinoma de células pequeñas, SAI, metástasis	normalName:carcinoma_de_células_pequeñas,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_pequeñas,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80466	inCount:0	outCount:1	links:	url:8046/6	name:Carcinoma, no de células pequeñas, metástasis	normalName:carcinoma,_no_de_células_pequeñas,_metástasis	normalWikiTitle:carcinoma,_no_de_células_pequeñas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80433	inCount:5	outCount:1	links:	url:8043/3	name:Carcinoma de células pequeñas, tipo fusiforme	normalName:carcinoma_de_células_pequeñas,_tipo_fusiforme	normalWikiTitle:carcinoma_de_células_pequeñas,_tipo_fusiforme	predictedType:MOR_NEO
+CANDIDATE	id:80456	inCount:0	outCount:1	links:	url:8045/6	name:Carcinoma combinado de células pequeñas, metástasis	normalName:carcinoma_combinado_de_células_pequeñas,_metástasis	normalWikiTitle:carcinoma_combinado_de_células_pequeñas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:966137	inCount:0	outCount:1	links:	url:9661/37	name:Granuloma de Hodgkin - células nulas	normalName:granuloma_de_hodgkin_-_células_nulas	normalWikiTitle:granuloma_de_hodgkin_-_células_nulas	predictedType:MOR_NEO
+ENTITY	text:células tumorales	normalName:células_tumorales	predictedType:MOR_NEO	q:true	qid:Q581	docId:S0034-98872017000100015-1	origText:células tumorales	url:NaN
+CANDIDATE	id:80010	inCount:0	outCount:1	links:	url:8001/0	name:Células tumorales benignas	normalName:células_tumorales_benignas	normalWikiTitle:células_tumorales_benignas	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Células tumorales malignas	normalName:células_tumorales_malignas	normalWikiTitle:células_tumorales_malignas	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:80016	inCount:0	outCount:1	links:	url:8001/6	name:Células tumorales malignas, metástasis	normalName:células_tumorales_malignas,_metástasis	normalWikiTitle:células_tumorales_malignas,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85501	inCount:0	outCount:1	links:	url:8550/1	name:Tumor de células acinosas	normalName:tumor_de_células_acinosas	normalWikiTitle:tumor_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:973236	inCount:0	outCount:1	links:	url:9732/36	name:Mieloma múltiple, - células B	normalName:mieloma_múltiple,_-_células_b	normalWikiTitle:mieloma_múltiple,_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:86600	inCount:0	outCount:1	links:	url:8660/0	name:Tumor de células del hilio	normalName:tumor_de_células_del_hilio	normalWikiTitle:tumor_de_células_del_hilio	predictedType:MOR_NEO
+CANDIDATE	id:980035	inCount:0	outCount:1	links:	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:80013	inCount:5	outCount:1	links:	url:8001/3	name:Cél tumorales malignas	normalName:cél_tumorales_malignas	normalWikiTitle:cél_tumorales_malignas	predictedType:MOR_NEO
+ENTITY	text:infiltración de médula ósea	normalName:infiltración_de_médula_ósea	predictedType:MOR_NEO	q:true	qid:Q581	docId:S0034-98872017000100015-1	origText:infiltración de médula ósea	url:NaN
+CANDIDATE	id:90100	inCount:0	outCount:1	links:	url:9010/0	name:Fibroadenoma, SAI	normalName:fibroadenoma,_sai	normalWikiTitle:fibroadenoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82433	inCount:5	outCount:1	links:82433	url:8243/3	name:Carcinoide de células caliciformes	normalName:carcinoide_de_células_caliciformes	normalWikiTitle:carcinoide_de_células_caliciformes	predictedType:MOR_NEO
+CANDIDATE	id:85103	inCount:5	outCount:1	links:	url:8510/3	name:Carcinoma medular, SAI	normalName:carcinoma_medular,_sai	normalWikiTitle:carcinoma_medular,_sai	predictedType:MOR_NEO
+CANDIDATE	id:87500	inCount:0	outCount:1	links:	url:8750/0	name:Nevus intradérmico	normalName:nevus_intradérmico	normalWikiTitle:nevus_intradérmico	predictedType:MOR_NEO
+CANDIDATE	id:82803	inCount:5	outCount:1	links:	url:8280/3	name:Carcinoma acidófilo	normalName:carcinoma_acidófilo	normalWikiTitle:carcinoma_acidófilo	predictedType:MOR_NEO
+CANDIDATE	id:85500	inCount:0	outCount:1	links:	url:8550/0	name:Adenoma de células acinosas	normalName:adenoma_de_células_acinosas	normalWikiTitle:adenoma_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:81510	inCount:0	outCount:1	links:	url:8151/0	name:Insulinoma, SAI	normalName:insulinoma,_sai	normalWikiTitle:insulinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:83920	inCount:0	outCount:1	links:	url:8392/0	name:Siringofibroadenoma	normalName:siringofibroadenoma	normalWikiTitle:siringofibroadenoma	predictedType:MOR_NEO
+CANDIDATE	id:84020	inCount:0	outCount:1	links:	url:8402/0	name:Hidradenoma nodular	normalName:hidradenoma_nodular	normalWikiTitle:hidradenoma_nodular	predictedType:MOR_NEO
+CANDIDATE	id:85002	inCount:5	outCount:1	links:85002	url:8500/2	name:Carcinoma intraductal no infiltrante, SAI	normalName:carcinoma_intraductal_no_infiltrante,_sai	normalWikiTitle:carcinoma_intraductal_no_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85002	inCount:5	outCount:1	links:85002	url:8500/2	name:Ca intraductal no infiltrante, SAI	normalName:ca_intraductal_no_infiltrante,_sai	normalWikiTitle:ca_intraductal_no_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94743	inCount:5	outCount:1	links:	url:9474/3	name:Meduloblastoma, cél grandes	normalName:meduloblastoma,_cél_grandes	normalWikiTitle:meduloblastoma,_cél_grandes	predictedType:MOR_NEO
+ENTITY	text:infiltración de sistema nervioso central	normalName:infiltración_de_sistema_nervioso_central	predictedType:MOR_NEO	q:true	qid:Q581	docId:S0034-98872017000100015-1	origText:infiltración de sistema nervioso central	url:NaN
+CANDIDATE	id:90120	inCount:0	outCount:1	links:	url:9012/0	name:Fibroadenoma pericanalicular	normalName:fibroadenoma_pericanalicular	normalWikiTitle:fibroadenoma_pericanalicular	predictedType:MOR_NEO
+CANDIDATE	id:91956	inCount:0	outCount:1	links:	url:9195/6	name:Osteosarcoma intracortical, metástasis	normalName:osteosarcoma_intracortical,_metástasis	normalWikiTitle:osteosarcoma_intracortical,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:81433	inCount:5	outCount:1	links:	url:8143/3	name:Adenocarcinoma con diseminación superficial	normalName:adenocarcinoma_con_diseminación_superficial	normalWikiTitle:adenocarcinoma_con_diseminación_superficial	predictedType:MOR_NEO
+CANDIDATE	id:85513	inCount:5	outCount:1	links:	url:8551/3	name:Cistadenocarcinoma células acinares	normalName:cistadenocarcinoma_células_acinares	normalWikiTitle:cistadenocarcinoma_células_acinares	predictedType:MOR_NEO
+CANDIDATE	id:90110	inCount:0	outCount:1	links:	url:9011/0	name:Fibroadenoma intraductal	normalName:fibroadenoma_intraductal	normalWikiTitle:fibroadenoma_intraductal	predictedType:MOR_NEO
+CANDIDATE	id:91946	inCount:0	outCount:1	links:	url:9194/6	name:Osteosarcoma superficial de alto grado, metástasis	normalName:osteosarcoma_superficial_de_alto_grado,_metástasis	normalWikiTitle:osteosarcoma_superficial_de_alto_grado,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:95126	inCount:0	outCount:1	links:	url:9512/6	name:Retinoblastoma indiferenciado, metástasis	normalName:retinoblastoma_indiferenciado,_metástasis	normalWikiTitle:retinoblastoma_indiferenciado,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84206	inCount:0	outCount:1	links:	url:8420/6	name:Adenocarcinoma ceruminoso, metástasis	normalName:adenocarcinoma_ceruminoso,_metástasis	normalWikiTitle:adenocarcinoma_ceruminoso,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:84410	inCount:0	outCount:1	links:	url:8441/0	name:Cistadenoma seroso, SAI	normalName:cistadenoma_seroso,_sai	normalWikiTitle:cistadenoma_seroso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85513	inCount:5	outCount:1	links:	url:8551/3	name:CistadenoCa cél acinares	normalName:cistadenoca_cél_acinares	normalWikiTitle:cistadenoca_cél_acinares	predictedType:MOR_NEO
+CANDIDATE	id:85002	inCount:5	outCount:1	links:85002	url:8500/2	name:Ca intraductal no infiltrante, SAI	normalName:ca_intraductal_no_infiltrante,_sai	normalWikiTitle:ca_intraductal_no_infiltrante,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81433	inCount:5	outCount:1	links:	url:8143/3	name:AdenoCa con diseminación superficial	normalName:adenoca_con_diseminación_superficial	normalWikiTitle:adenoca_con_diseminación_superficial	predictedType:MOR_NEO
+CANDIDATE	id:85042	inCount:5	outCount:1	links:	url:8504/2	name:Ca intraquístico no infiltrante	normalName:ca_intraquístico_no_infiltrante	normalWikiTitle:ca_intraquístico_no_infiltrante	predictedType:MOR_NEO
+CANDIDATE	id:855131	inCount:0	outCount:1	links:	url:8551/31	name:CistadenoCa cél acinares - G1	normalName:cistadenoca_cél_acinares_-_g1	normalWikiTitle:cistadenoca_cél_acinares_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:855132	inCount:0	outCount:1	links:	url:8551/32	name:CistadenoCa cél acinares - G2	normalName:cistadenoca_cél_acinares_-_g2	normalWikiTitle:cistadenoca_cél_acinares_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:855133	inCount:0	outCount:1	links:	url:8551/33	name:CistadenoCa cél acinares - G3	normalName:cistadenoca_cél_acinares_-_g3	normalWikiTitle:cistadenoca_cél_acinares_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:855134	inCount:0	outCount:1	links:	url:8551/34	name:CistadenoCa cél acinares - G4	normalName:cistadenoca_cél_acinares_-_g4	normalWikiTitle:cistadenoca_cél_acinares_-_g4	predictedType:MOR_NEO
+ENTITY	text:NCDPB	normalName:ncdpb	predictedType:MOR_NEO	q:true	qid:Q581	docId:S0034-98872017000100015-1	origText:NCDPB	url:NaN
+CANDIDATE	id:90731	inCount:0	outCount:1	links:	url:9073/1	name:Gonadoblastoma	normalName:gonadoblastoma	normalWikiTitle:gonadoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:82700	inCount:0	outCount:1	links:	url:8270/0	name:Adenoma cromófobo	normalName:adenoma_cromófobo	normalWikiTitle:adenoma_cromófobo	predictedType:MOR_NEO
+CANDIDATE	id:85060	inCount:0	outCount:1	links:	url:8506/0	name:Adenoma del pezón	normalName:adenoma_del_pezón	normalWikiTitle:adenoma_del_pezón	predictedType:MOR_NEO
+CANDIDATE	id:86321	inCount:0	outCount:1	links:	url:8632/1	name:Ginandroblastoma	normalName:ginandroblastoma	normalWikiTitle:ginandroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:88620	inCount:0	outCount:1	links:	url:8862/0	name:Lipoma condroide	normalName:lipoma_condroide	normalWikiTitle:lipoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:86301	inCount:0	outCount:1	links:	url:8630/1	name:Androblastoma, SAI	normalName:androblastoma,_sai	normalWikiTitle:androblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:93713	inCount:5	outCount:1	links:	url:9371/3	name:Cordoma condroide	normalName:cordoma_condroide	normalWikiTitle:cordoma_condroide	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:82451	inCount:0	outCount:1	links:	url:8245/1	name:Carcinoide tubular	normalName:carcinoide_tubular	normalWikiTitle:carcinoide_tubular	predictedType:MOR_NEO
+CANDIDATE	id:841039	inCount:0	outCount:1	links:	url:8410/39	name:AdenoCa sebáceo - GSD	normalName:adenoca_sebáceo_-_gsd	normalWikiTitle:adenoca_sebáceo_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:821139	inCount:0	outCount:1	links:	url:8211/39	name:AdenoCa tubular - GSD	normalName:adenoca_tubular_-_gsd	normalWikiTitle:adenoca_tubular_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:823139	inCount:0	outCount:1	links:	url:8231/39	name:Ca simple - GSD	normalName:ca_simple_-_gsd	normalWikiTitle:ca_simple_-_gsd	predictedType:MOR_NEO

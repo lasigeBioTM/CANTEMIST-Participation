@@ -1,0 +1,50 @@
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:MOR_NEO	q:true	qid:Q1130	docId:cc_onco1436	origText:neoplasia	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:80000	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:93623	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+ENTITY	text:diseminación peritoneal	normalName:diseminación_peritoneal	predictedType:MOR_NEO	q:true	qid:Q1130	docId:cc_onco1436	origText:diseminación peritoneal	url:NaN
+CANDIDATE	id:95713	inCount:5	outCount:1	links:	url:9571/3	name:Perineuroma maligno	normalName:perineuroma_maligno	normalWikiTitle:perineuroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:81433	inCount:5	outCount:1	links:	url:8143/3	name:Adenocarcinoma con diseminación superficial	normalName:adenocarcinoma_con_diseminación_superficial	normalWikiTitle:adenocarcinoma_con_diseminación_superficial	predictedType:MOR_NEO
+CANDIDATE	id:90603	inCount:5	outCount:1	links:	url:9060/3	name:Disgerminoma	normalName:disgerminoma	normalWikiTitle:disgerminoma	predictedType:MOR_NEO
+CANDIDATE	id:83333	inCount:5	outCount:1	links:	url:8333/3	name:Adenocarcinoma fetal	normalName:adenocarcinoma_fetal	normalWikiTitle:adenocarcinoma_fetal	predictedType:MOR_NEO
+CANDIDATE	id:94130	inCount:0	outCount:1	links:	url:9413/0	name:Tumor neuroepitelial disembrioplásico	normalName:tumor_neuroepitelial_disembrioplásico	normalWikiTitle:tumor_neuroepitelial_disembrioplásico	predictedType:MOR_NEO
+CANDIDATE	id:84083	inCount:5	outCount:1	links:	url:8408/3	name:Adenocarcinoma papilar ecrino	normalName:adenocarcinoma_papilar_ecrino	normalWikiTitle:adenocarcinoma_papilar_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:84133	inCount:5	outCount:1	links:	url:8413/3	name:Adenocarcinoma ecrino	normalName:adenocarcinoma_ecrino	normalWikiTitle:adenocarcinoma_ecrino	predictedType:MOR_NEO
+CANDIDATE	id:85733	inCount:5	outCount:1	links:	url:8573/3	name:Adenocarcinoma con metaplasia apocrina	normalName:adenocarcinoma_con_metaplasia_apocrina	normalWikiTitle:adenocarcinoma_con_metaplasia_apocrina	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91500	inCount:0	outCount:1	links:	url:9150/0	name:Hemangiopericitoma benigno	normalName:hemangiopericitoma_benigno	normalWikiTitle:hemangiopericitoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:81433	inCount:5	outCount:1	links:	url:8143/3	name:AdenoCa con diseminación superficial	normalName:adenoca_con_diseminación_superficial	normalWikiTitle:adenoca_con_diseminación_superficial	predictedType:MOR_NEO
+CANDIDATE	id:814331	inCount:0	outCount:1	links:	url:8143/31	name:AdenoCa con diseminación superficial - G1	normalName:adenoca_con_diseminación_superficial_-_g1	normalWikiTitle:adenoca_con_diseminación_superficial_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:814332	inCount:0	outCount:1	links:	url:8143/32	name:AdenoCa con diseminación superficial - G2	normalName:adenoca_con_diseminación_superficial_-_g2	normalWikiTitle:adenoca_con_diseminación_superficial_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:814333	inCount:0	outCount:1	links:	url:8143/33	name:AdenoCa con diseminación superficial - G3	normalName:adenoca_con_diseminación_superficial_-_g3	normalWikiTitle:adenoca_con_diseminación_superficial_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:814334	inCount:0	outCount:1	links:	url:8143/34	name:AdenoCa con diseminación superficial - G4	normalName:adenoca_con_diseminación_superficial_-_g4	normalWikiTitle:adenoca_con_diseminación_superficial_-_g4	predictedType:MOR_NEO
+CANDIDATE	id:814339	inCount:0	outCount:1	links:	url:8143/39	name:AdenoCa con diseminación superficial - GSD	normalName:adenoca_con_diseminación_superficial_-_gsd	normalWikiTitle:adenoca_con_diseminación_superficial_-_gsd	predictedType:MOR_NEO
+ENTITY	text:carcinoma seroso papilar de ovario bien diferenciado	normalName:carcinoma_seroso_papilar_de_ovario_bien_diferenciado	predictedType:MOR_NEO	q:true	qid:Q1130	docId:cc_onco1436	origText:carcinoma seroso papilar de ovario bien diferenciado	url:NaN
+CANDIDATE	id:827034	inCount:0	outCount:1	links:	url:8270/34	name:Carcinoma cromófobo - grado IV, indiferenciado	normalName:carcinoma_cromófobo_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_cromófobo_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:801034	inCount:0	outCount:1	links:	url:8010/34	name:Carcinoma, SAI - grado IV, indiferenciado	normalName:carcinoma,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:807034	inCount:0	outCount:1	links:	url:8070/34	name:Carcinoma epidermoide, SAI - grado IV, indiferenciado	normalName:carcinoma_epidermoide,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_epidermoide,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:814134	inCount:0	outCount:1	links:	url:8141/34	name:Adenocarcinoma escirro - grado IV, indiferenciado	normalName:adenocarcinoma_escirro_-_grado_iv,_indiferenciado	normalWikiTitle:adenocarcinoma_escirro_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:825131	inCount:0	outCount:1	links:	url:8251/31	name:Adenocarcinoma alveolar - grado I, bien diferenciado	normalName:adenocarcinoma_alveolar_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_alveolar_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:825134	inCount:0	outCount:1	links:	url:8251/34	name:Adenocarcinoma alveolar - grado IV, indiferenciado	normalName:adenocarcinoma_alveolar_-_grado_iv,_indiferenciado	normalWikiTitle:adenocarcinoma_alveolar_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:827234	inCount:0	outCount:1	links:	url:8272/34	name:Carcinoma hipofisario, SAI - grado IV, indiferenciado	normalName:carcinoma_hipofisario,_sai_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_hipofisario,_sai_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:834334	inCount:0	outCount:1	links:	url:8343/34	name:Carcinoma papilar encapsulado - grado IV, indiferenciado	normalName:carcinoma_papilar_encapsulado_-_grado_iv,_indiferenciado	normalWikiTitle:carcinoma_papilar_encapsulado_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:840131	inCount:0	outCount:1	links:	url:8401/31	name:Adenocarcinoma apocrino - grado I, bien diferenciado	normalName:adenocarcinoma_apocrino_-_grado_i,_bien_diferenciado	normalWikiTitle:adenocarcinoma_apocrino_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:842034	inCount:0	outCount:1	links:	url:8420/34	name:Adenocarcinoma ceruminoso - grado IV, indiferenciado	normalName:adenocarcinoma_ceruminoso_-_grado_iv,_indiferenciado	normalWikiTitle:adenocarcinoma_ceruminoso_-_grado_iv,_indiferenciado	predictedType:MOR_NEO
+ENTITY	text:neoplásica	normalName:neoplásica	predictedType:MOR_NEO	q:true	qid:Q1130	docId:cc_onco1436	origText:neoplásica	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:80000	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:80003	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:88230	inCount:0	outCount:1	links:	url:8823/0	name:Fibroma desmoplásico	normalName:fibroma_desmoplásico	normalWikiTitle:fibroma_desmoplásico	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:80006	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:93623	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:90623	inCount:1	outCount:1	links:	url:9062/3	name:Seminoma anaplásico	normalName:seminoma_anaplásico	normalWikiTitle:seminoma_anaplásico	predictedType:MOR_NEO
+CANDIDATE	id:88700	inCount:0	outCount:1	links:	url:8870/0	name:Mielolipoma	normalName:mielolipoma	normalWikiTitle:mielolipoma	predictedType:MOR_NEO
+CANDIDATE	id:89601	inCount:0	outCount:1	links:	url:8960/1	name:Nefroma mesoblástico	normalName:nefroma_mesoblástico	normalWikiTitle:nefroma_mesoblástico	predictedType:MOR_NEO
+CANDIDATE	id:93611	inCount:0	outCount:1	links:	url:9361/1	name:Pineocitoma	normalName:pineocitoma	normalWikiTitle:pineocitoma	predictedType:MOR_NEO

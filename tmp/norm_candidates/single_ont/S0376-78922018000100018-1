@@ -1,0 +1,33 @@
+ENTITY	text:tumoral	normalName:tumoral	predictedType:MOR_NEO	q:true	qid:Q1658	docId:S0376-78922018000100018-1	origText:tumoral	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:83610	inCount:0	outCount:1	links:	url:8361/0	name:Tumor yuxtaglomerular	normalName:tumor_yuxtaglomerular	normalWikiTitle:tumor_yuxtaglomerular	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:85801	inCount:0	outCount:1	links:	url:8580/1	name:Timoma, SAI	normalName:timoma,_sai	normalWikiTitle:timoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88240	inCount:0	outCount:1	links:	url:8824/0	name:Miofibroma	normalName:miofibroma	normalWikiTitle:miofibroma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+ENTITY	text:osteosarcoma condroblástico	normalName:osteosarcoma_condroblástico	predictedType:MOR_NEO	q:true	qid:Q1658	docId:S0376-78922018000100018-1	origText:osteosarcoma condroblástico	url:NaN
+CANDIDATE	id:91933	inCount:5	outCount:1	links:91933	url:9193/3	name:Osteosarcoma perióstico	normalName:osteosarcoma_perióstico	normalWikiTitle:osteosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:91803	inCount:5	outCount:1	links:91803	url:9180/3	name:Osteosarcoma, SAI	normalName:osteosarcoma,_sai	normalWikiTitle:osteosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91923	inCount:5	outCount:1	links:91923	url:9192/3	name:Osteosarcoma paraóseo	normalName:osteosarcoma_paraóseo	normalWikiTitle:osteosarcoma_paraóseo	predictedType:MOR_NEO
+CANDIDATE	id:91833	inCount:5	outCount:1	links:91833	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
+CANDIDATE	id:91936	inCount:0	outCount:1	links:	url:9193/6	name:Osteosarcoma perióstico, metástasis	normalName:osteosarcoma_perióstico,_metástasis	normalWikiTitle:osteosarcoma_perióstico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88123	inCount:5	outCount:1	links:	url:8812/3	name:Fibrosarcoma perióstico	normalName:fibrosarcoma_perióstico	normalWikiTitle:fibrosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:91023	inCount:5	outCount:1	links:	url:9102/3	name:Teratoma trofoblástico maligno	normalName:teratoma_trofoblástico_maligno	normalWikiTitle:teratoma_trofoblástico_maligno	predictedType:MOR_NEO
+CANDIDATE	id:93423	inCount:5	outCount:1	links:	url:9342/3	name:Carcinosarcoma odontogénico	normalName:carcinosarcoma_odontogénico	normalWikiTitle:carcinosarcoma_odontogénico	predictedType:MOR_NEO
+CANDIDATE	id:94103	inCount:5	outCount:1	links:	url:9410/3	name:Astrocitoma protoplasmático	normalName:astrocitoma_protoplasmático	normalWikiTitle:astrocitoma_protoplasmático	predictedType:MOR_NEO
+CANDIDATE	id:92213	inCount:5	outCount:1	links:92213	url:9221/3	name:Condrosarcoma yuxtacortical	normalName:condrosarcoma_yuxtacortical	normalWikiTitle:condrosarcoma_yuxtacortical	predictedType:MOR_NEO
+ENTITY	text:osteosarcoma condroblástico de alto grado	normalName:osteosarcoma_condroblástico_de_alto_grado	predictedType:MOR_NEO	q:true	qid:Q1658	docId:S0376-78922018000100018-1	origText:osteosarcoma condroblástico de alto grado	url:NaN
+CANDIDATE	id:91933	inCount:5	outCount:1	links:91933	url:9193/3	name:Osteosarcoma perióstico	normalName:osteosarcoma_perióstico	normalWikiTitle:osteosarcoma_perióstico	predictedType:MOR_NEO
+CANDIDATE	id:91923	inCount:5	outCount:1	links:91923	url:9192/3	name:Osteosarcoma paraóseo	normalName:osteosarcoma_paraóseo	normalWikiTitle:osteosarcoma_paraóseo	predictedType:MOR_NEO
+CANDIDATE	id:91813	inCount:5	outCount:1	links:	url:9181/3	name:Osteosarcoma condroblástico	normalName:osteosarcoma_condroblástico	normalWikiTitle:osteosarcoma_condroblástico	predictedType:MOR_NEO
+CANDIDATE	id:812431	inCount:0	outCount:1	links:	url:8124/31	name:Carcinoma cloacogénico - grado I, bien diferenciado	normalName:carcinoma_cloacogénico_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_cloacogénico_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:893331	inCount:0	outCount:1	links:	url:8933/31	name:Adenosarcoma - grado I, bien diferenciado	normalName:adenosarcoma_-_grado_i,_bien_diferenciado	normalWikiTitle:adenosarcoma_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:91833	inCount:5	outCount:1	links:91833	url:9183/3	name:Osteosarcoma telangiectásico	normalName:osteosarcoma_telangiectásico	normalWikiTitle:osteosarcoma_telangiectásico	predictedType:MOR_NEO
+CANDIDATE	id:92213	inCount:5	outCount:1	links:92213	url:9221/3	name:Condrosarcoma yuxtacortical	normalName:condrosarcoma_yuxtacortical	normalWikiTitle:condrosarcoma_yuxtacortical	predictedType:MOR_NEO
+CANDIDATE	id:827031	inCount:0	outCount:1	links:	url:8270/31	name:Carcinoma cromófobo - grado I, bien diferenciado	normalName:carcinoma_cromófobo_-_grado_i,_bien_diferenciado	normalWikiTitle:carcinoma_cromófobo_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO
+CANDIDATE	id:91803	inCount:5	outCount:1	links:91803	url:9180/3	name:Osteosarcoma, SAI	normalName:osteosarcoma,_sai	normalWikiTitle:osteosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:918131	inCount:0	outCount:1	links:	url:9181/31	name:Osteosarcoma condroblástico - grado I, bien diferenciado	normalName:osteosarcoma_condroblástico_-_grado_i,_bien_diferenciado	normalWikiTitle:osteosarcoma_condroblástico_-_grado_i,_bien_diferenciado	predictedType:MOR_NEO

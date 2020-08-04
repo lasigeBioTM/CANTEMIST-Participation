@@ -1,0 +1,86 @@
+ENTITY	text:neoplasia	normalName:neoplasia	predictedType:MOR_NEO	q:true	qid:Q2261	docId:cc_onco1389	origText:neoplasia	url:NaN
+CANDIDATE	id:80000	inCount:0	outCount:1	links:	url:8000/0	name:Neoplasia benigna	normalName:neoplasia_benigna	normalWikiTitle:neoplasia_benigna	predictedType:MOR_NEO
+CANDIDATE	id:80003	inCount:5	outCount:1	links:	url:8000/3	name:Neoplasia maligna	normalName:neoplasia_maligna	normalWikiTitle:neoplasia_maligna	predictedType:MOR_NEO
+CANDIDATE	id:93623	inCount:5	outCount:1	links:	url:9362/3	name:Pineoblastoma	normalName:pineoblastoma	normalWikiTitle:pineoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:80006	inCount:0	outCount:1	links:	url:8000/6	name:Neoplasia metastásica	normalName:neoplasia_metastásica	normalWikiTitle:neoplasia_metastásica	predictedType:MOR_NEO
+CANDIDATE	id:95700	inCount:0	outCount:1	links:	url:9570/0	name:Neuroma, SAI	normalName:neuroma,_sai	normalWikiTitle:neuroma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95033	inCount:5	outCount:1	links:	url:9503/3	name:Neuroepitelioma, SAI	normalName:neuroepitelioma,_sai	normalWikiTitle:neuroepitelioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88200	inCount:0	outCount:1	links:	url:8820/0	name:Elastofibroma	normalName:elastofibroma	normalWikiTitle:elastofibroma	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:89603	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89713	inCount:5	outCount:1	links:	url:8971/3	name:Pancreatoblastoma	normalName:pancreatoblastoma	normalWikiTitle:pancreatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:95003	inCount:5	outCount:1	links:95003	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:9	inCount:50	outCount:1	links:	url:D00-D09	name:NEOPLASIAS IN SITU 	normalName:neoplasias_in_situ_	normalWikiTitle:neoplasias_in_situ_	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:3	outCount:1	links:	url:D30.0	name:Neoplasia benigna de riñón	normalName:neoplasia_benigna_de_riñón	normalWikiTitle:neoplasia_benigna_de_riñón	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:3	outCount:1	links:	url:C03	name:Neoplasia maligna de encía	normalName:neoplasia_maligna_de_encía	normalWikiTitle:neoplasia_maligna_de_encía	predictedType:MOR_NEO
+CANDIDATE	id:502	inCount:0	outCount:1	links:	url:C05.2	name:Neoplasia maligna de úvula	normalName:neoplasia_maligna_de_úvula	normalWikiTitle:neoplasia_maligna_de_úvula	predictedType:MOR_NEO
+CANDIDATE	id:9562	inCount:18	outCount:3	links:	url:9562	name:neoplasias	normalName:neoplasias	normalWikiTitle:neoplasias	predictedType:MOR_NEO
+CANDIDATE	id:8147	inCount:1	outCount:2	links:	url:8147	name:leucoplasia	normalName:leucoplasia	normalWikiTitle:leucoplasia	predictedType:MOR_NEO
+CANDIDATE	id:12636	inCount:0	outCount:3	links:	url:12636	name:rinoplastia	normalName:rinoplastia	normalWikiTitle:rinoplastia	predictedType:MOR_NEO
+CANDIDATE	id:722	inCount:0	outCount:1	links:	url:722	name:anaplasia	normalName:anaplasia	normalWikiTitle:anaplasia	predictedType:MOR_NEO
+CANDIDATE	id:30020	inCount:1	outCount:1	links:	url:30020	name:Kinetoplastida	normalName:kinetoplastida	normalWikiTitle:kinetoplastida	predictedType:MOR_NEO
+ENTITY	text:metástasis de tumor maligno de estirpe neuroendocrina	normalName:metástasis_de_tumor_maligno_de_estirpe_neuroendocrina	predictedType:MOR_NEO	q:true	qid:Q2261	docId:cc_onco1389	origText:metástasis de tumor maligno de estirpe neuroendocrina	url:NaN
+CANDIDATE	id:85743	inCount:5	outCount:1	links:	url:8574/3	name:Adenocarcinoma con diferenciación neuroendocrina	normalName:adenocarcinoma_con_diferenciación_neuroendocrina	normalWikiTitle:adenocarcinoma_con_diferenciación_neuroendocrina	predictedType:MOR_NEO
+CANDIDATE	id:80136	inCount:0	outCount:1	links:	url:8013/6	name:Carcinoma neuroendocrino de células grandes, metástasis	normalName:carcinoma_neuroendocrino_de_células_grandes,_metástasis	normalWikiTitle:carcinoma_neuroendocrino_de_células_grandes,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94246	inCount:0	outCount:1	links:	url:9424/6	name:Xantoastrocitoma pleomorfo, metástasis	normalName:xantoastrocitoma_pleomorfo,_metástasis	normalWikiTitle:xantoastrocitoma_pleomorfo,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94606	inCount:0	outCount:1	links:	url:9460/6	name:Oligodendroblastoma, metástasis	normalName:oligodendroblastoma,_metástasis	normalWikiTitle:oligodendroblastoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80133	inCount:5	outCount:1	links:	url:8013/3	name:Carcinoma neuroendocrino de células grandes	normalName:carcinoma_neuroendocrino_de_células_grandes	normalWikiTitle:carcinoma_neuroendocrino_de_células_grandes	predictedType:MOR_NEO
+CANDIDATE	id:82466	inCount:0	outCount:1	links:	url:8246/6	name:Carcinoma neuroendocrino, SAI, metástasis	normalName:carcinoma_neuroendocrino,_sai,_metástasis	normalWikiTitle:carcinoma_neuroendocrino,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:85746	inCount:0	outCount:1	links:	url:8574/6	name:Adenocarcinoma con diferenciación neuroendocrina, metástasis	normalName:adenocarcinoma_con_diferenciación_neuroendocrina,_metástasis	normalWikiTitle:adenocarcinoma_con_diferenciación_neuroendocrina,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94506	inCount:0	outCount:1	links:	url:9450/6	name:Oligodendroglioma, SAI, metástasis	normalName:oligodendroglioma,_sai,_metástasis	normalWikiTitle:oligodendroglioma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81026	inCount:0	outCount:1	links:	url:8102/6	name:Triquilemocarcinoma, metástasis	normalName:triquilemocarcinoma,_metástasis	normalWikiTitle:triquilemocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90816	inCount:0	outCount:1	links:	url:9081/6	name:Teratocarcinoma, metástasis	normalName:teratocarcinoma,_metástasis	normalWikiTitle:teratocarcinoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:82466	inCount:0	outCount:1	links:	url:8246/6	name:Ca neuroendocrino, SAI, metástasis	normalName:ca_neuroendocrino,_sai,_metástasis	normalWikiTitle:ca_neuroendocrino,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:700070	inCount:1	outCount:1	links:	url:C7A-C7A	name:TUMORES MALIGNOS NEUROENDOCRINOS (C7A)	normalName:tumores_malignos_neuroendocrinos_(c7a)	normalWikiTitle:tumores_malignos_neuroendocrinos_(c7a)	predictedType:MOR_NEO
+CANDIDATE	id:70	inCount:3	outCount:1	links:	url:C7A	name:Tumores malignos neuroendocrinos	normalName:tumores_malignos_neuroendocrinos	normalWikiTitle:tumores_malignos_neuroendocrinos	predictedType:MOR_NEO
+CANDIDATE	id:7001	inCount:0	outCount:1	links:	url:C7A.1	name:Tumores neuroendocrinos malignos mal diferenciados	normalName:tumores_neuroendocrinos_malignos_mal_diferenciados	normalWikiTitle:tumores_neuroendocrinos_malignos_mal_diferenciados	predictedType:MOR_NEO
+CANDIDATE	id:7008	inCount:0	outCount:1	links:	url:C7A.8	name:Otros tumores neuroendocrinos malignos	normalName:otros_tumores_neuroendocrinos_malignos	normalWikiTitle:otros_tumores_neuroendocrinos_malignos	predictedType:MOR_NEO
+CANDIDATE	id:7802	inCount:0	outCount:1	links:	url:C78.2	name:Neoplasia maligna secundaria de pleura	normalName:neoplasia_maligna_secundaria_de_pleura	normalWikiTitle:neoplasia_maligna_secundaria_de_pleura	predictedType:MOR_NEO
+CANDIDATE	id:25174	inCount:0	outCount:2	links:	url:25174	name:estaciones de transferencia	normalName:estaciones_de_transferencia	normalWikiTitle:estaciones_de_transferencia	predictedType:MOR_NEO
+CANDIDATE	id:31587	inCount:4	outCount:2	links:	url:31587	name:carcinoma neuroendocrino	normalName:carcinoma_neuroendocrino	normalWikiTitle:carcinoma_neuroendocrino	predictedType:MOR_NEO
+CANDIDATE	id:55534	inCount:0	outCount:1	links:	url:55534	name:interneuronas comisurales	normalName:interneuronas_comisurales	normalWikiTitle:interneuronas_comisurales	predictedType:MOR_NEO
+CANDIDATE	id:51058	inCount:0	outCount:1	links:	url:51058	name:factor 1 de unión al potenciador linfoide	normalName:factor_1_de_unión_al_potenciador_linfoide	normalWikiTitle:factor_1_de_unión_al_potenciador_linfoide	predictedType:MOR_NEO
+CANDIDATE	id:52992	inCount:0	outCount:1	links:	url:52992	name:células neuroendocrinas	normalName:células_neuroendocrinas	normalWikiTitle:células_neuroendocrinas	predictedType:MOR_NEO
+ENTITY	text:Neuroblastoma anaplásico	normalName:neuroblastoma_anaplásico	predictedType:MOR_NEO	q:true	qid:Q2261	docId:cc_onco1389	origText:Neuroblastoma anaplásico	url:NaN
+CANDIDATE	id:95003	inCount:5	outCount:1	links:95003	url:9500/3	name:Neuroblastoma, SAI	normalName:neuroblastoma,_sai	normalWikiTitle:neuroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89603	inCount:5	outCount:1	links:89603	url:8960/3	name:Nefroblastoma, SAI	normalName:nefroblastoma,_sai	normalWikiTitle:nefroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95223	inCount:5	outCount:1	links:	url:9522/3	name:Neuroblastoma olfatorio	normalName:neuroblastoma_olfatorio	normalWikiTitle:neuroblastoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:86303	inCount:5	outCount:1	links:	url:8630/3	name:Androblastoma maligno	normalName:androblastoma_maligno	normalWikiTitle:androblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:92303	inCount:5	outCount:1	links:	url:9230/3	name:Condroblastoma maligno	normalName:condroblastoma_maligno	normalWikiTitle:condroblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:86301	inCount:0	outCount:1	links:	url:8630/1	name:Androblastoma, SAI	normalName:androblastoma,_sai	normalWikiTitle:androblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86300	inCount:0	outCount:1	links:	url:8630/0	name:Androblastoma benigno	normalName:androblastoma_benigno	normalWikiTitle:androblastoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:93103	inCount:5	outCount:1	links:	url:9310/3	name:Ameloblastoma maligno	normalName:ameloblastoma_maligno	normalWikiTitle:ameloblastoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:92300	inCount:0	outCount:1	links:	url:9230/0	name:Condroblastoma, SAI	normalName:condroblastoma,_sai	normalWikiTitle:condroblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:94703	inCount:5	outCount:1	links:	url:9470/3	name:Meduloblastoma, SAI	normalName:meduloblastoma,_sai	normalWikiTitle:meduloblastoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:6302	inCount:0	outCount:1	links:	url:C63.2	name:Neoplasia maligna de escroto	normalName:neoplasia_maligna_de_escroto	normalWikiTitle:neoplasia_maligna_de_escroto	predictedType:MOR_NEO
+CANDIDATE	id:7106	inCount:0	outCount:1	links:	url:C71.6	name:Neoplasia maligna de cerebelo	normalName:neoplasia_maligna_de_cerebelo	normalWikiTitle:neoplasia_maligna_de_cerebelo	predictedType:MOR_NEO
+CANDIDATE	id:0	inCount:9	outCount:1	links:	url:C00	name:Neoplasia maligna de labio	normalName:neoplasia_maligna_de_labio	normalWikiTitle:neoplasia_maligna_de_labio	predictedType:MOR_NEO
+CANDIDATE	id:57012	inCount:0	outCount:1	links:	url:C57.12	name:Neoplasia maligna de ligamento ancho izquierdo	normalName:neoplasia_maligna_de_ligamento_ancho_izquierdo	normalWikiTitle:neoplasia_maligna_de_ligamento_ancho_izquierdo	predictedType:MOR_NEO
+CANDIDATE	id:9640	inCount:2	outCount:1	links:	url:9640	name:neuroblastoma	normalName:neuroblastoma	normalWikiTitle:neuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:9649	inCount:0	outCount:1	links:	url:9649	name:neuroleptanalgesia	normalName:neuroleptanalgesia	normalWikiTitle:neuroleptanalgesia	predictedType:MOR_NEO
+CANDIDATE	id:31453	inCount:0	outCount:1	links:	url:31453	name:ganglioneuroblastoma	normalName:ganglioneuroblastoma	normalWikiTitle:ganglioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:31476	inCount:0	outCount:2	links:	url:31476	name:estesioneuroblastoma olfatorio	normalName:estesioneuroblastoma_olfatorio	normalWikiTitle:estesioneuroblastoma_olfatorio	predictedType:MOR_NEO
+CANDIDATE	id:2854	inCount:0	outCount:1	links:	url:2854	name:condroblastoma	normalName:condroblastoma	normalWikiTitle:condroblastoma	predictedType:MOR_NEO
+ENTITY	text:tumor	normalName:tumor	predictedType:MOR_NEO	q:true	qid:Q2261	docId:cc_onco1389	origText:tumor	url:NaN
+CANDIDATE	id:80401	inCount:0	outCount:1	links:	url:8040/1	name:Tumorlet, SAI	normalName:tumorlet,_sai	normalWikiTitle:tumorlet,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor de Askin	normalName:tumor_de_askin	normalWikiTitle:tumor_de_askin	predictedType:MOR_NEO
+CANDIDATE	id:80400	inCount:0	outCount:1	links:	url:8040/0	name:Tumorlet, benigno	normalName:tumorlet,_benigno	normalWikiTitle:tumorlet,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:87110	inCount:0	outCount:1	links:	url:8711/0	name:Tumor glómico, SAI	normalName:tumor_glómico,_sai	normalWikiTitle:tumor_glómico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80901	inCount:0	outCount:1	links:	url:8090/1	name:Tumor basocelular	normalName:tumor_basocelular	normalWikiTitle:tumor_basocelular	predictedType:MOR_NEO
+CANDIDATE	id:81623	inCount:5	outCount:1	links:	url:8162/3	name:Tumor de Klatskin	normalName:tumor_de_klatskin	normalWikiTitle:tumor_de_klatskin	predictedType:MOR_NEO
+CANDIDATE	id:89723	inCount:5	outCount:1	links:	url:8972/3	name:Blastoma pulmonar	normalName:blastoma_pulmonar	normalWikiTitle:blastoma_pulmonar	predictedType:MOR_NEO
+CANDIDATE	id:89351	inCount:0	outCount:1	links:	url:8935/1	name:Tumor estromal, SAI	normalName:tumor_estromal,_sai	normalWikiTitle:tumor_estromal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:90900	inCount:0	outCount:1	links:	url:9090/0	name:Estruma ovárico, SAI	normalName:estruma_ovárico,_sai	normalWikiTitle:estruma_ovárico,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81023	inCount:5	outCount:1	links:	url:8102/3	name:Triquilemocarcinoma	normalName:triquilemocarcinoma	normalWikiTitle:triquilemocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:93653	inCount:5	outCount:1	links:	url:9365/3	name:Tumor, Askin	normalName:tumor,_askin	normalWikiTitle:tumor,_askin	predictedType:MOR_NEO
+CANDIDATE	id:4704	inCount:0	outCount:1	links:	url:D47.4	name:Osteomielofibrosis	normalName:osteomielofibrosis	normalWikiTitle:osteomielofibrosis	predictedType:MOR_NEO
+CANDIDATE	id:7000	inCount:4	outCount:1	links:	url:C7A.0	name:Tumores carcinoides malignos	normalName:tumores_carcinoides_malignos	normalWikiTitle:tumores_carcinoides_malignos	predictedType:MOR_NEO
+CANDIDATE	id:9003	inCount:3	outCount:1	links:	url:C90.3	name:Plasmocitoma solitario	normalName:plasmocitoma_solitario	normalWikiTitle:plasmocitoma_solitario	predictedType:MOR_NEO
+CANDIDATE	id:2501	inCount:0	outCount:1	links:	url:D25.1	name:Leiomioma intramural de útero	normalName:leiomioma_intramural_de_útero	normalWikiTitle:leiomioma_intramural_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:3000	inCount:4	outCount:1	links:	url:D3A.0	name:Tumores carcinoides benignos	normalName:tumores_carcinoides_benignos	normalWikiTitle:tumores_carcinoides_benignos	predictedType:MOR_NEO
+CANDIDATE	id:8324	inCount:0	outCount:1	links:	url:8324	name:amor	normalName:amor	normalWikiTitle:amor	predictedType:MOR_NEO
+CANDIDATE	id:13287	inCount:3	outCount:3	links:	url:13287	name:humo	normalName:humo	normalWikiTitle:humo	predictedType:MOR_NEO
+CANDIDATE	id:14338	inCount:0	outCount:1	links:	url:14338	name:timo	normalName:timo	normalWikiTitle:timo	predictedType:MOR_NEO
+CANDIDATE	id:14595	inCount:0	outCount:1	links:	url:14595	name:temblor	normalName:temblor	normalWikiTitle:temblor	predictedType:MOR_NEO
+CANDIDATE	id:51675	inCount:0	outCount:1	links:	url:51675	name:turismo	normalName:turismo	normalWikiTitle:turismo	predictedType:MOR_NEO

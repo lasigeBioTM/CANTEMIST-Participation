@@ -1,0 +1,21 @@
+ENTITY	text:lesión de tipo verrucoso	normalName:lesión_de_tipo_verrucoso	predictedType:MOR_NEO	q:true	qid:Q2144	docId:S0210-48062007000300012-1	origText:lesión de tipo verrucoso	url:NaN
+CANDIDATE	id:91420	inCount:0	outCount:1	links:	url:9142/0	name:Hemangioma verrugoso queratósico	normalName:hemangioma_verrugoso_queratósico	normalWikiTitle:hemangioma_verrugoso_queratósico	predictedType:MOR_NEO
+CANDIDATE	id:80510	inCount:0	outCount:1	links:	url:8051/0	name:Papiloma verrugoso	normalName:papiloma_verrugoso	normalWikiTitle:papiloma_verrugoso	predictedType:MOR_NEO
+CANDIDATE	id:80513	inCount:5	outCount:1	links:	url:8051/3	name:Carcinoma verrugoso, SAI	normalName:carcinoma_verrugoso,_sai	normalWikiTitle:carcinoma_verrugoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80516	inCount:0	outCount:1	links:	url:8051/6	name:Carcinoma verrugoso, SAI, metástasis	normalName:carcinoma_verrugoso,_sai,_metástasis	normalWikiTitle:carcinoma_verrugoso,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:84200	inCount:0	outCount:1	links:	url:8420/0	name:Adenoma ceruminoso	normalName:adenoma_ceruminoso	normalWikiTitle:adenoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:86010	inCount:0	outCount:1	links:	url:8601/0	name:Tecoma luteinizado	normalName:tecoma_luteinizado	normalWikiTitle:tecoma_luteinizado	predictedType:MOR_NEO
+CANDIDATE	id:88053	inCount:1	outCount:1	links:	url:8805/3	name:Sarcoma indiferenciado	normalName:sarcoma_indiferenciado	normalWikiTitle:sarcoma_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:88583	inCount:5	outCount:1	links:	url:8858/3	name:Liposarcoma desdiferenciado	normalName:liposarcoma_desdiferenciado	normalWikiTitle:liposarcoma_desdiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:26	inCount:4	outCount:1	links:	url:D26	name:Otros tumores benignos de útero	normalName:otros_tumores_benignos_de_útero	normalWikiTitle:otros_tumores_benignos_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:2209	inCount:0	outCount:1	links:	url:D22.9	name:Nevus melanocítico, no especificado	normalName:nevus_melanocítico,_no_especificado	normalWikiTitle:nevus_melanocítico,_no_especificado	predictedType:MOR_NEO
+CANDIDATE	id:4705	inCount:0	outCount:1	links:	url:C47.5	name:Neoplasia maligna de nervios periféricos de pelvis	normalName:neoplasia_maligna_de_nervios_periféricos_de_pelvis	normalWikiTitle:neoplasia_maligna_de_nervios_periféricos_de_pelvis	predictedType:MOR_NEO
+CANDIDATE	id:1000	inCount:0	outCount:1	links:	url:D10.0	name:Neoplasia benigna de labio	normalName:neoplasia_benigna_de_labio	normalWikiTitle:neoplasia_benigna_de_labio	predictedType:MOR_NEO
+CANDIDATE	id:1502	inCount:0	outCount:1	links:	url:D15.2	name:Neoplasia benigna de mediastino	normalName:neoplasia_benigna_de_mediastino	normalWikiTitle:neoplasia_benigna_de_mediastino	predictedType:MOR_NEO
+CANDIDATE	id:23741	inCount:0	outCount:1	links:	url:23741	name:lesiones por rayo	normalName:lesiones_por_rayo	normalWikiTitle:lesiones_por_rayo	predictedType:MOR_NEO
+CANDIDATE	id:31870	inCount:5	outCount:1	links:	url:31870	name:Lentivirus	normalName:lentivirus	normalWikiTitle:lentivirus	predictedType:MOR_NEO
+CANDIDATE	id:35640	inCount:0	outCount:1	links:	url:35640	name:Epsilonretrovirus	normalName:epsilonretrovirus	normalWikiTitle:epsilonretrovirus	predictedType:MOR_NEO
+CANDIDATE	id:54526	inCount:0	outCount:2	links:	url:54526	name:lesiones de nervios periféricos	normalName:lesiones_de_nervios_periféricos	normalWikiTitle:lesiones_de_nervios_periféricos	predictedType:MOR_NEO
+CANDIDATE	id:31582	inCount:1	outCount:2	links:	url:31582	name:carcinoma verrugoso	normalName:carcinoma_verrugoso	normalWikiTitle:carcinoma_verrugoso	predictedType:MOR_NEO

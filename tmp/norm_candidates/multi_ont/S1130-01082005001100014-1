@@ -1,0 +1,43 @@
+ENTITY	text:tumor gástrico submucoso estromal ( tumor	normalName:tumor_gástrico_submucoso_estromal_(_tumor	predictedType:MOR_NEO	q:true	qid:Q1892	docId:S1130-01082005001100014-1	origText:tumor gástrico submucoso estromal ( tumor	url:NaN
+CANDIDATE	id:91813	inCount:5	outCount:1	links:	url:9181/3	name:Osteosarcoma condroblástico	normalName:osteosarcoma_condroblástico	normalWikiTitle:osteosarcoma_condroblástico	predictedType:MOR_NEO
+CANDIDATE	id:91823	inCount:5	outCount:1	links:	url:9182/3	name:Osteosarcoma fibroblástico	normalName:osteosarcoma_fibroblástico	normalWikiTitle:osteosarcoma_fibroblástico	predictedType:MOR_NEO
+CANDIDATE	id:91866	inCount:0	outCount:1	links:	url:9186/6	name:Osteosarcoma central, metástasis	normalName:osteosarcoma_central,_metástasis	normalWikiTitle:osteosarcoma_central,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91816	inCount:0	outCount:1	links:	url:9181/6	name:Osteosarcoma condroblástico, metástasis	normalName:osteosarcoma_condroblástico,_metástasis	normalWikiTitle:osteosarcoma_condroblástico,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91953	inCount:5	outCount:1	links:	url:9195/3	name:Osteosarcoma intracortical	normalName:osteosarcoma_intracortical	normalWikiTitle:osteosarcoma_intracortical	predictedType:MOR_NEO
+CANDIDATE	id:91956	inCount:0	outCount:1	links:	url:9195/6	name:Osteosarcoma intracortical, metástasis	normalName:osteosarcoma_intracortical,_metástasis	normalWikiTitle:osteosarcoma_intracortical,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94243	inCount:5	outCount:1	links:	url:9424/3	name:Xantoastrocitoma pleomorfo	normalName:xantoastrocitoma_pleomorfo	normalWikiTitle:xantoastrocitoma_pleomorfo	predictedType:MOR_NEO
+CANDIDATE	id:83453	inCount:5	outCount:1	links:	url:8345/3	name:Carcinoma medular con estroma amiloide	normalName:carcinoma_medular_con_estroma_amiloide	normalWikiTitle:carcinoma_medular_con_estroma_amiloide	predictedType:MOR_NEO
+CANDIDATE	id:85870	inCount:0	outCount:1	links:	url:8587/0	name:Timoma hamartomatoso ectópico	normalName:timoma_hamartomatoso_ectópico	normalWikiTitle:timoma_hamartomatoso_ectópico	predictedType:MOR_NEO
+CANDIDATE	id:89106	inCount:0	outCount:1	links:	url:8910/6	name:Rabdomiosarcoma embrionario, metástasis	normalName:rabdomiosarcoma_embrionario,_metástasis	normalWikiTitle:rabdomiosarcoma_embrionario,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:918139	inCount:0	outCount:1	links:	url:9181/39	name:Osteosarcoma condroblástico - GSD	normalName:osteosarcoma_condroblástico_-_gsd	normalWikiTitle:osteosarcoma_condroblástico_-_gsd	predictedType:MOR_NEO
+CANDIDATE	id:2500	inCount:0	outCount:1	links:	url:D25.0	name:Leiomioma submucoso de útero	normalName:leiomioma_submucoso_de_útero	normalWikiTitle:leiomioma_submucoso_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:96022	inCount:0	outCount:1	links:	url:C96.22	name:Sarcoma de mastocitos	normalName:sarcoma_de_mastocitos	normalWikiTitle:sarcoma_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:7008	inCount:0	outCount:1	links:	url:C7A.8	name:Otros tumores neuroendocrinos malignos	normalName:otros_tumores_neuroendocrinos_malignos	normalWikiTitle:otros_tumores_neuroendocrinos_malignos	predictedType:MOR_NEO
+CANDIDATE	id:7008	inCount:0	outCount:1	links:	url:C7B.8	name:Otros tumores neuroendocrinos secundarios	normalName:otros_tumores_neuroendocrinos_secundarios	normalWikiTitle:otros_tumores_neuroendocrinos_secundarios	predictedType:MOR_NEO
+CANDIDATE	id:84012	inCount:0	outCount:1	links:	url:C84.12	name:Síndrome de Sézary, ganglios linfáticos intratorácicos	normalName:síndrome_de_sézary,_ganglios_linfáticos_intratorácicos	normalWikiTitle:síndrome_de_sézary,_ganglios_linfáticos_intratorácicos	predictedType:MOR_NEO
+CANDIDATE	id:51828	inCount:0	outCount:1	links:	url:51828	name:control automático	normalName:control_automático	normalWikiTitle:control_automático	predictedType:MOR_NEO
+CANDIDATE	id:1343	inCount:12	outCount:1	links:	url:1343	name:fármacos del sistema nervioso autónomo	normalName:fármacos_del_sistema_nervioso_autónomo	normalWikiTitle:fármacos_del_sistema_nervioso_autónomo	predictedType:MOR_NEO
+CANDIDATE	id:13507	inCount:1	outCount:1	links:	url:13507	name:traumatismos de la columna vertebral	normalName:traumatismos_de_la_columna_vertebral	normalWikiTitle:traumatismos_de_la_columna_vertebral	predictedType:MOR_NEO
+CANDIDATE	id:19504	inCount:7	outCount:1	links:	url:19504	name:sistema estomatognático	normalName:sistema_estomatognático	normalWikiTitle:sistema_estomatognático	predictedType:MOR_NEO
+CANDIDATE	id:50295	inCount:5	outCount:2	links:	url:50295	name:estudios observacionales como asunto	normalName:estudios_observacionales_como_asunto	normalWikiTitle:estudios_observacionales_como_asunto	predictedType:MOR_NEO
+ENTITY	text:schwannoma	normalName:schwannoma	predictedType:MOR_NEO	q:true	qid:Q1892	docId:S1130-01082005001100014-1	origText:schwannoma	url:NaN
+CANDIDATE	id:85610	inCount:0	outCount:1	links:	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:90613	inCount:5	outCount:1	links:	url:9061/3	name:Seminoma, SAI	normalName:seminoma,_sai	normalWikiTitle:seminoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:93501	inCount:0	outCount:1	links:	url:9350/1	name:Craneofaringioma	normalName:craneofaringioma	normalWikiTitle:craneofaringioma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:84070	inCount:0	outCount:1	links:	url:8407/0	name:Siringoma, SAI	normalName:siringoma,_sai	normalWikiTitle:siringoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:92100	inCount:0	outCount:1	links:	url:9210/0	name:Osteocondroma	normalName:osteocondroma	normalWikiTitle:osteocondroma	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:82	inCount:9	outCount:1	links:	url:C82	name:Linfoma folicular	normalName:linfoma_folicular	normalWikiTitle:linfoma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:81	inCount:7	outCount:1	links:	url:C81	name:Linfoma de Hodgkin	normalName:linfoma_de_hodgkin	normalWikiTitle:linfoma_de_hodgkin	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:9600	inCount:0	outCount:1	links:	url:C96.A	name:Sarcoma histiocítico	normalName:sarcoma_histiocítico	normalWikiTitle:sarcoma_histiocítico	predictedType:MOR_NEO
+CANDIDATE	id:38606	inCount:0	outCount:2	links:	url:38606	name:acantoma	normalName:acantoma	normalWikiTitle:acantoma	predictedType:MOR_NEO
+CANDIDATE	id:2224	inCount:0	outCount:1	links:	url:2224	name:canrenona	normalName:canrenona	normalWikiTitle:canrenona	predictedType:MOR_NEO
+CANDIDATE	id:2320	inCount:19	outCount:1	links:	url:2320	name:carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:MOR_NEO
+CANDIDATE	id:863	inCount:0	outCount:1	links:	url:863	name:anomia	normalName:anomia	normalWikiTitle:anomia	predictedType:MOR_NEO
+CANDIDATE	id:36651	inCount:0	outCount:1	links:	url:36651	name:Annona	normalName:annona	normalWikiTitle:annona	predictedType:MOR_NEO

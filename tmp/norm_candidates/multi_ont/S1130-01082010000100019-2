@@ -1,0 +1,55 @@
+ENTITY	text:carcinoma	normalName:carcinoma	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:carcinoma	url:NaN
+CANDIDATE	id:80103	inCount:5	outCount:1	links:	url:8010/3	name:Carcinoma, SAI	normalName:carcinoma,_sai	normalWikiTitle:carcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80109	inCount:0	outCount:1	links:	url:8010/9	name:Carcinomatosis	normalName:carcinomatosis	normalWikiTitle:carcinomatosis	predictedType:MOR_NEO
+CANDIDATE	id:89343	inCount:5	outCount:1	links:	url:8934/3	name:Carcinofibroma	normalName:carcinofibroma	normalWikiTitle:carcinofibroma	predictedType:MOR_NEO
+CANDIDATE	id:90813	inCount:5	outCount:1	links:	url:9081/3	name:Teratocarcinoma	normalName:teratocarcinoma	normalWikiTitle:teratocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:82313	inCount:5	outCount:1	links:	url:8231/3	name:Carcinoma simple	normalName:carcinoma_simple	normalWikiTitle:carcinoma_simple	predictedType:MOR_NEO
+CANDIDATE	id:81603	inCount:5	outCount:1	links:	url:8160/3	name:Colangiocarcinoma	normalName:colangiocarcinoma	normalWikiTitle:colangiocarcinoma	predictedType:MOR_NEO
+CANDIDATE	id:83003	inCount:5	outCount:1	links:	url:8300/3	name:Carcinoma basófilo	normalName:carcinoma_basófilo	normalWikiTitle:carcinoma_basófilo	predictedType:MOR_NEO
+CANDIDATE	id:83373	inCount:5	outCount:1	links:	url:8337/3	name:Carcinoma insular	normalName:carcinoma_insular	normalWikiTitle:carcinoma_insular	predictedType:MOR_NEO
+CANDIDATE	id:81403	inCount:5	outCount:1	links:	url:8140/3	name:Adenocarcinoma, SAI	normalName:adenocarcinoma,_sai	normalWikiTitle:adenocarcinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:82703	inCount:5	outCount:1	links:	url:8270/3	name:Carcinoma cromófobo	normalName:carcinoma_cromófobo	normalWikiTitle:carcinoma_cromófobo	predictedType:MOR_NEO
+CANDIDATE	id:82	inCount:9	outCount:1	links:	url:C82	name:Linfoma folicular	normalName:linfoma_folicular	normalWikiTitle:linfoma_folicular	predictedType:MOR_NEO
+CANDIDATE	id:83	inCount:7	outCount:1	links:	url:C83	name:Linfoma no folicular	normalName:linfoma_no_folicular	normalWikiTitle:linfoma_no_folicular	predictedType:MOR_NEO
+CANDIDATE	id:902	inCount:3	outCount:1	links:	url:D09.2	name:Carcinoma in situ de ojo	normalName:carcinoma_in_situ_de_ojo	normalWikiTitle:carcinoma_in_situ_de_ojo	predictedType:MOR_NEO
+CANDIDATE	id:4	inCount:10	outCount:1	links:	url:D04	name:Carcinoma in situ de piel	normalName:carcinoma_in_situ_de_piel	normalWikiTitle:carcinoma_in_situ_de_piel	predictedType:MOR_NEO
+CANDIDATE	id:5	inCount:4	outCount:1	links:	url:D05	name:Carcinoma in situ de mama	normalName:carcinoma_in_situ_de_mama	normalWikiTitle:carcinoma_in_situ_de_mama	predictedType:MOR_NEO
+CANDIDATE	id:2320	inCount:19	outCount:1	links:	url:2320	name:carcinoma	normalName:carcinoma	normalWikiTitle:carcinoma	predictedType:MOR_NEO
+ENTITY	text:tumor de células fusiformes	normalName:tumor_de_células_fusiformes	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:tumor de células fusiformes	url:NaN
+CANDIDATE	id:80323	inCount:5	outCount:1	links:	url:8032/3	name:Carcinoma de células fusiformes, SAI	normalName:carcinoma_de_células_fusiformes,_sai	normalWikiTitle:carcinoma_de_células_fusiformes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80043	inCount:5	outCount:1	links:	url:8004/3	name:Tumor maligno de células fusiformes	normalName:tumor_maligno_de_células_fusiformes	normalWikiTitle:tumor_maligno_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:87733	inCount:5	outCount:1	links:	url:8773/3	name:Melanoma de células fusiformes, tipo A	normalName:melanoma_de_células_fusiformes,_tipo_a	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_a	predictedType:MOR_NEO
+CANDIDATE	id:87743	inCount:5	outCount:1	links:	url:8774/3	name:Melanoma de células fusiformes, tipo B	normalName:melanoma_de_células_fusiformes,_tipo_b	normalWikiTitle:melanoma_de_células_fusiformes,_tipo_b	predictedType:MOR_NEO
+CANDIDATE	id:89123	inCount:5	outCount:1	links:	url:8912/3	name:Rabdomiosarcoma de células fusiformes	normalName:rabdomiosarcoma_de_células_fusiformes	normalWikiTitle:rabdomiosarcoma_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80303	inCount:5	outCount:1	links:	url:8030/3	name:Carcinoma de células gigantes y fusiformes	normalName:carcinoma_de_células_gigantes_y_fusiformes	normalWikiTitle:carcinoma_de_células_gigantes_y_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80433	inCount:5	outCount:1	links:	url:8043/3	name:Carcinoma de células pequeñas, tipo fusiforme	normalName:carcinoma_de_células_pequeñas,_tipo_fusiforme	normalWikiTitle:carcinoma_de_células_pequeñas,_tipo_fusiforme	predictedType:MOR_NEO
+CANDIDATE	id:80743	inCount:5	outCount:1	links:	url:8074/3	name:Carcinoma epidermoide de células fusiformes	normalName:carcinoma_epidermoide_de_células_fusiformes	normalWikiTitle:carcinoma_epidermoide_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:80326	inCount:0	outCount:1	links:	url:8032/6	name:Carcinoma de células fusiformes, SAI, metástasis	normalName:carcinoma_de_células_fusiformes,_sai,_metástasis	normalWikiTitle:carcinoma_de_células_fusiformes,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87700	inCount:0	outCount:1	links:	url:8770/0	name:Nevus de células epitelioides y fusiformes	normalName:nevus_de_células_epitelioides_y_fusiformes	normalWikiTitle:nevus_de_células_epitelioides_y_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:8205	inCount:10	outCount:1	links:	url:C82.5	name:Linfoma difuso centrofolicular	normalName:linfoma_difuso_centrofolicular	normalWikiTitle:linfoma_difuso_centrofolicular	predictedType:MOR_NEO
+CANDIDATE	id:8300	inCount:10	outCount:1	links:	url:C83.0	name:Linfoma de células B de células pequeñas	normalName:linfoma_de_células_b_de_células_pequeñas	normalWikiTitle:linfoma_de_células_b_de_células_pequeñas	predictedType:MOR_NEO
+CANDIDATE	id:83007	inCount:0	outCount:1	links:	url:C83.07	name:Linfoma de células B de células pequeñas, bazo	normalName:linfoma_de_células_b_de_células_pequeñas,_bazo	normalWikiTitle:linfoma_de_células_b_de_células_pequeñas,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:46	inCount:9	outCount:1	links:	url:D46	name:Síndromes mielodisplásicos	normalName:síndromes_mielodisplásicos	normalWikiTitle:síndromes_mielodisplásicos	predictedType:MOR_NEO
+CANDIDATE	id:12	inCount:0	outCount:1	links:	url:C12	name:Neoplasia maligna de seno piriforme	normalName:neoplasia_maligna_de_seno_piriforme	normalWikiTitle:neoplasia_maligna_de_seno_piriforme	predictedType:MOR_NEO
+CANDIDATE	id:31246	inCount:1	outCount:1	links:	url:31246	name:nevo de células fusiformes	normalName:nevo_de_células_fusiformes	normalWikiTitle:nevo_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:768	inCount:3	outCount:2	links:	url:768	name:anemia de células falciformes	normalName:anemia_de_células_falciformes	normalWikiTitle:anemia_de_células_falciformes	predictedType:MOR_NEO
+CANDIDATE	id:13572	inCount:2	outCount:1	links:	url:13572	name:Decapodiformes	normalName:decapodiformes	normalWikiTitle:decapodiformes	predictedType:MOR_NEO
+CANDIDATE	id:51595	inCount:0	outCount:1	links:	url:51595	name:células solares	normalName:células_solares	normalWikiTitle:células_solares	predictedType:MOR_NEO
+CANDIDATE	id:7533	inCount:7	outCount:1	links:	url:7533	name:uniones intercelulares	normalName:uniones_intercelulares	normalWikiTitle:uniones_intercelulares	predictedType:MOR_NEO
+ENTITY	text:leiomiosarcoma	normalName:leiomiosarcoma	predictedType:MOR_NEO	q:true	qid:Q793	docId:S1130-01082010000100019-2	origText:leiomiosarcoma	url:NaN
+CANDIDATE	id:88903	inCount:5	outCount:1	links:	url:8890/3	name:Leiomiosarcoma, SAI	normalName:leiomiosarcoma,_sai	normalWikiTitle:leiomiosarcoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:88943	inCount:5	outCount:1	links:	url:8894/3	name:Angiomiosarcoma	normalName:angiomiosarcoma	normalWikiTitle:angiomiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88953	inCount:5	outCount:1	links:	url:8895/3	name:Miosarcoma	normalName:miosarcoma	normalWikiTitle:miosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:87103	inCount:5	outCount:1	links:	url:8710/3	name:Glomangiosarcoma	normalName:glomangiosarcoma	normalWikiTitle:glomangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88113	inCount:5	outCount:1	links:	url:8811/3	name:Fibromixosarcoma	normalName:fibromixosarcoma	normalWikiTitle:fibromixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88403	inCount:5	outCount:1	links:	url:8840/3	name:Mixosarcoma	normalName:mixosarcoma	normalWikiTitle:mixosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:94423	inCount:5	outCount:1	links:	url:9442/3	name:Gliosarcoma	normalName:gliosarcoma	normalWikiTitle:gliosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:88963	inCount:5	outCount:1	links:	url:8896/3	name:Leiomiosarcoma mixoide	normalName:leiomiosarcoma_mixoide	normalWikiTitle:leiomiosarcoma_mixoide	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:89913	inCount:5	outCount:1	links:	url:8991/3	name:Sarcoma embrionario	normalName:sarcoma_embrionario	normalWikiTitle:sarcoma_embrionario	predictedType:MOR_NEO
+CANDIDATE	id:9203	inCount:3	outCount:1	links:	url:C92.3	name:Sarcoma mieloide	normalName:sarcoma_mieloide	normalWikiTitle:sarcoma_mieloide	predictedType:MOR_NEO
+CANDIDATE	id:9600	inCount:0	outCount:1	links:	url:C96.A	name:Sarcoma histiocítico	normalName:sarcoma_histiocítico	normalWikiTitle:sarcoma_histiocítico	predictedType:MOR_NEO
+CANDIDATE	id:46	inCount:8	outCount:1	links:	url:C46	name:Sarcoma de Kaposi	normalName:sarcoma_de_kaposi	normalWikiTitle:sarcoma_de_kaposi	predictedType:MOR_NEO
+CANDIDATE	id:25	inCount:4	outCount:1	links:	url:D25	name:Leiomioma de útero	normalName:leiomioma_de_útero	normalWikiTitle:leiomioma_de_útero	predictedType:MOR_NEO
+CANDIDATE	id:96022	inCount:0	outCount:1	links:	url:C96.22	name:Sarcoma de mastocitos	normalName:sarcoma_de_mastocitos	normalWikiTitle:sarcoma_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:8070	inCount:0	outCount:2	links:	url:8070	name:leiomiosarcoma	normalName:leiomiosarcoma	normalWikiTitle:leiomiosarcoma	predictedType:MOR_NEO

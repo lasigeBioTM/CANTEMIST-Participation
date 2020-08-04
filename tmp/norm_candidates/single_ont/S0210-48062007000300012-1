@@ -1,0 +1,11 @@
+ENTITY	text:lesión de tipo verrucoso	normalName:lesión_de_tipo_verrucoso	predictedType:MOR_NEO	q:true	qid:Q2144	docId:S0210-48062007000300012-1	origText:lesión de tipo verrucoso	url:NaN
+CANDIDATE	id:91420	inCount:0	outCount:1	links:	url:9142/0	name:Hemangioma verrugoso queratósico	normalName:hemangioma_verrugoso_queratósico	normalWikiTitle:hemangioma_verrugoso_queratósico	predictedType:MOR_NEO
+CANDIDATE	id:80510	inCount:0	outCount:1	links:	url:8051/0	name:Papiloma verrugoso	normalName:papiloma_verrugoso	normalWikiTitle:papiloma_verrugoso	predictedType:MOR_NEO
+CANDIDATE	id:80513	inCount:5	outCount:1	links:	url:8051/3	name:Carcinoma verrugoso, SAI	normalName:carcinoma_verrugoso,_sai	normalWikiTitle:carcinoma_verrugoso,_sai	predictedType:MOR_NEO
+CANDIDATE	id:80516	inCount:0	outCount:1	links:	url:8051/6	name:Carcinoma verrugoso, SAI, metástasis	normalName:carcinoma_verrugoso,_sai,_metástasis	normalWikiTitle:carcinoma_verrugoso,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:95043	inCount:5	outCount:1	links:	url:9504/3	name:Espongioneuroblastoma	normalName:espongioneuroblastoma	normalWikiTitle:espongioneuroblastoma	predictedType:MOR_NEO
+CANDIDATE	id:84200	inCount:0	outCount:1	links:	url:8420/0	name:Adenoma ceruminoso	normalName:adenoma_ceruminoso	normalWikiTitle:adenoma_ceruminoso	predictedType:MOR_NEO
+CANDIDATE	id:86010	inCount:0	outCount:1	links:	url:8601/0	name:Tecoma luteinizado	normalName:tecoma_luteinizado	normalWikiTitle:tecoma_luteinizado	predictedType:MOR_NEO
+CANDIDATE	id:88053	inCount:1	outCount:1	links:	url:8805/3	name:Sarcoma indiferenciado	normalName:sarcoma_indiferenciado	normalWikiTitle:sarcoma_indiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:88583	inCount:5	outCount:1	links:	url:8858/3	name:Liposarcoma desdiferenciado	normalName:liposarcoma_desdiferenciado	normalWikiTitle:liposarcoma_desdiferenciado	predictedType:MOR_NEO

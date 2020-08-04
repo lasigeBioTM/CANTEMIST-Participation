@@ -1,0 +1,21 @@
+ENTITY	text:lesión mesencefálica	normalName:lesión_mesencefálica	predictedType:MOR_NEO	q:true	qid:Q969	docId:S0716-10182013000600018-1	origText:lesión mesencefálica	url:NaN
+CANDIDATE	id:90500	inCount:0	outCount:1	links:	url:9050/0	name:Mesotelioma benigno	normalName:mesotelioma_benigno	normalWikiTitle:mesotelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:90503	inCount:5	outCount:1	links:	url:9050/3	name:Mesotelioma maligno	normalName:mesotelioma_maligno	normalWikiTitle:mesotelioma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:91100	inCount:0	outCount:1	links:	url:9110/0	name:Mesonefroma benigno	normalName:mesonefroma_benigno	normalWikiTitle:mesonefroma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:91103	inCount:5	outCount:1	links:	url:9110/3	name:Mesonefroma maligno	normalName:mesonefroma_maligno	normalWikiTitle:mesonefroma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:89900	inCount:0	outCount:1	links:	url:8990/0	name:Mesenquimoma benigno	normalName:mesenquimoma_benigno	normalWikiTitle:mesenquimoma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:89903	inCount:5	outCount:1	links:	url:8990/3	name:Mesenquimoma maligno	normalName:mesenquimoma_maligno	normalWikiTitle:mesenquimoma_maligno	predictedType:MOR_NEO
+CANDIDATE	id:88583	inCount:5	outCount:1	links:	url:8858/3	name:Liposarcoma desdiferenciado	normalName:liposarcoma_desdiferenciado	normalWikiTitle:liposarcoma_desdiferenciado	predictedType:MOR_NEO
+CANDIDATE	id:81423	inCount:5	outCount:1	links:	url:8142/3	name:Linitis plástica	normalName:linitis_plástica	normalWikiTitle:linitis_plástica	predictedType:MOR_NEO
+CANDIDATE	id:87433	inCount:5	outCount:1	links:	url:8743/3	name:Melanoma de extensión superficial	normalName:melanoma_de_extensión_superficial	normalWikiTitle:melanoma_de_extensión_superficial	predictedType:MOR_NEO
+CANDIDATE	id:95010	inCount:0	outCount:1	links:	url:9501/0	name:Meduloepitelioma benigno	normalName:meduloepitelioma_benigno	normalWikiTitle:meduloepitelioma_benigno	predictedType:MOR_NEO
+CANDIDATE	id:93	inCount:5	outCount:1	links:	url:C93	name:Leucemia monocítica	normalName:leucemia_monocítica	normalWikiTitle:leucemia_monocítica	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:70	inCount:3	outCount:1	links:	url:C70	name:Neoplasia maligna de meninges	normalName:neoplasia_maligna_de_meninges	normalWikiTitle:neoplasia_maligna_de_meninges	predictedType:MOR_NEO
+CANDIDATE	id:3103	inCount:3	outCount:1	links:	url:D31.3	name:Neoplasia benigna de coroides	normalName:neoplasia_benigna_de_coroides	normalWikiTitle:neoplasia_benigna_de_coroides	predictedType:MOR_NEO
+CANDIDATE	id:52594	inCount:2	outCount:1	links:	url:52594	name:lisencefalia	normalName:lisencefalia	normalWikiTitle:lisencefalia	predictedType:MOR_NEO
+CANDIDATE	id:55575	inCount:0	outCount:1	links:	url:55575	name:esquicencefalia	normalName:esquicencefalia	normalWikiTitle:esquicencefalia	predictedType:MOR_NEO
+CANDIDATE	id:56382	inCount:0	outCount:2	links:	url:56382	name:contusión encefálica	normalName:contusión_encefálica	normalWikiTitle:contusión_encefálica	predictedType:MOR_NEO
+CANDIDATE	id:770	inCount:0	outCount:2	links:	url:770	name:anencefalia	normalName:anencefalia	normalWikiTitle:anencefalia	predictedType:MOR_NEO
+CANDIDATE	id:53953	inCount:1	outCount:2	links:	url:53953	name:megalencefalia	normalName:megalencefalia	normalWikiTitle:megalencefalia	predictedType:MOR_NEO

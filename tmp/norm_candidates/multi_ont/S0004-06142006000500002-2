@@ -1,0 +1,55 @@
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q307	docId:S0004-06142006000500002-2	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metástasis	normalName:gliosarcoma,_metástasis	normalWikiTitle:gliosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metástasis	normalName:adenosarcoma,_metástasis	normalWikiTitle:adenosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:45	inCount:5	outCount:1	links:	url:C45	name:Mesotelioma	normalName:mesotelioma	normalWikiTitle:mesotelioma	predictedType:MOR_NEO
+CANDIDATE	id:96	inCount:16	outCount:1	links:	url:C00-C96	name:NEOPLASIAS MALIGNAS 	normalName:neoplasias_malignas_	normalWikiTitle:neoplasias_malignas_	predictedType:MOR_NEO
+CANDIDATE	id:2202	inCount:0	outCount:1	links:	url:C22.2	name:Hepatoblastoma	normalName:hepatoblastoma	normalWikiTitle:hepatoblastoma	predictedType:MOR_NEO
+CANDIDATE	id:47001	inCount:0	outCount:1	links:	url:D47.01	name:Mastocitosis cutánea	normalName:mastocitosis_cutánea	normalWikiTitle:mastocitosis_cutánea	predictedType:MOR_NEO
+CANDIDATE	id:3	inCount:10	outCount:1	links:	url:D03	name:Melanoma in situ	normalName:melanoma_in_situ	normalWikiTitle:melanoma_in_situ	predictedType:MOR_NEO
+CANDIDATE	id:6862	inCount:4	outCount:1	links:	url:6862	name:homeostasis	normalName:homeostasis	normalWikiTitle:homeostasis	predictedType:MOR_NEO
+CANDIDATE	id:2829	inCount:3	outCount:1	links:	url:2829	name:colestasis	normalName:colestasis	normalWikiTitle:colestasis	predictedType:MOR_NEO
+CANDIDATE	id:26949	inCount:0	outCount:2	links:	url:26949	name:metástasis mórbida	normalName:metástasis_mórbida	normalWikiTitle:metástasis_mórbida	predictedType:MOR_NEO
+CANDIDATE	id:10718	inCount:0	outCount:1	links:	url:10718	name:peristalsis	normalName:peristalsis	normalWikiTitle:peristalsis	predictedType:MOR_NEO
+CANDIDATE	id:32700	inCount:0	outCount:1	links:	url:32700	name:leucostasis	normalName:leucostasis	normalWikiTitle:leucostasis	predictedType:MOR_NEO
+ENTITY	text:hemangiomas	normalName:hemangiomas	predictedType:MOR_NEO	q:true	qid:Q307	docId:S0004-06142006000500002-2	origText:hemangiomas	url:NaN
+CANDIDATE	id:91200	inCount:0	outCount:1	links:	url:9120/0	name:Hemangioma, SAI	normalName:hemangioma,_sai	normalWikiTitle:hemangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91203	inCount:5	outCount:1	links:	url:9120/3	name:Hemangiosarcoma	normalName:hemangiosarcoma	normalWikiTitle:hemangiosarcoma	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:91611	inCount:0	outCount:1	links:	url:9161/1	name:Hemangioblastoma	normalName:hemangioblastoma	normalWikiTitle:hemangioblastoma	predictedType:MOR_NEO
+CANDIDATE	id:87120	inCount:0	outCount:1	links:	url:8712/0	name:Glomangioma	normalName:glomangioma	normalWikiTitle:glomangioma	predictedType:MOR_NEO
+CANDIDATE	id:91220	inCount:0	outCount:1	links:	url:9122/0	name:Hemangioma venoso	normalName:hemangioma_venoso	normalWikiTitle:hemangioma_venoso	predictedType:MOR_NEO
+CANDIDATE	id:91310	inCount:0	outCount:1	links:	url:9131/0	name:Hemangioma capilar	normalName:hemangioma_capilar	normalWikiTitle:hemangioma_capilar	predictedType:MOR_NEO
+CANDIDATE	id:88940	inCount:0	outCount:1	links:	url:8894/0	name:Angiomioma	normalName:angiomioma	normalWikiTitle:angiomioma	predictedType:MOR_NEO
+CANDIDATE	id:91230	inCount:0	outCount:1	links:	url:9123/0	name:Hemangioma racemoso	normalName:hemangioma_racemoso	normalWikiTitle:hemangioma_racemoso	predictedType:MOR_NEO
+CANDIDATE	id:87130	inCount:0	outCount:1	links:	url:8713/0	name:Glomangiomioma	normalName:glomangiomioma	normalWikiTitle:glomangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:1800	inCount:5	outCount:1	links:	url:D18.0	name:Hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+CANDIDATE	id:6542	inCount:6	outCount:1	links:	url:6542	name:hemangioma	normalName:hemangioma	normalWikiTitle:hemangioma	predictedType:MOR_NEO
+ENTITY	text:tumor de células de Leydig difuso	normalName:tumor_de_células_de_leydig_difuso	predictedType:MOR_NEO	q:true	qid:Q307	docId:S0004-06142006000500002-2	origText:tumor de células de Leydig difuso	url:NaN
+CANDIDATE	id:86501	inCount:0	outCount:1	links:	url:8650/1	name:Tumor de células de Leydig, SAI	normalName:tumor_de_células_de_leydig,_sai	normalWikiTitle:tumor_de_células_de_leydig,_sai	predictedType:MOR_NEO
+CANDIDATE	id:86500	inCount:0	outCount:1	links:	url:8650/0	name:Tumor benigno de células de Leydig	normalName:tumor_benigno_de_células_de_leydig	normalWikiTitle:tumor_benigno_de_células_de_leydig	predictedType:MOR_NEO
+CANDIDATE	id:86503	inCount:5	outCount:1	links:	url:8650/3	name:Tumor maligno de células de Leydig	normalName:tumor_maligno_de_células_de_leydig	normalWikiTitle:tumor_maligno_de_células_de_leydig	predictedType:MOR_NEO
+CANDIDATE	id:86331	inCount:0	outCount:1	links:	url:8633/1	name:Tumor de células de Sertoli-Leydig, retiforme	normalName:tumor_de_células_de_sertoli-leydig,_retiforme	normalWikiTitle:tumor_de_células_de_sertoli-leydig,_retiforme	predictedType:MOR_NEO
+CANDIDATE	id:95381	inCount:0	outCount:1	links:	url:9538/1	name:Meningioma de células claras	normalName:meningioma_de_células_claras	normalWikiTitle:meningioma_de_células_claras	predictedType:MOR_NEO
+CANDIDATE	id:80743	inCount:5	outCount:1	links:	url:8074/3	name:Carcinoma epidermoide de células fusiformes	normalName:carcinoma_epidermoide_de_células_fusiformes	normalWikiTitle:carcinoma_epidermoide_de_células_fusiformes	predictedType:MOR_NEO
+CANDIDATE	id:86600	inCount:0	outCount:1	links:	url:8660/0	name:Tumor de células del hilio	normalName:tumor_de_células_del_hilio	normalWikiTitle:tumor_de_células_del_hilio	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+CANDIDATE	id:86506	inCount:0	outCount:1	links:	url:8650/6	name:Tumor maligno de células de Leydig, metástasis	normalName:tumor_maligno_de_células_de_leydig,_metástasis	normalWikiTitle:tumor_maligno_de_células_de_leydig,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:99403	inCount:1	outCount:1	links:	url:9940/3	name:Leucemia de células peludas	normalName:leucemia_de_células_peludas	normalWikiTitle:leucemia_de_células_peludas	predictedType:MOR_NEO
+CANDIDATE	id:9100	inCount:3	outCount:1	links:	url:C91.A	name:Leucemia de células B maduras tipo Burkitt	normalName:leucemia_de_células_b_maduras_tipo_burkitt	normalWikiTitle:leucemia_de_células_b_maduras_tipo_burkitt	predictedType:MOR_NEO
+CANDIDATE	id:8303	inCount:10	outCount:1	links:	url:C83.3	name:Linfoma difuso de células B grandes	normalName:linfoma_difuso_de_células_b_grandes	normalWikiTitle:linfoma_difuso_de_células_b_grandes	predictedType:MOR_NEO
+CANDIDATE	id:83037	inCount:0	outCount:1	links:	url:C83.37	name:Linfoma difuso de células B grandes, bazo	normalName:linfoma_difuso_de_células_b_grandes,_bazo	normalWikiTitle:linfoma_difuso_de_células_b_grandes,_bazo	predictedType:MOR_NEO
+CANDIDATE	id:9104	inCount:3	outCount:1	links:	url:C91.4	name:Leucemia de células peludas	normalName:leucemia_de_células_peludas	normalWikiTitle:leucemia_de_células_peludas	predictedType:MOR_NEO
+CANDIDATE	id:8604	inCount:0	outCount:1	links:	url:C86.4	name:Linfoma de células NK blásticas	normalName:linfoma_de_células_nk_blásticas	normalWikiTitle:linfoma_de_células_nk_blásticas	predictedType:MOR_NEO
+CANDIDATE	id:8160	inCount:0	outCount:1	links:	url:8160	name:tumor de células de Leydig	normalName:tumor_de_células_de_leydig	normalWikiTitle:tumor_de_células_de_leydig	predictedType:MOR_NEO
+CANDIDATE	id:31050	inCount:2	outCount:3	links:	url:31050	name:tumor de células de Sertoli-Leydig	normalName:tumor_de_células_de_sertoli-leydig	normalWikiTitle:tumor_de_células_de_sertoli-leydig	predictedType:MOR_NEO
+CANDIDATE	id:30496	inCount:2	outCount:1	links:	url:30496	name:células del estroma	normalName:células_del_estroma	normalWikiTitle:células_del_estroma	predictedType:MOR_NEO
+CANDIDATE	id:33265	inCount:7	outCount:3	links:	url:33265	name:células endocrinas del intestino	normalName:células_endocrinas_del_intestino	normalWikiTitle:células_endocrinas_del_intestino	predictedType:MOR_NEO
+CANDIDATE	id:53853	inCount:0	outCount:2	links:	url:53853	name:células del mesófilo	normalName:células_del_mesófilo	normalWikiTitle:células_del_mesófilo	predictedType:MOR_NEO

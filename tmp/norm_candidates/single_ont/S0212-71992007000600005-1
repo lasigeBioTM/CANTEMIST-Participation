@@ -1,0 +1,28 @@
+ENTITY	text:tumor gastrointestinal	normalName:tumor_gastrointestinal	predictedType:MOR_NEO	q:true	qid:Q2346	docId:S0212-71992007000600005-1	origText:tumor gastrointestinal	url:NaN
+CANDIDATE	id:89363	inCount:5	outCount:1	links:	url:8936/3	name:Sarcoma del estroma gastrointestinal	normalName:sarcoma_del_estroma_gastrointestinal	normalWikiTitle:sarcoma_del_estroma_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:89361	inCount:0	outCount:1	links:	url:8936/1	name:Tumor del estroma gastrointestinal, SAI	normalName:tumor_del_estroma_gastrointestinal,_sai	normalWikiTitle:tumor_del_estroma_gastrointestinal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:89360	inCount:0	outCount:1	links:	url:8936/0	name:Tumor del estroma gastrointestinal, benigno	normalName:tumor_del_estroma_gastrointestinal,_benigno	normalWikiTitle:tumor_del_estroma_gastrointestinal,_benigno	predictedType:MOR_NEO
+CANDIDATE	id:81443	inCount:5	outCount:1	links:	url:8144/3	name:Adenocarcinoma, tipo intestinal	normalName:adenocarcinoma,_tipo_intestinal	normalWikiTitle:adenocarcinoma,_tipo_intestinal	predictedType:MOR_NEO
+CANDIDATE	id:89366	inCount:0	outCount:1	links:	url:8936/6	name:Sarcoma del estroma gastrointestinal, metástasis	normalName:sarcoma_del_estroma_gastrointestinal,_metástasis	normalWikiTitle:sarcoma_del_estroma_gastrointestinal,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94006	inCount:0	outCount:1	links:	url:9400/6	name:Astrocitoma, SAI, metástasis	normalName:astrocitoma,_sai,_metástasis	normalWikiTitle:astrocitoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:81531	inCount:0	outCount:1	links:	url:8153/1	name:Gastrinoma, SAI	normalName:gastrinoma,_sai	normalWikiTitle:gastrinoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:97173	inCount:1	outCount:1	links:	url:9717/3	name:Linfoma intestinal de células T	normalName:linfoma_intestinal_de_células_t	normalWikiTitle:linfoma_intestinal_de_células_t	predictedType:MOR_NEO
+CANDIDATE	id:94003	inCount:5	outCount:1	links:	url:9400/3	name:Astrocitoma, SAI	normalName:astrocitoma,_sai	normalWikiTitle:astrocitoma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:95370	inCount:0	outCount:1	links:	url:9537/0	name:Meningioma transicional	normalName:meningioma_transicional	normalWikiTitle:meningioma_transicional	predictedType:MOR_NEO
+CANDIDATE	id:89363	inCount:5	outCount:1	links:	url:8936/3	name:Sarcoma, estroma gastrointestinal	normalName:sarcoma,_estroma_gastrointestinal	normalWikiTitle:sarcoma,_estroma_gastrointestinal	predictedType:MOR_NEO
+CANDIDATE	id:89361	inCount:0	outCount:1	links:	url:8936/1	name:Tumor, estroma gastrointestinal, SAI	normalName:tumor,_estroma_gastrointestinal,_sai	normalWikiTitle:tumor,_estroma_gastrointestinal,_sai	predictedType:MOR_NEO
+CANDIDATE	id:893631	inCount:0	outCount:1	links:	url:8936/31	name:Sarcoma, estroma gastrointestinal - G1	normalName:sarcoma,_estroma_gastrointestinal_-_g1	normalWikiTitle:sarcoma,_estroma_gastrointestinal_-_g1	predictedType:MOR_NEO
+CANDIDATE	id:893632	inCount:0	outCount:1	links:	url:8936/32	name:Sarcoma, estroma gastrointestinal - G2	normalName:sarcoma,_estroma_gastrointestinal_-_g2	normalWikiTitle:sarcoma,_estroma_gastrointestinal_-_g2	predictedType:MOR_NEO
+CANDIDATE	id:893633	inCount:0	outCount:1	links:	url:8936/33	name:Sarcoma, estroma gastrointestinal - G3	normalName:sarcoma,_estroma_gastrointestinal_-_g3	normalWikiTitle:sarcoma,_estroma_gastrointestinal_-_g3	predictedType:MOR_NEO
+CANDIDATE	id:893634	inCount:0	outCount:1	links:	url:8936/34	name:Sarcoma, estroma gastrointestinal - G4	normalName:sarcoma,_estroma_gastrointestinal_-_g4	normalWikiTitle:sarcoma,_estroma_gastrointestinal_-_g4	predictedType:MOR_NEO
+ENTITY	text:metástasis	normalName:metástasis	predictedType:MOR_NEO	q:true	qid:Q2346	docId:S0212-71992007000600005-1	origText:metástasis	url:NaN
+CANDIDATE	id:90646	inCount:0	outCount:1	links:	url:9064/6	name:Germinoma , metástasis	normalName:germinoma_,_metástasis	normalWikiTitle:germinoma_,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88956	inCount:0	outCount:1	links:	url:8895/6	name:Miosarcoma, metástasis	normalName:miosarcoma,_metástasis	normalWikiTitle:miosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88006	inCount:0	outCount:1	links:	url:8800/6	name:Sarcoma, SAI, metástasis	normalName:sarcoma,_sai,_metástasis	normalWikiTitle:sarcoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:88406	inCount:0	outCount:1	links:	url:8840/6	name:Mixosarcoma, metástasis	normalName:mixosarcoma,_metástasis	normalWikiTitle:mixosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:93706	inCount:0	outCount:1	links:	url:9370/6	name:Cordoma, SAI, metástasis	normalName:cordoma,_sai,_metástasis	normalWikiTitle:cordoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:94426	inCount:0	outCount:1	links:	url:9442/6	name:Gliosarcoma, metástasis	normalName:gliosarcoma,_metástasis	normalWikiTitle:gliosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:89336	inCount:0	outCount:1	links:	url:8933/6	name:Adenosarcoma, metástasis	normalName:adenosarcoma,_metástasis	normalWikiTitle:adenosarcoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90606	inCount:0	outCount:1	links:	url:9060/6	name:Disgerminoma, metástasis	normalName:disgerminoma,_metástasis	normalWikiTitle:disgerminoma,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90616	inCount:0	outCount:1	links:	url:9061/6	name:Seminoma, SAI, metástasis	normalName:seminoma,_sai,_metástasis	normalWikiTitle:seminoma,_sai,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:90726	inCount:0	outCount:1	links:	url:9072/6	name:Poliembrioma , metástasis	normalName:poliembrioma_,_metástasis	normalWikiTitle:poliembrioma_,_metástasis	predictedType:MOR_NEO

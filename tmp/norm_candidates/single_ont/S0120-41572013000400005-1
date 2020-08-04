@@ -1,0 +1,56 @@
+ENTITY	text:neoplasia linfoide pleomorfa de células grandes	normalName:neoplasia_linfoide_pleomorfa_de_células_grandes	predictedType:MOR_NEO	q:true	qid:Q1109	docId:S0120-41572013000400005-1	origText:neoplasia linfoide pleomorfa de células grandes	url:NaN
+CANDIDATE	id:85500	inCount:0	outCount:1	links:	url:8550/0	name:Adenoma de células acinosas	normalName:adenoma_de_células_acinosas	normalWikiTitle:adenoma_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:80123	inCount:5	outCount:1	links:	url:8012/3	name:Carcinoma de células grandes, SAI	normalName:carcinoma_de_células_grandes,_sai	normalWikiTitle:carcinoma_de_células_grandes,_sai	predictedType:MOR_NEO
+CANDIDATE	id:85503	inCount:5	outCount:1	links:	url:8550/3	name:Carcinoma de células acinosas	normalName:carcinoma_de_células_acinosas	normalWikiTitle:carcinoma_de_células_acinosas	predictedType:MOR_NEO
+CANDIDATE	id:88916	inCount:0	outCount:1	links:	url:8891/6	name:Leiomiosarcoma epitelioide, metástasis	normalName:leiomiosarcoma_epitelioide,_metástasis	normalWikiTitle:leiomiosarcoma_epitelioide,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:87456	inCount:0	outCount:1	links:	url:8745/6	name:Melanoma desmoplásico, maligno, metástasis	normalName:melanoma_desmoplásico,_maligno,_metástasis	normalWikiTitle:melanoma_desmoplásico,_maligno,_metástasis	predictedType:MOR_NEO
+CANDIDATE	id:80833	inCount:5	outCount:1	links:	url:8083/3	name:Carcinoma basaloide de células escamosas	normalName:carcinoma_basaloide_de_células_escamosas	normalWikiTitle:carcinoma_basaloide_de_células_escamosas	predictedType:MOR_NEO
+CANDIDATE	id:83203	inCount:5	outCount:1	links:	url:8320/3	name:Carcinoma de células granulares	normalName:carcinoma_de_células_granulares	normalWikiTitle:carcinoma_de_células_granulares	predictedType:MOR_NEO
+CANDIDATE	id:83360	inCount:0	outCount:1	links:	url:8336/0	name:Adenoma trabecular hialinizante	normalName:adenoma_trabecular_hialinizante	normalWikiTitle:adenoma_trabecular_hialinizante	predictedType:MOR_NEO
+CANDIDATE	id:88913	inCount:5	outCount:1	links:	url:8891/3	name:Leiomiosarcoma epitelioide	normalName:leiomiosarcoma_epitelioide	normalWikiTitle:leiomiosarcoma_epitelioide	predictedType:MOR_NEO
+CANDIDATE	id:80313	inCount:5	outCount:1	links:	url:8031/3	name:Carcinoma de células gigantes	normalName:carcinoma_de_células_gigantes	normalWikiTitle:carcinoma_de_células_gigantes	predictedType:MOR_NEO
+ENTITY	text:linfoma T	normalName:linfoma_t	predictedType:MOR_NEO	q:true	qid:Q1109	docId:S0120-41572013000400005-1	origText:linfoma T	url:NaN
+CANDIDATE	id:85610	inCount:0	outCount:1	links:85610	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:91740	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:83240	inCount:0	outCount:1	links:83240	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:94421	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:91700	inCount:0	outCount:1	links:91700	url:9170/0	name:Linfangioma, SAI	normalName:linfangioma,_sai	normalWikiTitle:linfangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:82710	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:91730	inCount:0	outCount:1	links:	url:9173/0	name:Linfangioma quístico	normalName:linfangioma_quístico	normalWikiTitle:linfangioma_quístico	predictedType:MOR_NEO
+CANDIDATE	id:91741	inCount:0	outCount:1	links:	url:9174/1	name:Linfangiomiomatosis	normalName:linfangiomiomatosis	normalWikiTitle:linfangiomiomatosis	predictedType:MOR_NEO
+ENTITY	text:leucemia de células T	normalName:leucemia_de_células_t	predictedType:MOR_NEO	q:true	qid:Q1109	docId:S0120-41572013000400005-1	origText:leucemia de células T	url:NaN
+CANDIDATE	id:99403	inCount:1	outCount:1	links:	url:9940/3	name:Leucemia de células peludas	normalName:leucemia_de_células_peludas	normalWikiTitle:leucemia_de_células_peludas	predictedType:MOR_NEO
+CANDIDATE	id:98003	inCount:5	outCount:1	links:980038;980037;980036;980035	url:9800/3	name:Leucemia, SAI	normalName:leucemia,_sai	normalWikiTitle:leucemia,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98203	inCount:5	outCount:1	links:	url:9820/3	name:Leucemia linfoide, SAI	normalName:leucemia_linfoide,_sai	normalWikiTitle:leucemia_linfoide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:98603	inCount:5	outCount:1	links:	url:9860/3	name:Leucemia mieloide, SAI	normalName:leucemia_mieloide,_sai	normalWikiTitle:leucemia_mieloide,_sai	predictedType:MOR_NEO
+CANDIDATE	id:980037	inCount:0	outCount:1	links:980037	url:9800/37	name:Leucemia, SAI - células nulas	normalName:leucemia,_sai_-_células_nulas	normalWikiTitle:leucemia,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:97423	inCount:1	outCount:1	links:	url:9742/3	name:Leucemia de mastocitos	normalName:leucemia_de_mastocitos	normalWikiTitle:leucemia_de_mastocitos	predictedType:MOR_NEO
+CANDIDATE	id:982037	inCount:0	outCount:1	links:	url:9820/37	name:Leucemia linfoide, SAI - células nulas	normalName:leucemia_linfoide,_sai_-_células_nulas	normalWikiTitle:leucemia_linfoide,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:986037	inCount:0	outCount:1	links:	url:9860/37	name:Leucemia mieloide, SAI - células nulas	normalName:leucemia_mieloide,_sai_-_células_nulas	normalWikiTitle:leucemia_mieloide,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:99103	inCount:5	outCount:1	links:	url:9910/3	name:Leucemia megacarioblástica aguda	normalName:leucemia_megacarioblástica_aguda	normalWikiTitle:leucemia_megacarioblástica_aguda	predictedType:MOR_NEO
+CANDIDATE	id:99633	inCount:1	outCount:1	links:	url:9963/3	name:Leucemia neutrofílica crónica	normalName:leucemia_neutrofílica_crónica	normalWikiTitle:leucemia_neutrofílica_crónica	predictedType:MOR_NEO
+CANDIDATE	id:99403	inCount:1	outCount:1	links:	url:9940/3	name:Leucemia, cél peludas	normalName:leucemia,_cél_peludas	normalWikiTitle:leucemia,_cél_peludas	predictedType:MOR_NEO
+ENTITY	text:leucemia / linfoma de células T	normalName:leucemia_/_linfoma_de_células_t	predictedType:MOR_NEO	q:true	qid:Q1109	docId:S0120-41572013000400005-1	origText:leucemia / linfoma de células T	url:NaN
+CANDIDATE	id:980035	inCount:0	outCount:1	links:98003	url:9800/35	name:Leucemia, SAI - células T	normalName:leucemia,_sai_-_células_t	normalWikiTitle:leucemia,_sai_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:980036	inCount:0	outCount:1	links:98003	url:9800/36	name:Leucemia, SAI - células B	normalName:leucemia,_sai_-_células_b	normalWikiTitle:leucemia,_sai_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:980038	inCount:0	outCount:1	links:98003	url:9800/38	name:Leucemia, SAI - células NK	normalName:leucemia,_sai_-_células_nk	normalWikiTitle:leucemia,_sai_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:99483	inCount:1	outCount:1	links:	url:9948/3	name:Leucemia de células NK agresiva	normalName:leucemia_de_células_nk_agresiva	normalWikiTitle:leucemia_de_células_nk_agresiva	predictedType:MOR_NEO
+CANDIDATE	id:83230	inCount:0	outCount:1	links:	url:8323/0	name:Adenoma de células mixtas	normalName:adenoma_de_células_mixtas	normalWikiTitle:adenoma_de_células_mixtas	predictedType:MOR_NEO
+CANDIDATE	id:987035	inCount:0	outCount:1	links:	url:9870/35	name:Leucemia basófila aguda - células T	normalName:leucemia_basófila_aguda_-_células_t	normalWikiTitle:leucemia_basófila_aguda_-_células_t	predictedType:MOR_NEO
+CANDIDATE	id:987036	inCount:0	outCount:1	links:	url:9870/36	name:Leucemia basófila aguda - células B	normalName:leucemia_basófila_aguda_-_células_b	normalWikiTitle:leucemia_basófila_aguda_-_células_b	predictedType:MOR_NEO
+CANDIDATE	id:980037	inCount:0	outCount:1	links:980037	url:9800/37	name:Leucemia, SAI - células nulas	normalName:leucemia,_sai_-_células_nulas	normalWikiTitle:leucemia,_sai_-_células_nulas	predictedType:MOR_NEO
+CANDIDATE	id:987038	inCount:0	outCount:1	links:	url:9870/38	name:Leucemia basófila aguda - células NK	normalName:leucemia_basófila_aguda_-_células_nk	normalWikiTitle:leucemia_basófila_aguda_-_células_nk	predictedType:MOR_NEO
+CANDIDATE	id:81700	inCount:0	outCount:1	links:	url:8170/0	name:Adenoma de células hepáticas	normalName:adenoma_de_células_hepáticas	normalWikiTitle:adenoma_de_células_hepáticas	predictedType:MOR_NEO
+ENTITY	text:linfoma	normalName:linfoma	predictedType:MOR_NEO	q:true	qid:Q1109	docId:S0120-41572013000400005-1	origText:linfoma	url:NaN
+CANDIDATE	id:85610	inCount:0	outCount:1	links:85610	url:8561/0	name:Adenolinfoma	normalName:adenolinfoma	normalWikiTitle:adenolinfoma	predictedType:MOR_NEO
+CANDIDATE	id:83240	inCount:0	outCount:1	links:83240	url:8324/0	name:Lipoadenoma	normalName:lipoadenoma	normalWikiTitle:lipoadenoma	predictedType:MOR_NEO
+CANDIDATE	id:88950	inCount:0	outCount:1	links:88950	url:8895/0	name:Mioma	normalName:mioma	normalWikiTitle:mioma	predictedType:MOR_NEO
+CANDIDATE	id:91740	inCount:0	outCount:1	links:91740	url:9174/0	name:Linfangiomioma	normalName:linfangiomioma	normalWikiTitle:linfangiomioma	predictedType:MOR_NEO
+CANDIDATE	id:94421	inCount:0	outCount:1	links:94421	url:9442/1	name:Gliofibroma	normalName:gliofibroma	normalWikiTitle:gliofibroma	predictedType:MOR_NEO
+CANDIDATE	id:91700	inCount:0	outCount:1	links:91700	url:9170/0	name:Linfangioma, SAI	normalName:linfangioma,_sai	normalWikiTitle:linfangioma,_sai	predictedType:MOR_NEO
+CANDIDATE	id:91750	inCount:0	outCount:1	links:91750	url:9175/0	name:Hemolinfangioma	normalName:hemolinfangioma	normalWikiTitle:hemolinfangioma	predictedType:MOR_NEO
+CANDIDATE	id:82710	inCount:0	outCount:1	links:82710	url:8271/0	name:Prolactinoma	normalName:prolactinoma	normalWikiTitle:prolactinoma	predictedType:MOR_NEO
+CANDIDATE	id:88800	inCount:0	outCount:1	links:	url:8880/0	name:Hibernoma 	normalName:hibernoma_	normalWikiTitle:hibernoma_	predictedType:MOR_NEO
+CANDIDATE	id:90643	inCount:5	outCount:1	links:	url:9064/3	name:Germinoma 	normalName:germinoma_	normalWikiTitle:germinoma_	predictedType:MOR_NEO
