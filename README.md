@@ -16,20 +16,22 @@ To install all the necessary dependencies to run the code:
 
 ## 1. CANTEMIST-NER
 
-- Train Spanish Biomedical Flair Embeddings: pre-processes Spanish PubMed abstracts and then trains the FLAIR embeddings on the raw text.
+#### Train Spanish Biomedical Flair Embeddings: 
+pre-processes Spanish PubMed abstracts and then trains the FLAIR embeddings on the raw text.
 
 ```
 python3 src/NER/train_flair_embeddings.py <mesinesp_subset> <direction>
 ```
 
 Args:
-  - <mesinesp_subset> : mesinesp_1, mesinesp_2, mesinesp_3 or mesinesp_4; each subset contains the raw text of ~32500 PubMed abstracts.
+  * <mesinesp_subset> : mesinesp_1, mesinesp_2, mesinesp_3 or mesinesp_4; each subset contains the raw text of ~32500 PubMed abstracts.
   - \<direction> : is 'fwd' if training foward language model and 'bwd' if training backward language model.
 
 The output will be in '/trained\_embeddings/<mesinesp_subset>/\<direction>/' directory.
 
 
-- Train Spanish Biomedical NER tagger: converts the CANTEMIST dataset to IOB2 schema and then trains a NER tagger with the Spanish Biomedical Flair embeddings.
+#### Train Spanish Biomedical NER tagger: 
+converts the CANTEMIST dataset to IOB2 schema and then trains a NER tagger with the Spanish Biomedical Flair embeddings.
 
 ```
 python3 src/NER/train_ner_model.py medium 
@@ -37,7 +39,8 @@ python3 src/NER/train_ner_model.py medium
 
 The output will be in '/resources/taggers/medium' directory.
 
-- Apply the NER tagger to the test set of CANTEMIST corpus: predicts the entities present in the text, as well their location and builds the annotation files.
+#### Apply the NER tagger to the test set of CANTEMIST corpus: 
+predicts the entities present in the text, as well their location and builds the annotation files.
 
 ```
 python3 src/NER/predict_ner.py
@@ -47,7 +50,8 @@ The annotation files will be in './evaluation/NER/' directory.
 
 
 ## 2. CANTEMIST-NORM
-To find the CIE-O-3 code for each entity outputed by the NER tagger:
+
+#### To find the CIE-O-3 code for each entity outputed by the NER tagger:
 
 ```
 ./norm.sh <ont_number> 
@@ -59,7 +63,8 @@ Arg:
 The annotation files will be in './evaluation/NORM/<ont_number>' directory
 
 
-- Alternative: use [merpy](https://pypi.org/project/merpy/) to annotate the documents.
+#### Alternative: 
+use [merpy](https://pypi.org/project/merpy/) to annotate the documents.
 
 ```
 python3 src/NER/mer_annotate.py <task> <subset>
