@@ -12,7 +12,7 @@ wget https://temu.bsc.es/cantemist/wp-content/uploads/2020/07/valid-codes.txt
 wget https://www.mscbs.gob.es/estadEstudios/estadisticas/normalizacion/CIE10/CIE10_2020_DIAGNOST_REFERENCIA_2019_10_04_1.xlsx
 
 #Download Spanish DeCS
-wget
+#wget
 
 #Get embeddings trained on Spanish PubMed abstracts and decompress trained NER tagger
 cd ../../
