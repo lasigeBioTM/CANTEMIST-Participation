@@ -64,15 +64,15 @@ The annotation files will be in './evaluation/NORM/<ont_number>' directory
 
 
 #### Alternative: 
-use [merpy](https://pypi.org/project/merpy/) to annotate the documents.
+uses [merpy](https://pypi.org/project/merpy/) to annotate the documents.
 
 ```
 python3 src/NER/mer_annotate.py <task> <subset>
 ```
 
 Args:
-  - <task> : 'ner' or 'norm'
-  - <subset> : 'train', 'dev1', 'dev2' or 'test'
+  - \<task> : 'ner' or 'norm'
+  - \<subset> : 'train', 'dev1', 'dev2' or 'test'
 
 The annotation files will be in './mer_annotations/<task>/<subset>' directory.
 
