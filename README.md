@@ -78,35 +78,78 @@ The annotation files will be in './mer_annotations/<task>/<subset>' directory.
 
 
 ## 3. CANTEMIST-CODING
-1. Pre-process the Cantemist dataset.
-
+### Train the model
+convert the CANTEMIST dataset to a suitable format to X-Transformer(https://github.com/OctoberChang/X-Transformer)
 ```
-python proc_data_cantemist.py -i cantemist_data/ -o proc_data_output/
-````
-
-2. Create a folder inside the X-Transformer/datasets/ and copy the proc_data_cantemist.py over there.
-
+./proc_data.sh
 ```
-cd X-Transformer/datasets/
-mkdir CANTEMIST
-cd CANTEMIST
-mkdir mapping
+returns 2 datasets: CANTEMIST and CANTEMIST_2. The last will have 249 more documents on the train set that are coming from the dev-set1.
+Move to X-Transformer directory 
 ```
-Returns tst_CANTEMIST.pred.npz in 'X-Transformer/save_models/CANTEMIST/pifa-a5-s0/ranker_bert-base-multilingual-cased/
-
-3. Execute run_X-Transformer_CANTEMIST.sh 
-
+cd X-Transformer
 ```
-./run_ X-Transformer_CANTEMIST.sh CANTEMIST bert-base-multilingual-cased
+Get the custom models
 ```
-
-4. Rename of the output of run_X-Transformer_CANTEMIST.sh to tst.pred.npz and copy to X-Transformer_results.
-
-5. Run  proc_npz_cantemist.py.
-
+./get_custom_models
 ```
-python proc_npz_cantemist.py -npz results_X-Transformer/tst.pred.npz -i1 cantemist_data/dev-set2-to-publish/cantemist-coding/txt/ -i2 proc_data_output/ -o predictions_final/
+For this task the models available are:
+- BERT Base Multilingual Cased
+- BETO:Spanish BERT
+- DeCS_Titles_MER
+- DeCS_Titles_MER_L
+
+Unlike NER and NORM in the next step it is necessary that the version of transformers is 2.2.2
 ```
+pip install transformers==2.2.2
+```
+execute run_X-Transformer_CANTEMIST.sh specifying the model to use
+```
+./run_X-Transformer_CANTEMIST.sh CANTEMIST bert-base-multilingual-cased
+```
+convert the predictions of X-Transformer to .tsv format
+```
+python proc_npz_cantemist.py \
+-npz X-Transformer/save_models/CANTEMIST/pifa-a5-s0/ranker_bert-base-multilingual-cased/tst.pred.npz \
+-i1 cantemist_data/dev-set2-to-publish/cantemist-coding/txt/ \
+-i2 proc_data_output/ \
+-o predictions_CANTEMIST_bert-base-multilingual-cased/
+```
+Returns 4 .tsv files, each one with a different value of cofidence for the predictions. 3 files will have predictions based on the best values achieved in the precision. recall and f-score measures.
+The 4th file ("baseline") uses a value of cofidence equal to 0.
+
+### Predictions for test background set
+ convert the test and background sets to a suitable format to X-Transformer
+```
+python proc_test_set_cantemist.py \
+-i1 cantemist_data/ \
+-i2 proc_data_output/ \
+-o test_aval/
+```
+Returns 48 test files with the respective label and text files. Each test file is composed by 109 lines from the test-background set documents and the remaning 141 are from dev-set1 that will be used to chose the value of confidence to the predictions.
+ 
+execute run_CANTEMIST_aval.sh specifying the model to use
+```
+./run_CANTEMIST_aval.sh CANTEMIST bert-base-multilingual-cased
+```
+Returns the prediction for each one of the 48 files
+
+execute the proc_npz_test_set_cantemist.py:
+```
+python proc_npz_test_set_cantemist.py \
+-npz X-Transformer/save_models/CANTEMIST_Aval/pifa-a5-s0/ranker_CANTEMIST_bert-base-multilingual-cased/ \
+-i1 cantemist_data/ \
+-i2 proc_data_output/ \
+-o predictions_test_aval/
+```
+Returns the  .tsv files with the predictions for test background sets documents. 
+
+
+
+
+
+
+
+
 
 ## Evaluation
 To use the official scripts refer to [CANTEMIST EVALUATION LIBRARY](https://github.com/TeMU-BSC/cantemist-evaluation-library).
