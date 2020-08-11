@@ -2,7 +2,7 @@ mkdir data data/datasets data/vocabularies
 
 #Download CANTEMIST corpus:
 cd data/datasets
-wget https://zenodo.org/record/3952175/files/cantemist.zip?download=1
+wget https://zenodo.org/record/3952175/files/cantemist.zip
 
 #Download CIEO3 valid codes
 cd ../vocabularies
@@ -16,9 +16,9 @@ wget https://www.mscbs.gob.es/estadEstudios/estadisticas/normalizacion/CIE10/CIE
 
 #Get embeddings trained on Spanish PubMed abstracts and decompress trained NER tagger
 cd ../../
-wget https://zenodo.org/record/3971862/files/resources.zip?download=1
+wget https://zenodo.org/record/3971862/files/resources.zip
 unzip resources.zip
-wget https://zenodo.org/record/3971862/files/trained_embeddings.zip?download=1
+wget https://zenodo.org/record/3971862/files/trained_embeddings.zip
 unzip trained_embeddings.zip
 
 
