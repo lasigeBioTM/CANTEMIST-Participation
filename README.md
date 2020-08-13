@@ -79,18 +79,19 @@ The annotation files will be in './mer_annotations/<task>/<subset>' directory.
 
 ## 3. CANTEMIST-CODING
 ### Train the model
-convert the CANTEMIST dataset to a suitable format to X-Transformer(https://github.com/OctoberChang/X-Transformer)
+Convert the CANTEMIST dataset to a suitable format to X-Transformer(https://github.com/OctoberChang/X-Transformer)
 ```
 ./proc_data.sh
 ```
-returns 2 datasets: CANTEMIST and CANTEMIST_2. The last will have 249 more documents on the train set that are coming from the dev-set1.
-Move to X-Transformer directory 
+Returns 2 datasets: CANTEMIST and CANTEMIST_2. The last will have 249 more documents on the train set that are coming from the dev-set1.
+
+Unlike NER and NORM in the next step it is necessary that the version of transformers is 2.2.2
 ```
-cd X-Transformer
+pip install transformers==2.2.2
 ```
-Get the custom models
+Execute run_X-Transformer_CANTEMIST.sh specifying the model to use
 ```
-./get_custom_models
+./run_X-Transformer_CANTEMIST.sh CANTEMIST bert-base-multilingual-cased
 ```
 For this task the models available are:
 - BERT Base Multilingual Cased
@@ -98,15 +99,7 @@ For this task the models available are:
 - DeCS_Titles_MER
 - DeCS_Titles_MER_L
 
-Unlike NER and NORM in the next step it is necessary that the version of transformers is 2.2.2
-```
-pip install transformers==2.2.2
-```
-execute run_X-Transformer_CANTEMIST.sh specifying the model to use
-```
-./run_X-Transformer_CANTEMIST.sh CANTEMIST bert-base-multilingual-cased
-```
-convert the predictions of X-Transformer to .tsv format
+Convert the predictions of X-Transformer to .tsv format
 ```
 python proc_npz_cantemist.py \
 -npz X-Transformer/save_models/CANTEMIST/pifa-a5-s0/ranker_bert-base-multilingual-cased/tst.pred.npz \
@@ -118,7 +111,7 @@ Returns 4 .tsv files, each one with a different value of cofidence for the predi
 The 4th file ("baseline") uses a value of cofidence equal to 0.
 
 ### Predictions for test background set
- convert the test and background sets to a suitable format to X-Transformer
+Convert the test and background sets to a suitable format to X-Transformer
 ```
 python proc_test_set_cantemist.py \
 -i1 cantemist_data/ \
@@ -127,13 +120,13 @@ python proc_test_set_cantemist.py \
 ```
 Returns 48 test files with the respective label and text files. Each test file is composed by 109 lines from the test-background set documents and the remaning 141 are from dev-set1 that will be used to chose the value of confidence to the predictions.
  
-execute run_CANTEMIST_aval.sh specifying the model to use
+Execute run_CANTEMIST_aval.sh specifying the model to use
 ```
 ./run_CANTEMIST_aval.sh CANTEMIST bert-base-multilingual-cased
 ```
 Returns the prediction for each one of the 48 files
 
-execute the proc_npz_test_set_cantemist.py:
+Execute the proc_npz_test_set_cantemist.py:
 ```
 python proc_npz_test_set_cantemist.py \
 -npz X-Transformer/save_models/CANTEMIST_Aval/pifa-a5-s0/ranker_CANTEMIST_bert-base-multilingual-cased/ \
