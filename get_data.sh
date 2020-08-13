@@ -16,11 +16,15 @@ wget https://www.mscbs.gob.es/estadEstudios/estadisticas/normalizacion/CIE10/CIE
 
 #Get embeddings trained on Spanish PubMed abstracts and decompress trained NER tagger
 cd ../../
-wget https://zenodo.org/record/3971862/files/resources.zip
+wget https://zenodo.org/record/3982487/files/resources.zip
 unzip resources.zip
-wget https://zenodo.org/record/3971862/files/trained_embeddings.zip
+wget https://zenodo.org/record/3982487/files/trained_embeddings.zip
 unzip trained_embeddings.zip
 
+#Get the custom models for the Coding subtask
+cd X-Transformer/
+wget https://zenodo.org/record/3982487/files/custom_models.zip
+unzip custom_models.zip
 
 
 
