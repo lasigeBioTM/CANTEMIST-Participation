@@ -1,6 +1,9 @@
 # CANTEMIST-Participation
 Code relative to the participation of the lasigeBioTM team in the [CANTEMIST-CANcer TExt Mining Shared Task – tumor named entity recognition](https://temu.bsc.es/cantemist/).
 
+## Reference
+- P. Ruas, A. Neves, V. D. Andrade, F. M. Couto,  Lasigebiotm at cantemist: [Named entity recognition and normalization of tumour morphology entities and clinical coding of spanish health-related documents](http://ceur-ws.org/Vol-2664/cantemist_paper11.pdf), in: Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020), CEUR Workshop Proceedings, 2020
+
 ## Preparation
 Get the necessary data to reproduce the experiments:
 
